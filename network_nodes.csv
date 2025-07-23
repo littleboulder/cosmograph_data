@@ -1,1560 +1,1560 @@
-Author,id,College,Status
-J. Wu,Jiaqian Wu,COMP,Student
-C. Kim,Chul Kim,CPM,Faculty
-Y. J. Kim,Young Joo Kim,CVM,Faculty
-D. Han,Danny Han,COP,Student
-A. Gupta,Anushree Gupta,COMP,Faculty
-J. M. Norian,John M. Norian,COMP,Faculty
-J. Nelson,J. Michael Nelson,COMP,Faculty
-T. Tan,Tiffany Tan,COMP,Student
-S. Patel,Saloni Patel,COP,Student
-H. M. Nguyen,Hieu T M. Nguyen,COMP,Faculty
-T. Wood,Timothy Wood,CHS,Faculty
-F. G. Thankam,Finosh G. Thankam,COMP,Faculty
-J. G. Ayoub,Joelle G. Ayoub,COP,Faculty
-M. M. R. Ahmed,Mohamed   Radwan Ahmed,COMP,Faculty
-D. R. Wilson,Daniel R. Wilson,COMP,Faculty
-R. Moellmer,Rebecca Moellmer,CPM,Faculty
-E. Rega,Elizabeth Rega,COMP,Faculty
-S. S. Sumida,Stuart S. Sumida,COMP,Faculty
-J. Tam,Janelle Tam,CDM,Student
-D. Shofler,David Shofler,CPM,Faculty
-C. Liu,Chunming Liu,CO,Faculty
-D. Lee,David Lee,COMP,Faculty
-J. Lee,Jongmi Lee,COP,Faculty
-D. J. Sanchez,David Jesse Sanchez,COP,Faculty
-H. Singh,Hitasha Singh,COMP,Faculty
-J. Huynh,Jasmine Huynh,COP,Student
-W. Fang,William Fang,CDM,Student
-E. A. Rega,Elizabeth A. Rega,COMP,Faculty
-A. Lee,Alexander Lee,CDM,Faculty
-C. Diaz,Cindy Diaz,CO,Student
-E. Hoppe,Elizabeth Hoppe,CO,Faculty
-I. Chung,Ida Chung,CO,Faculty
-D. J. Cameron,D. Joshua Cameron,CO,Faculty
-N. K. Yadav,Naveen Kumar Yadav,CO,Faculty
-C. S. Boosani,Chandra Shekhar Boosani,COMP,Faculty
-A. Pumerantz,Andrew Pumerantz,COMP,Faculty
-J. Wang,Joe Wang,CDM,Faculty
-S. Agrawal,Suneil Agrawal,COMP,Faculty
-M. Nguyen,My Van Nguyen,COMP,Faculty
-R. Kuan,Rebecca Kuan,COMP,Student
-M. Liu,Michelle Liu,CHS,Student
-S. M. Farahfranco,Sandra M Farah-Franco,CDM,Faculty
-E. A. Andrews,Elizabeth Ann Andrews,CDM,Faculty
-S. Rowan,Sean Rowan,CVM,Student
-F. Dong,Fanglong Dong,GCBS,Faculty
-E. Andrews,Elizabeth Andrews,CDM,Faculty
-S. R. Shah,Samantha R. Shah,COMP,Faculty
-Y. Wang,Yubin   Wang,CPM,Faculty
-M. Baudry,Michel Baudry,GCBS,Faculty
-H. Deoghare,Harshavardhan Deoghare,CHS,Faculty
-C. C. White,Candice C.. White,CDM,Faculty
-J. Tran,Jimmy Tran,CDM,Faculty
-X. Bi,Xiaoning Bi,COMP,Faculty
-M. Ly,Meisan Ly,CGN,Student
-T. K. Boehm,Tobias K Boehm,CDM,Faculty
-M. Yu,Minho Yu,COMP,Faculty
-Q. Q. Li,Qingshun Quinn Li,GCBS,Faculty
-D. Yang,David Yang,CO,Student
-J. A. Elo,Jeffrey A Elo,CDM,Faculty
-H. K. Chan,Hubert K. Chan,CDM,Faculty
-B. S. Henson,Bradley S. Henson,CDM,Faculty
-R. D. Stevenson,Robert D. Stevenson,CDM,Faculty
-G. Pape,Gary Pape,CDM,Faculty
-B. Benninger,Brion   Benninger,COMP,Faculty
-A. Peterson,Amber Peterson,COMP,Student
-T. Boehm,Tobias Boehm,CDM,Faculty
-J. B. Lewis,Jack B. Lewis,CHS,Faculty
-A. Tran,Andrew Tran,COP,Student
-K. Vu,Katelyn Vu,COMP,Student
-K. Lutfy,Kabirullah Lutfy,COP,Faculty
-C. A. Nosrat,Christopher A Nosrat,CDM,Faculty
-L. Oconnor,Lucian O'Connor,CDM,Faculty
-A. E. D. Van,Anne E. Doan Van,CDM,Faculty
-P. Simeteys,Paul Simeteys,CDM,Faculty
-M. K. Watanabe,Marisa Kawata Watanabe,CDM,Faculty
-E. Lee,Erin Lee,COP,Student
-A. L. Lee,Alexander L Lee,CDM,Faculty
-M. Covasa,Mihai Covasa,COMP,Faculty
-J. M. Laudenbach,Joel M.. Laudenbach,CDM,Faculty
-S. J. Aston,Sheree J. Aston,CO,Faculty
-A. Lam,Annie Lam,COP,Student
-K. Nguyen,Kelly Nguyen,COP,Student
-B. Mcallister,Bennett McAllister,CO,Faculty
-T. Harris,Tiffenie Harris,CO,Faculty
-M. Neiberg,Maryke Neiberg,CO,Faculty
-J. Lin,Jennifer Lin,COMP,Faculty
-R. W. Hicks,Rodney W Hicks,CGN,Faculty
-C. Li,Cameron Li,CVM,Student
-M. Chan,Matthew Chan,COP,Student
-A. D. Van,Anne E. Doan Van,CDM,Faculty
-K. Hines,Kelli Hines,COMP,Faculty
-B. P. Kraatz,Brian P Kraatz,COMP,Faculty
-M. J. Wedel,Mathew J. Wedel,COMP,Faculty
-D. Seleem,Dalia   Seleem,CDM,Faculty
-A. Ha,Allyssa Ha,COMP,Student
-S. Mirfarsi,Sahar   Mirfarsi,CDM,Faculty
-K. Matsumuralem,Karen Matsumura-Lem,CDM,Faculty
-S. A. Gold,Steven A Gold,CDM,Faculty
-M. P. Fraix,Marcel P. Fraix,COMP,Faculty
-A. Sathananthan,Airani Sathananthan,COMP,Faculty
-J. K. Chan,James K. Chan,CHS,Faculty
-V. Venketaraman,Vishwanath Venketaraman,COMP,Faculty
-B. Diep,Bryant Diep,CVM,Student
-B. Fung,Brent Fung,CDM,Faculty
-B. Chui,Brian Chui,CDM,Faculty
-C. A. Goode,Christina Ann. Goode,GCBS,Faculty
-M. Gutierrez,Marco Gutierrez,CHS,Student
-N. Mohseni,Nazleen Mohseni,CVM,Student
-M. Chang,Megan Chang,COMP,Student
-H. Burger,Hannah Burger,CVM,Student
-M. Peters,Mykah Peters,CVM,Student
-E. Chen,Eugene Chen,CO,Student
-I. Kang,Ilho Kang,COMP,Faculty
-Y. Xiong,Yijia Xiong,COMP,Faculty
-S. Chatterjee,Sudarshan Chatterjee,COMP,Faculty
-E. Moore,Emily Moore,CHS,Student
-J. Borke,James   Borke,CDM,Faculty
-R. Desai,Raina Desai,COMP,Student
-A. S. Pumerantz,Andrew S Pumerantz,COMP,Faculty
-J. T. Hostetler,Josih T. Hostetler,CDM,Faculty
-K. Lee,Kara Lee,COP,Student
-J. Tegzes,John   Tegzes,CVM,Faculty
-E. Katsaros,Emmanuel Katsaros,COMP,Faculty
-L. Liggan,Lindsey Liggan,CHS,Faculty
-C. Pham,Christine Pham,CO,Faculty
-S. Chui,Sam   Chui,CDM,Faculty
-Y. Peng,Yawen Peng,CDM,Faculty
-S. Y. Kang,Shirley Y. Kang,CDM,Faculty
-Y. Hong,Yiling Hong,CVM,Faculty
-L. Chang,Lee-Wen Chang,CVM,Student
-Z. Tumur,Zohra Tumur,CHS,Student
-C. Parsa,Cyrus Parsa,COMP,Faculty
-R. P. Kandpal,Raj P. Kandpal,COMP,Faculty
-S. Standley,Steve   Standley,GCBS,Faculty
-Y. Luo,Yun(Lyna) Luo,COP,Faculty
-W. Wang,Weijie Wang,COMP,Student
-S. W. Friedrichsen,Steven W. Friedrichsen,CDM,Faculty
-H. M. Singh,Hardev M.. Singh,CDM,Faculty
-P. G. Davey,Pinakin G. Davey,CO,Faculty
-F. Rodriguezparis,Fernando Rodriguez-Paris,CDM,Faculty
-N. Venugopal,Nithya   Venugopal,CDM,Faculty
-D. E. Miulli,Daniel E. Miulli,CHS,Faculty
-T. S. Martinez,Timothy S Martinez,CDM,Faculty
-A. Luong,Amanda Luong,CVM,Student
-N. Ali,Najia Ali,COMP,Student
-R. Shah,Rahul Shah,COMP,Student
-J. Lewis,Jill Lewis,CDM,Faculty
-R. Hasel,Robert Hasel,CDM,Faculty
-J. Ywom,James Ywom,CDM,Faculty
-M. Singh,Menmeet Singh,CDM,Faculty
-L. Tong,Lane Tong,COMP,Student
-P. Kaur,Prabhleen Kaur,COMP,Student
-B. Le,Brian Le,CO,Student
-E. Kahng,Eunice Kahng,CVM,Student
-M. Mir,Mohammad Mir,CVM,Faculty
-J. Huang,Jia Huang,COMP,Student
-J. Lai,Jessica Lai,COMP,Student
-C. Yang,Chiana Yang,COMP,Student
-A. Espinosa,Alexia Espinosa,CGN,Student
-K. R. Boyer,Keith R Boyer,CDM,Faculty
-B. S. Chui,Brian S Chui,CDM,Faculty
-V. L. Wedel,Vicki L. Wedel,COMP,Faculty
-M. Lee,Michelle Lee,COP,Faculty
-L. Zhong,Li Zhong,COMP,Faculty
-C. Gomez,Christian Gomez,COMP,Student
-D. A. Lazarchik,David A Lazarchik,CDM,Faculty
-D. Patel,Dhrupalkumar Patel,COP,Student
-S. Hosseini,Sareh Hosseini,CPM,Student
-J. S. Park,Jin S. Park,COMP,Faculty
-C. Lee,Christopher Lee,COP,Student
-Q. T. Edwards,Quannetta T. Edwards,CGN,Faculty
-G. Orozco,Gwendelyn   Orozco,CGN,Faculty
-R. Hicks,Rodney Hicks,CGN,Faculty
-L. R. Ponsford,Lisa R Ponsford,CGN,Faculty
-Q. H. Nguyen,Quynh-Nhu H.. Nguyen,COP,Faculty
-M. A. Weaver,Michelle A Weaver,CGN,Faculty
-D. Lithgow,Diana Lithgow,CGN,Faculty
-R. J. Mays,R. Juanita Mays,CGN,Faculty
-I. C. Tuason,Ivy C Tuason,CGN,Faculty
-R. Trudgeon,Ruth   Trudgeon,CGN,Faculty
-D. Stone,Dawn Stone,CGN,Faculty
-J. Boller,Jan Boller,CGN,Faculty
-M. Lopez,Mary Lopez,CGN,Faculty
-P. Mccluskeyandre,PattI McCluskey-Andre,CGN,Faculty
-M. Miller,Mykel Miller,COMP,Student
-Q. A. Le,Quang A Le,COP,Faculty
-K. J. Dang,"Khoa ""Joey"". Dang",CGN,Faculty
-J. Chung,Joseph Chung,CHS,Student
-W. Le,William Le,CHS,Student
-A. Melendez,Alondra Melendez,CHS,Student
-K. Tanaka,Kimi Tanaka,COMP,Student
-L. Yu,Linyi Yu,CVM,Student
-X. Zhao,Xingyu Zhao,CDM,Student
-N. Patel,Neel Patel,COMP,Faculty
-D. Emanuele,Donna Emanuele,CGN,Faculty
-D. Schilling,Denise Schilling,CHS,Faculty
-M. Sanchez,Michelle Sanchez,COMP,Faculty
-C. A. Jackevicius,Cynthia A. Jackevicius,COP,Faculty
-M. Kumar,Manisha Kumar,COMP,Student
-N. Khan,Nadir   Khan,COMP,Faculty
-C. L. Crawford,Carol L. Crawford,COP,Faculty
-N. Singh,Nicole Singh,CVM,Student
-S. Chow,Sheryl Chow,COP,Faculty
-W. M. Swanson,Wendi M Swanson,CGN,Faculty
-M. Alatrash,Manal Alatrash,CGN,Faculty
-B. Brownell,Beverly   Brownell,CGN,Faculty
-M. Marinello,Michael Marinello,CGN,Student
-J. Hernandez,Jennifer Hernandez,CVM,Student
-T. Escobedo,Tina Escobedo,CGN,Faculty
-L. Roberts,Laura Roberts,COMP,Student
-A. V. Law,Anandi V. Law,COP,Faculty
-D. M. Selkowitz,David M. Selkowitz,CHS,Faculty
-M. M. Neeki,Michael M.. Neeki,COMP,Faculty
-D. Wong,Donna Wong,COMP,Faculty
-J. I. Kailes,June Isaacson. Kailes,CHS,Faculty
-S. Stuckey,Sandra   Stuckey,CHS,Faculty
-D. Berger,David Berger,COMP,Faculty
-J. Zhang,Jingwen Zhang,CDM,Student
-J. Yu,Jonathan Yu,CHS,Student
-K. Roback,Karin Roback,CHS,Faculty
-S. Feng,Stanley Feng,COMP,Student
-T. Le,Tram Le,COP,Student
-L. Podesta,Luga Podesta,COMP,Faculty
-J. Kim,Joseph Kim,CHS,Faculty
-T. Mosconi,Tony   Mosconi,CHS,Faculty
-C. Chaney,Casey Chaney,CHS,Faculty
-S. Kamath,Sylvia   Kamath,COMP,Faculty
-D. Redmanbentley,Donna   Redman-Bentley,CHS,Faculty
-D. C. Armstrong,Dayle C. Armstrong,CHS,Faculty
-G. Swanson,Gretchen Swanson,CHS,Faculty
-L. Carrothers,LeeAnn Carrothers,CHS,Faculty
-M. Hudsonmckinney,Mary Hudson-McKinney,CHS,Faculty
-J. Davis,Jeannie Davis,COMP,Faculty
-G. Vlad,Georgeanne   Vlad,CHS,Faculty
-G. M. Hirayama,Grant M Hirayama,CHS,Faculty
-R. Wolfe,Rachael Wolfe,COMP,Student
-A. Robinson,Amber Robinson,CGN,Student
-J. Gordon,Joseph Gordon,COMP,Faculty
-J. C. Wang,Jenny C. Wang,COMP,Faculty
-R. L. Bravo,Rosana L Bravo,CHS,Faculty
-T. Meyer,Tina Meyer,CHS,Faculty
-M. Lundberg,Mika Lundberg,COMP,Student
-L. K. Truong,Long K. Truong,CPM,Faculty
-A. Wu,Anne Wu,CHS,Student
-P. Evans,Paul Evans,COMP,Faculty
-D. Tran,David Tran,CVM,Student
-S. Yoon,Sonyeol Yoon,COMP,Student
-T. J. Wood,Timothy J. Wood,CHS,Faculty
-T. Morishita,Theresa Morishita,CVM,Faculty
-Z. Ayyoub,Ziyad Ayyoub,COMP,Faculty
-D. Sellen,David Sellen,COMP,Faculty
-J. Shen,Jie Shen,CO,Faculty
-F. Spors,Frank   Spors,CO,Faculty
-L. Mcnaughton,Lance McNaughton,CO,Faculty
-D. J. Egan,Donald J Egan,CO,Faculty
-D. W. Ethell,Douglas W. Ethell,GCBS,Faculty
-Y. Yang,Yikang Yang,COP,Student
-S. Fuchs,Sebastein Fuchs,COMP,Faculty
-C. Eng,Curtis Eng,CVM,Faculty
-K. Walker,Kimberly Walker,CO,Faculty
-K. Remickwaltman,Kristy Remick-Waltman,CO,Faculty
-K. Tran,Khanh Tran,CO,Faculty
-J. Vainshtein,Jacklyn Vainshtein,COMP,Student
-A. Petrosyan,Aelita Petrosyan,COMP,Student
-K. Inouye,Keiko Inouye,COMP,Student
-C. L. Haine,Charles L. Haine,CO,Faculty
-E. Castellanos,Efrain Castellanos,CO,Faculty
-N. Jakirlic,Naida Jakirlic,CO,Faculty
-P. Dobies,Paul Dobies,CO,Faculty
-V. Tiwari,Vaibhav   Tiwari,COMP,Faculty
-J. Liu,Jiawei Liu,CDM,Student
-S. Khanal,Sanjaya Khanal,COMP,Faculty
-J. Tassinari,John Tassinari,CO,Faculty
-J. W. Yumori,Jasmine Wong Yumori,COMP,Faculty
-J. Park,James Park,COMP,Faculty
-D. Leung,Dennis Leung,CO,Faculty
-S. Mackintosh,Susan MacKintosh,COMP,Faculty
-J. D. Tassinari,John D Tassinari,CO,Faculty
-J. Dalprat,Jose Dalprat,COMP,Faculty
-C. Thompson,Carolyn Thompson,COMP,Faculty
-M. A. Swairjo,Manal A Swairjo,GCBS,Faculty
-A. Yu,Austin Yu,COMP,Faculty
-A. Ngo,Andy Ngo,COMP,Student
-D. Kurtz,Daniel Kurtz,CO,Faculty
-L. Pang,Linda Pang,CO,Faculty
-K. Mccaffrey,Kate McCaffrey,COMP,Faculty
-J. Pham,Jenny Pham,CHS,Student
-R. Dreibelbis,Robyn   Dreibelbis,COMP,Faculty
-J. Chen,Joy Chen,COMP,Student
-A. Chan,Angela Chan,CDM,Faculty
-J. Y. Lee,Jung Yeon Lee,COMP,Student
-L. L. Bellomy,Linda   Luong Bellomy,CO,Faculty
-C. H. Chase,Christopher H. Chase,CO,Faculty
-K. Napierdovorany,Kierstyn Napier-Dovorany,CO,Faculty
-A. Vo,An   Vo,CO,Faculty
-C. A. Chang,Caroline A.. Chang,CDM,Faculty
-A. Perez,Alisal Perez,CGN,Student
-S. Wong,Sharon Wong,COMP,Student
-C. Duong,Cindy Duong,COMP,Student
-A. Thakkar,Arvind Thakkar,COP,Faculty
-S. Prabhu,Sunil Prabhu,COP,Faculty
-Z. Chen,Zhengxi Chen,CDM,Faculty
-D. K. Tsang,Dorcas K Tsang,CO,Faculty
-K. Dang,Khoa Dang,CGN,Faculty
-V. Q. Wren,Valerie Q. Wren,CO,Faculty
-J. H. Tegzes,John H. Tegzes,CVM,Faculty
-M. Mesisca,Mike Mesisca,COMP,Faculty
-K. Hoffman,Keasha Hoffman,COMP,Faculty
-R. J. Hruby,Raymond J. Hruby,COMP,Faculty
-K. Lin,Kevin Lin,CVM,Student
-J. Gray,Jeremy Gray,COMP,Student
-J. Guan,Joann Guan,COMP,Student
-G. D. Sharma,Guru D Sharma,CO,Faculty
-Y. Huang,Ying Huang,COP,Faculty
-Z. Wang,Zhijun(Kevin) Wang,COP,Faculty
-J. Hao,Jijun Hao,CVM,Faculty
-K. A. Jensen,Kristi A Jensen,CO,Faculty
-N. A. Darmani,Nissar A. Darmani,COMP,Faculty
-K. Mai,Kelvin Mai,COMP,Faculty
-D. Adams,Deven Adams,CDM,Student
-I. Glassman,Ira Glassman,COMP,Student
-H. Szurmant,Hendrik Szurmant,COMP,Faculty
-Y. Kim,Yoora Kim,CVM,Student
-A. Chen,Audrey Chen,CO,Faculty
-A. Nelson,Anita Nelson,COMP,Faculty
-T. Pham,Timothy Pham,COP,Student
-G. J. Stevens,Gloria J. Stevens,COMP,Faculty
-D. Q. Pham,Diem Q.. Pham,COMP,Faculty
-A. P. Ray,Andrew P Ray,CPM,Faculty
-J. Ramirez,Juan Ramirez,COMP,Faculty
-K. Irizarry,Kristopher   Irizarry,CVM,Faculty
-K. Mitsouras,Katherine   Mitsouras,COMP,Faculty
-D. Vu,Don Vu,COP,Faculty
-T. Shah,Tariq Shah,COP,Faculty
-M. L. Steinauer,Michelle L Steinauer,COMP,Faculty
-M. Hata,Micah Hata,COP,Faculty
-B. Saviola,Beatrice Saviola,COMP,Faculty
-J. Felton,Jeffrey   Felton,COMP,Faculty
-P. Kim,Peter Kim,CHS,Student
-A. Mccague,Andrew McCague,CHS,Faculty
-S. Li,Shannelle Li,COP,Student
-K. Wong,Kali Wong,COP,Student
-E. Martinez,Emma Martinez,CGN,Student
-S. Nguyen,Sophie Nguyen,COP,Student
-A. K. Mathur,Arvind K. Mathur,COMP,Faculty
-H. Kolli,Hemchand Kolli,COMP,Faculty
-T. Nguyen,Tuan Nguyen,COMP,Faculty
-L. Perez,Lorraine Perez,CGN,Student
-E. J. Wagner,Edward J. Wagner,COMP,Faculty
-C. Trinh,Christina Trinh,COMP,Student
-R. S. Brar,Rajivinder S. Brar,COMP,Faculty
-K. Sasaninia,Kayvan Sasaninia,COMP,Student
-A. Badaoui,Ali Badaoui,COMP,Student
-L. Nabipur,Leena Nabipur,COMP,Student
-M. Mouawad,Michael Mouawad,COMP,Student
-N. Sinha,Nikhil Sinha,COMP,Student
-B. K. P. Woo,Benjamin K. Woo,COMP,Faculty
-A. Martin,Andria Martin,CVM,Student
-N. Demarco,Nathaniel DeMarco,COMP,Student
-P. Patel,Parth Patel,COMP,Student
-A. Abdi,Arian Abdi,COMP,Student
-P. Velpuri,Prathosh Velpuri,COMP,Student
-E. E. Soltis,Edward E. Soltis,COP,Faculty
-S. E. Lakhan,Shaheen E.. Lakhan,COMP,Faculty
-T. Batan,Tom Batan,COMP,Student
-R. Vaezazizi,Reza Vaezazizi,COMP,Faculty
-Z. Hu,Zhongting   Hu,COMP,Faculty
-E. Chang,Eric Chang,COMP,Student
-M. Hodeib,Melissa Hodeib,COMP,Faculty
-C. Galvin,Conor Galvin,COMP,Student
-H. Sidhu,Harneet Sidhu,COMP,Student
-S. Mahapatra,Shakti Mahapatra,COMP,Faculty
-S. Dayal,Surbi Dayal,COMP,Student
-R. Sabnis,Rutuja Sabnis,CDM,Student
-K. Verma,Kushagra Verma,CHS,Faculty
-B. Kraatz,Brain Kraatz,COMP,Faculty
-F. Chaudhary,Fihr Chaudhary,COMP,Student
-B. T. Andresen,Bradley Tram Andresen,COP,Faculty
-G. E. Kisby,Glen E Kisby,COMP,Faculty
-K. Penera,Keith Penera,CPM,Faculty
-M. Wedel,Mathew Wedel,COMP,Faculty
-J. Labovitz,Jonathan Labovitz,CPM,Faculty
-J. T. Martin,James T. Martin,COMP,Faculty
-D. H. Nguyen,Duc Hoai. Nguyen,COMP,Faculty
-J. Hoffman,Janice Hoffman,COP,Faculty
-G. S. Shankar,Gollapudi S. Shankar,COP,Faculty
-A. Yeung,Alvin Yeung,COP,Student
-T. C. Squier,Thomas C Squier,COMP,Faculty
-R. N. Pechnick,Robert N Pechnick,COMP,Faculty
-M. Lambros,Maria Lambros,COP,Faculty
-K. Vo,Katherine Vo,CDM,Student
-J. A. Schlechter,John A. Schlechter,CHS,Faculty
-J. B. A. Enni,Jacqueline Anderson Enni,COMP,Student
-J. Hu,Jin-Shan   Hu,COMP,Faculty
-S. Kim,Stacy Kim,CGN,Student
-L. Moskalensky,Liana Moskalensky,COMP,Student
-S. Bagheri,Sasha Bagheri,CGN,Student
-S. Reddy,Sanjay Reddy,COMP,Student
-N. Du,Nikki Du,COP,Faculty
-E. Schwartzman,Emmanuelle Schwartzman,COP,Faculty
-D. I. Hsu,Donald I. Hsu,COP,Faculty
-E. P. Chung,Eunice P. Chung,COP,Faculty
-E. Guenther,Elizabeth Guenther,COMP,Faculty
-O. J. Phung,Olivia J Phung,COP,Faculty
-Y. Qiu,Yan Qiu,COP,Faculty
-Y. Chang,Youngil Chang,COP,Faculty
-J. Yang,Julie   Yang,CHS,Faculty
-D. I. Min,David I. Min,COP,Faculty
-X. Zhang,Xiao-Ling Zhang,COMP,Faculty
-W. Chen,Winston Chen,CHS,Student
-L. Pillarisetti,Lekha Pillarisetti,COMP,Student
-K. Chen,Kevin Chen,COMP,Student
-M. Booth,Michelle Booth,COMP,Student
-M. Minasyan,Marine Minasyan,COMP,Student
-N. Agarwal,Nina Agarwal,COMP,Faculty
-A. Williams,Aliyah Williams,COMP,Student
-S. Godil,Suha Godil,COMP,Student
-L. Liu,Long Liu,COMP,Student
-T. R. Borman,Timothy R. Borman,CHS,Faculty
-C. Davenport,Conor Davenport,COMP,Student
-D. Nguyen,Du Nguyen,CDM,Faculty
-P. J. Wisniewski,Paul J. Wisniewski,CHS,Faculty
-N. T. Do,Natalie T. Do,COMP,Faculty
-M. Pletsch,Michaela Pletsch,COMP,Student
-A. Chorbajian,Abraham Chorbajian,COMP,Student
-D. Zitser,David Zitser,COMP,Student
-J. Pan,Jeremy Pan,COMP,Student
-T. Eskandar,Tony Eskandar,COMP,Student
-Z. Ahmed,Zubair Ahmed,COMP,Student
-T. K. Nalley,Thierra K. Nalley,COMP,Faculty
-V. Wedel,Vicki Wedel,COMP,Faculty
-B. W. Berman,Blake W. Berman,CHS,Faculty
-J. Siddiqi,Javed Siddiqi,CHS,Faculty
-A. Mehta,Arvind Mehta,COMP,Faculty
-A. Morales,Alexis Morales,CDM,Student
-A. Katheria,Anup Katheria,COMP,Faculty
-S. E. Mackintosh,Susan E Mackintosh,COMP,Faculty
-J. Cao,Judy Cao,CO,Faculty
-T. Huynh,Tri Huynh,COP,Student
-V. Valdez,Vera Valdez,COMP,Faculty
-A. S. Lee,Alexander S. Lee,COMP,Faculty
-A. Jonson,Alexander Jonson,COMP,Student
-K. Hare,Kevin Hare,COMP,Student
-M. Forgie,Megan Forgie,COMP,Student
-M. Riedel,Michelle Riedel,COMP,Student
-L. Wang,LeeAnn Wang,COMP,Student
-S. Nouri,Sarvenaz Nouri,CHS,Faculty
-F. B. Dada,Festus B. Dada,CHS,Faculty
-E. Fricano,Ellen   Fricano,COMP,Faculty
-J. Green,Jennifer Green,COMP,Faculty
-J. Ho,Justin Ho,COP,Student
-J. M. Cox,Jeremy M. Cox,COMP,Faculty
-K. Palepu,Kathyayini Palepu,COMP,Student
-G. Ung,Gwendolyn Ung,COMP,Student
-A. Diaz,Alondra Diaz,CVM,Student
-A. Alamshaw,Anjali Alamshaw,COMP,Student
-L. Zadoorian,Lori Zadoorian,COMP,Student
-M. Green,Makenna Green,CHS,Student
-M. Burney,Michael   Burney,CHS,Faculty
-S. Kumar,Sandeep Kumar,CHS,Faculty
-M. Chakerian,Meg Chakerian,COMP,Student
-M. Valdez,Maria Valdez,CHS,Student
-A. Heidari,Arash Heidari,COMP,Faculty
-X. Liu,Xiangrong Liu,COMP,Student
-B. S. Bengtsson,Bengt-Ola S. Bengtsson,COMP,Faculty
-J. P. V. Houten,John P. van Houten,COMP,Faculty
-A. Wong,Ashley Wong,COP,Student
-A. Desai,Avani Desai,CVM,Student
-O. R. Hariri,Omid R.. Hariri,CHS,Faculty
-K. N. Smart,Kyle N. Smart,COMP,Faculty
-S. Y. Lin,Sam Y. Lin,COMP,Faculty
-M. A. Seffinger,Michael A. Seffinger,COMP,Faculty
-L. Gonzalez,Luna Gonzalez,CDM,Student
-J. Ly,Judy Ly,CHS,Student
-A. Martinez,Antonio Martinez,COP,Student
-B. Gonzalez,Bulmario Gonzalez,CDM,Faculty
-J. Chan,Justin Chan,COMP,Student
-M. Peterfy,Miklo Peterfy,COMP,Faculty
-M. S. Altikriti,Mohammed S. Al-Tikriti,CO,Faculty
-J. Johnson,James Johnson,COMP,Faculty
-H. Tran,Huoglan Tran,CDM,Faculty
-P. Thin,Pan Thin,COMP,Student
-J. W. Yang,Jae Wook Yang,COP,Faculty
-M. Rossi,Milena Rossi,CO,Student
-A. K. Agarwal,Ashok K. Agarwal,COMP,Faculty
-S. M. Lee,Steven M. Lee,COMP,Faculty
-J. A. Thompson,Jonathan A. Thompson,CPM,Faculty
-S. Bhatia,Sundeep Bhatia,CPM,Faculty
-Z. Li,Zhongqi Li,COP,Student
-J. J. Bradstreet,James J. Bradstreet,COMP,Faculty
-L. C. Castro,Lony C. Castro,COMP,Faculty
-M. Othman,Maryam Othman,COMP,Faculty
-K. Trivedi,Kovid Trivedi,COMP,Faculty
-J. E. Scott,Jeremiah E Scott,COMP,Faculty
-L. Arsenault,Luke Arsenault,COMP,Student
-J. Petrucci,John Petrucci,COMP,Student
-H. Nguyen,Hong Nguyen,COP,Faculty
-M. Rahman,Maisara Rahman,COMP,Faculty
-D. A. Connett,David A Connett,COMP,Faculty
-M. R. Wacker,Margaret R. Wacker,CHS,Faculty
-A. Calcote,Ashleigh Calcote,COMP,Student
-C. Ng,Clement Ng,COMP,Student
-J. Shaw,Jane   Shaw,CVM,Faculty
-M. A. Khan,M-Shahid Atique. Khan,COMP,Faculty
-J. Atterholt,Jessie   Atterholt,GCBS,Faculty
-C. L. Ma,Cherry L. MA,CDM,Faculty
-M. Patel,Mira Patel,COMP,Student
-B. K. Woo,Benjamin K. Woo,COMP,Faculty
-P. Mcconnell,Patrick McConnell,COMP,Student
-C. Griffin,Craig Griffin,CVM,Faculty
-C. Mans,Cecelia Mans,COMP,Student
-D. L. Miller,Debbie L. Miller,COMP,Faculty
-N. Newman,Nezam Newman,CHS,Student
-K. Jones,Kevin Jones,COP,Student
-A. Sheikh,Anique Sheikh,COP,Student
-D. Pham,Diana Pham,CO,Student
-B. Saber,Bahram Saber,COMP,Student
-D. Bridger,Daniel Bridger,COMP,Student
-N. Kaul,Neerja Kaul,COMP,Faculty
-M. Weiss,Michael Weiss,COMP,Faculty
-T. Liu,Tane Liu,COMP,Faculty
-T. Tran,Thi Tran,COP,Student
-R. Uyemura,Russell Uyemura,COMP,Student
-S. H. Barag,Steven H.. Barag,COMP,Faculty
-K. L. Williams,Kenneth Lloyd. Williams,COMP,Faculty
-T. Vu,Thao Vu,COMP,Student
-C. A. Alcantara,Cheldon Ann Alcantara,COMP,Student
-A. Mundra,Akshay Mundra,COMP,Student
-A. Mukundan,Abinanda Mukundan,COMP,Student
-B. Urness,Bianca Urness,COMP,Student
-R. Sakaki,Roajhaan Sakaki,COMP,Student
-T. Chowdhury,Tanzila Chowdhury,COMP,Student
-J. M. Finley,J. Michael Finley,COMP,Faculty
-E. Bae,Esther Bae,COMP,Faculty
-A. Liu,Andy Liu,COP,Student
-S. Montgomery,Samuel Montgomery,COMP,Student
-Y. Fernandezsweeny,Yadi Fernandez-Sweeny,COMP,Faculty
-E. Austin,Erik Austin,COMP,Faculty
-J. Moreno,Jennifer Moreno,COMP,Student
-B. T. Nguyen,Bang T. Nguyen,COMP,Faculty
-S. A. Obarr,Stephen A. O'Barr,COP,Faculty
-J. E. Mata,John E. Mata,COMP,Faculty
-R. A. Graf,Robert A. Graf,COP,Faculty
-J. Sandhu,Jonah Sandhu,CPM,Student
-W. Merbs,William Merbs,COMP,Faculty
-C. Chen,Chung-Kwang Chen,COMP,Faculty
-R. Radhakrishnan,Rajan   Radhakrishnan,COP,Faculty
-L. Ettefagh,Leila Ettefagh,COMP,Faculty
-N. Nami,Navid Nami,COMP,Faculty
-G. Shanmuganathan,Gaithrri Shanmuganathan,COMP,Student
-P. Oelschlaeger,Peter Oelschlaeger,COP,Faculty
-S. Singh,Sunjum Singh,COMP,Student
-A. Yang,Alison Yang,CPM,Student
-V. Zhong,Vivian Zhong,COMP,Student
-M. Issar,Manish   Issar,COMP,Faculty
-B. L. Tiep,Brian L. Tiep,COMP,Faculty
-M. Zalin,Michael Zalin,COMP,Student
-D. Oh,Donna Oh,COMP,Student
-P. Wang,Phoebe Wang,COMP,Student
-R. Lee,Raymond Lee,COP,Faculty
-A. Chang,Adrian Chang,CO,Student
-B. Andresen,Bradley Andresen,COP,Faculty
-Y. Salama,Youstina Salama,CPM,Student
-R. A. Robinson,R Ashley Robinson,CVM,Faculty
-H. Anwar,Hamsat Anwar,COMP,Student
-A. Pardi,Andrew Pardi,COMP,Student
-K. Andrews,Katherine Andrews,COMP,Student
-C. Broniak,Christine Broniak,COMP,Student
-E. Sperling,Edie   Sperling,COMP,Faculty
-T. Ding,Tiffany Ding,COMP,Student
-J. Dawi,John Dawi,COMP,Student
-Y. Misakyan,Yura Misakyan,COMP,Student
-S. Kades,Samuel Kades,COMP,Student
-S. Asim,Syed Asim,COMP,Student
-S. Olia,Sumaiya Olia,COMP,Student
-A. Abdou,Alexander Abdou,COMP,Student
-A. Hill,Ashley Hill,CO,Student
-S. Tang,Sofia Tang,CDM,Student
-D. D. Nguyen,Duy D.. Nguyen,CHS,Faculty
-S. Lee,Samuel Lee,COMP,Faculty
-J. U. Blumer,Janice U. Blumer,COMP,Faculty
-J. Nguyen,Jessica Nguyen,COP,Student
-D. Ross,Dan Ross,COP,Faculty
-T. Hoang,Tuan Hoang,COMP,Faculty
-M. Safaoui,Marian Safaoui,COMP,Faculty
-N. Nevins,Natalie Nevins,COMP,Faculty
-S. Thompson,Seana Thompson,COMP,Student
-D. J. Dowling,Dennis J. Dowling,COMP,Faculty
-M. G. Bartlett,Mark G. Bartlett,COMP,Faculty
-R. Hall,Roger Hall,COMP,Faculty
-E. Ho,Eugene Ho,COMP,Faculty
-J. Choi,Jaewoong Choi,CDM,Faculty
-E. Goering,Edward Goering,COMP,Faculty
-M. Smith,Mary Smith,COMP,Student
-S. Kammerzell,Samuel Kammerzell,COMP,Faculty
-S. Davis,Samantha Davis,COMP,Student
-M. Zhang,Michelle Zhang,COMP,Student
-M. Lin,Michelle Lin,COMP,Student
-G. Pitcher,Graysen Pitcher,COMP,Student
-K. Bhalodia,Krishna Bhalodia,COMP,Student
-C. Vaughn,Charles Vaughn,COMP,Student
-J. Villegas,James Villegas,COP,Student
-B. Lee,Byrne Lee,CHS,Faculty
-T. W. Pennington,Troy W.. Pennington,COMP,Faculty
-K. Schulzcostello,Katherine Schulz-Costello,CHS,Faculty
-D. D. Pearce,Daniel D Pearce,COMP,Faculty
-M. Malecki,Marek   Malecki,COMP,Faculty
-H. Musharbash,Helen Musharbash,COMP,Faculty
-S. Helf,Scott Helf,COMP,Faculty
-D. Shettko,Donna   Shettko,CVM,Faculty
-R. Chang,Rianne Chang,COP,Student
-S. Seng,Sakona Seng,COMP,Faculty
-S. Tian,Sharon Tian,COMP,Student
-W. Lee,Wynne Lee,COMP,Student
-V. La,Vy La,COMP,Student
-N. Oo,Nicholas Oo,COMP,Student
-M. J. Kelly,Michael J. Kelly,COMP,Faculty
-C. Nguyen,Christine Nguyen,COP,Student
-Z. Musherraf,Zuhra   Musherraf,COMP,Faculty
-A. Ayvazian,Arbi Ayvazian,COMP,Faculty
-C. Yamaguchi,Craig Yamaguchi,COMP,Student
-A. H. Caceres,Andres Harris Caceres,COMP,Student
-A. Lataille,Andrew Lataille,COMP,Student
-I. M. Mirani,Idrees Mohammed Mirani,COMP,Student
-J. Cook,Joshua Cook,CHS,Student
-A. Nouvong,Aksone Nouvong,CPM,Faculty
-S. J. Clark,Susan Jeanine. Clark,COMP,Faculty
-J. Brown,Joachim Brown,COMP,Faculty
-J. Han,Jonathan Han,CO,Student
-A. Patel,Anjana Patel,COP,Faculty
-S. Brown,Sarah Brown,COMP,Student
-A. Bjarvin,Anna Bjarvin,COMP,Student
-E. P. Junkins,Edward P. Junkins,COMP,Faculty
-D. K. Jayasekara,Deepthi K. Jayasekara,COMP,Faculty
-S. Fardeheb,Sabrina Fardeheb,COMP,Student
-A. Kiriaki,Anthony Kiriaki,COMP,Student
-B. Norris,Brandon Norris,COMP,Student
-K. Diehl,Kyra Diehl,COMP,Student
-K. Hajjar,Karim Hajjar,COMP,Student
-J. Ng,Jamie Ng,CHS,Student
-N. Wais,Nejma Wais,COMP,Student
-I. Yu,Ivin Yu,COMP,Student
-N. Panchal,Niyati Panchal,COMP,Student
-T. Vance,Taylor Vance,CVM,Student
-E. Barnes,Edwards Barnes,COMP,Faculty
-P. Kishore,Priya Kishore,COMP,Student
-L. Garrison,Lauren Garrison,COMP,Student
-T. Mooney,Tanner Mooney,COMP,Student
-K. Lucara,Kendall Lucara,COMP,Student
-C. T. Gillis,Craig T. Gillis,CHS,Faculty
-C. I. Doescher,Christian Ihenacho Doescher,COMP,Student
-R. Avila,Ricky Avila,CGN,Student
-G. Singh,Gurkaranjot Singh,COMP,Student
-T. Govind,Tushara Govind,COMP,Student
-A. Shafi,Amal Shafi,COMP,Student
-R. Chawla,Rohan Chawla,COMP,Student
-N. Enayati,Nobel Enayati,COMP,Student
-S. Kohandani,Sara Kohandani,COMP,Student
-V. Ugalde,Viviane Ugalde,COMP,Faculty
-J. Li,Joshua Li,CHS,Student
-D. A. Tran,Doug Dung Anh. Tran,CHS,Faculty
-T. Nalley,Thierra Nalley,COMP,Faculty
-P. Nguyen,Phuong Nguyen,COP,Faculty
-J. Young,Jordan Young,COMP,Student
-R. C. Gupta,Rakesh C. Gupta,COMP,Faculty
-S. L. Chow,Sheryl L Chow,COP,Faculty
-F. T. Khasawneh,Fadi T Khasawneh,COP,Faculty
-R. Mehta,Rucha   Mehta,COMP,Faculty
-A. Karapetyan,Arshavir Karapetyan,COMP,Student
-T. Erdos,Thomas Erdos,COMP,Student
-M. Masuda,Mika Masuda,COMP,Student
-Y. C. Chen,Cher Yao. Chen Chen,COMP,Faculty
-M. Kachani,Malika Kachani,CVM,Faculty
-G. S. Bales,Gerald S. Bales,COMP,Faculty
-A. Lin,Andy Lin,COMP,Student
-J. D. Scott,James D. Scott,COP,Faculty
-A. Steen,Aimee Steen,COMP,Student
-S. Khan,Sara Khan,CHS,Student
-A. Gan,Anthony Gan,COMP,Faculty
-M. Marquez,Mitchell Marquez,CHS,Student
-M. Altikriti,Mohammed Al-Tikriti,COMP,Faculty
-M. Altarac,Maja   Altarac,COP,Faculty
-R. Le,Rosalin Le,CDM,Student
-K. Morris,Kelsey Morris,COMP,Student
-A. Vu,Alyssa Vu,CVM,Student
-S. Yeganyan,Stephanie Yeganyan,COMP,Student
-A. Shin,Andrew Shin,COMP,Student
-M. Hudson,Mandilin   Hudson,COMP,Faculty
-T. A. Haffey,Thomas A.. Haffey,COMP,Faculty
-A. Xiao,Andy Xiao,COMP,Student
-R. Thomas,Riley Thomas,CPM,Student
-H. Samara,Hanien Samara,COMP,Student
-J. Tai,Jenny Tai,CO,Student
-W. J. Cairney,William J.. Cairney,COMP,Faculty
-A. Cruz,Ariana Cruz,CVM,Student
-A. Gargaloyan,Areg Gargaloyan,COMP,Student
-K. Shapiro,Karen   Shapiro,COP,Faculty
-J. Le,Julie Le,COP,Student
-M. Okamoto,Mark   Okamoto,COP,Faculty
-S. Zaidi,Sukaina Zaidi,CO,Student
-S. Holtzman,Stone Holtzman,COMP,Student
-N. Shah,Nikita Shah,COMP,Student
-J. An,JaeJin An,COP,Faculty
-K. H. Lee,Kang H. Lee,COMP,Faculty
-P. Finneran,Phoebe Finneran,COMP,Student
-M. Wong,Marla Wong,CDM,Student
-S. Silacci,Sophia Silacci,CGN,Student
-D. Javier,Denesse Javier,COP,Student
-J. Chang,Justin Chang,COMP,Student
-S. Chang,Stacy Chang,CGN,Student
-P. L. Schmidt,Peggy Lynn Schmidt,CVM,Faculty
-M. A. Fahie,Maria A. Fahie,CVM,Faculty
-A. D. Cundari,Alan D. Cundari,COMP,Faculty
-U. M. Benzur,Uri M. Ben-Zur,COMP,Faculty
-H. Le,Huyen Le,COP,Student
-I. Tweedt,Isobel Tweedt,COMP,Student
-J. Leo,Jonathan   Leo,COMP,Faculty
-E. Rostomian,Edgmin Rostomian,COMP,Student
-K. Ghookas,Kevin Ghookas,COMP,Student
-A. Postajian,Alexander Postajian,COMP,Student
-K. B. Vartanian,Kevin Babakhan Vartanian,COMP,Student
-V. Hatamian,Vedi Hatamian,COMP,Student
-P. Gupta,Pooja Gupta,COMP,Faculty
-M. Haddad,Mark Haddad,COP,Faculty
-V. Nguyen,Vivian Nguyen,CO,Student
-Q. Pham,Quang Pham,COMP,Student
-J. Jun,Jeany   Jun,COP,Faculty
-J. Smith,Jacob Smith,CO,Student
-A. Young,Amelie Young,COMP,Student
-K. Patel,Karissa Patel,COMP,Student
-M. Swairjo,Manal Swairjo,GCBS,Faculty
-B. Ghosh,Bharati Ghosh,COMP,Faculty
-A. B. Muhammad,Abdul Bari Muhammad,GCBS,Faculty
-S. H. Hong,Sung Ho Hong,COMP,Student
-C. Fung,Cameron Fung,COMP,Student
-D. Teramoto,Darren Teramoto,COMP,Student
-S. J. Sweet,Stephan J. Sweet,CHS,Faculty
-P. T. Nguyen,Phu Thien. Nguyen,COMP,Faculty
-N. Nguyen,Nam Nguyen,CGN,Student
-M. Raad,Michele Raad,CO,Student
-W. Jones,Walter Jones,CHS,Faculty
-R. J. Sarma,Radha J. Sarma,COMP,Faculty
-K. Lam,Kelly Lam,COMP,Student
-J. Patel,Jasmine Patel,COP,Student
-K. Zakery,Katreen Zakery,CDM,Student
-G. V. Betageri,Gurupadappa V. Betageri,GCBS,Faculty
-J. M. Peralta,Jose M Peralta,CVM,Faculty
-D. Anand,Deepak Anand,COP,Faculty
-J. Guo,Jin Guo,COMP,Faculty
-F. Liu,Frank Liu,CDM,Faculty
-J. H. Kim,Jeong H.. Kim,COMP,Faculty
-A. Kumar,Amisha Kumar,COMP,Student
-S. Park,Somin Park,COP,Student
-A. Singh,Ananjit Singh,COMP,Faculty
-J. Singh,Johnpaul Singh,COMP,Faculty
-G. Wang,Geena Wang,COMP,Student
-M. T. Nguyen,Minh Thu Nguyen,CPM,Student
-A. Lian,Andrew Lian,COMP,Student
-G. Kim,Gemma Kim,COMP,Faculty
-M. Huang,Min-Ning Huang,COMP,Faculty
-P. Tran,Phat Tran,COMP,Student
-B. Malcolm,Benjamin   Malcolm,COP,Faculty
-T. Masrizada,Tariq Masri-zada,COMP,Student
-M. Banymohammed,Mo'men Bany-Mohammed,COMP,Student
-P. K. Shitabata,Paul K. Shitabata,COMP,Faculty
-R. B. Ellis,Robert B. Ellis,COMP,Faculty
-E. Chow,Erica Chow,COMP,Student
-J. Dang,Jenny Dang,COP,Faculty
-C. Tong,Cindy Tong,COMP,Student
-M. H. Kay,Martin H. Kay,COMP,Faculty
-R. Patel,Ravi Patel,CDM,Faculty
-R. A. Mirande,Raul A.. Mirande,CHS,Faculty
-G. Young,Garrett Young,CHS,Student
-G. Hernandez,Guillermo Hernandez,COMP,Faculty
-A. Kim,Arthur Kim,COMP,Student
-C. Prasad,Chaya Prasad,COMP,Faculty
-T. N. Hoang,Tuan N. Hoang,CHS,Faculty
-M. Chen,Monica Chen,CGN,Student
-S. Rice,Samuel Rice,COMP,Student
-C. Goode,Christina Goode,GCBS,Faculty
-C. Talbot,Colleen   Talbot,COMP,Faculty
-M. C. K. Leung,Cherish K. Leung,CDM,Faculty
-N. A. Nevins,Natalie A Nevins,COMP,Faculty
-T. Thompson,Tessa Thompson,CGN,Student
-H. Do,Huong Do,COMP,Student
-B. Oakley,Brian Oakley,CVM,Faculty
-V. Keidel,Vivien Keidel,CO,Student
-D. Pon,Doreen   Pon,COP,Faculty
-M. S. Chow,Moses S.S. Chow,COP,Faculty
-G. Kaur,Gagandeep Kaur,CVM,Faculty
-P. Rodriguezcollazo,Pedro   Rodriguez-Collazo,COMP,Faculty
-G. M. Gugelchuk,Gary M. Gugelchuk,CHS,Faculty
-T. Wang,Tony Wang,COMP,Faculty
-A. Baskys,Andrius Baskys,COMP,Faculty
-M. Gonzales,Michelle Gonzales,CGN,Student
-K. Hosseinian,Kiana Hosseinian,COMP,Student
-A. Gerami,Amir Gerami,COMP,Student
-M. Bral,Melody Bral,COMP,Student
-A. Jones,Alisia Jones,CGN,Student
-T. A. Merritt,Thurman A. Merritt,COMP,Faculty
-R. White,Rachel White,CHS,Student
-S. A. Williams,Stephen A. Williams,COMP,Faculty
-R. Li,Roger Li,COMP,Student
-J. Yasmer,John Yasmer,COMP,Faculty
-N. Said,Noor Said,COMP,Student
-A. Mikami,Anna Mikami,COMP,Student
-O. Barazani,Osnat Barazani,COMP,Student
-J. Shin,Joseph Shin,COMP,Student
-S. Muchmore,Skyler Muchmore,COMP,Student
-R. D. Clark,Robin Dawn. Clark,COMP,Faculty
-B. Garcia,Briana Garcia,CGN,Student
-B. Patel,Bhakti Patel,COP,Student
-D. Chen,Desiree Chen,CGN,Student
-A. T. Ho,Andrew T.. Ho,COMP,Faculty
-A. Thompson,Auvianna Thompson,CGN,Student
-V. Tyagi,Vivaik Tyagi,COMP,Faculty
-B. Flaig,Brandon Flaig,COMP,Student
-H. Smodlaka,Hrvoje Smodlaka,CVM,Faculty
-W. A. Khamas,Wael A. Khamas,CVM,Faculty
-M. Desai,Monica Desai,COMP,Student
-C. Chow,Claire Chow,CGN,Student
-A. Modesette,Allison Modesette,COMP,Student
-D. Redding,David   Redding,COMP,Faculty
-B. Nguyen,Britney Nguyen,COP,Student
-R. A. Subach,Ruth Ann Subach,COP,Faculty
-L. Tang,Linh Tang,CO,Student
-A. Copeland,Aden Copeland,COMP,Student
-C. Swason,Carisa Swason,COMP,Student
-N. Lin,Nicole Lin,COMP,Student
-D. Roosan,Don   Roosan,COP,Faculty
-M. Tran,Michelle Tran,COP,Student
-D. Choi,Daniel Choi,COMP,Student
-C. E. Adams,Clinton E Adams,COMP,Faculty
-E. L. Hurwitz,Eric L. Hurwitz,COMP,Faculty
-W. Wu,Wuu-Shyong Wu,COMP,Faculty
-S. Cross,Sydney Cross,COMP,Student
-N. Pham,Nguyen-Phuong Pham,COMP,Faculty
-N. Dao,Nancy Dao,COP,Faculty
-A. Narasimhan,Ananya Narasimhan,COMP,Student
-F. Hajjar,Fouad Hajjar,COMP,Student
-M. Besser,Max Besser,COMP,Student
-K. Tumanyan,Kevin Tumanyan,CPM,Student
-A. Shadfar,Arash Shadfar,COMP,Faculty
-J. Hakimian,Joshua Hakimian,COMP,Student
-I. Mejia,Isaac Mejia,CVM,Student
-A. Campbell,Arezoo Campbell,COP,Faculty
-J. Giess,Jane Giess,COMP,Student
-S. Sekhon,Seerat Sekhon,COMP,Student
-A. Thai,An Thai,COMP,Student
-B. Han,Blake Han,COMP,Student
-S. Zhao,Sarah Zhao,CVM,Student
-V. Yu,Vivian Yu,COMP,Student
-A. Ahmed,Aisha Ahmed,CPM,Faculty
-J. Sanders,Johnnie Sanders,CVM,Student
-M. S. S. Chow,Moses S.S. Chow,COP,Faculty
-S. White,Stephanie White,COMP,Faculty
-L. Nguyen,Linda Nguyen,CO,Faculty
-J. Tsai,Jeffery Tsai,CPM,Faculty
-B. Yu,BoaFa Yu,GCBS,Faculty
-V. Quan,Valerie   Quan,CO,Faculty
-P. Yang,Peilong Yang,CVM,Student
-R. L. Wilson,Rochelle L. Wilson,COMP,Faculty
-M. C. Emmert,Michelle C. Emmert,COMP,Faculty
-H. Yang,Haoshu Yang,COP,Faculty
-I. Navasardyan,Inesa Navasardyan,COMP,Student
-A. Nguyen,Andrea Nguyen,COP,Student
-D. J. Lee,Dustin J. Lee,CHS,Faculty
-W. Li,Weiguo Li,COMP,Faculty
-T. Cao,Tin Cao,CDM,Student
-H. Kim,Hahnslang Kim,CHS,Student
-P. Chan,Patrick Chan,COP,Faculty
-J. E. M. Charles,Elizabeth M. Charles,CVM,Faculty
-M. E. Comunale,Mark E. Comunale,COMP,Faculty
-L. Orsillo,Lauryn Orsillo,COMP,Student
-N. Venkatesan,Natarajan Venkatesan,GCBS,Faculty
-S. Jain,Sarkia Jain,CHS,Faculty
-G. Han,Grace Han,CO,Student
-A. Aabedi,Andre Aabedi,COMP,Student
-V. Wang,Vera Wang,COMP,Student
-N. Rouse,Nicole Rouse,COMP,Faculty
-N. Quillatupa,Norka Quillatupa,COMP,Faculty
-N. Lytton,Nathan Lytton,COMP,Student
-T. Nandhagopal,Thiagarajan Nandhagopal,COMP,Faculty
-R. C. Liu,Rex Chunlin. Liu,COMP,Faculty
-J. Trapp,Joshua Trapp,COMP,Student
-S. Au,Stefanie Au,COMP,Student
-M. A. Taqi,Muhammad A. Taqi,COMP,Faculty
-K. Wang,Kelly Wang,COMP,Student
-T. Bui,Tiffany Bui,COP,Student
-N. Zhang,Nina Zhang,COMP,Student
-B. Liu,Bryan Liu,CDM,Student
-C. J. Prasad,Chaya J Prasad,COMP,Faculty
-R. A. Orlando,Robert A. Orlando,COMP,Faculty
-P. Shah,Pooja Shah,CO,Student
-N. Do,Nathan Do,COMP,Student
-S. Jacob,Susan   Jacob,COP,Faculty
-C. Tsui,Crystal Tsui,COMP,Student
-P. Ahn,Phillip Ahn,COMP,Student
-D. Parvizi,David Parvizi,COMP,Student
-R. Sahafi,Ramtin Sahafi,COMP,Student
-T. Pisarski,Timothy Pisarski,COMP,Student
-S. Kandikattu,Sugeeth Kandikattu,COMP,Student
-M. Aavula,Manas Aavula,COMP,Student
-A. Hong,Adia Hong,COP,Student
-K. J. L. Irizarry,Kristopher J. Irizarry,CVM,Faculty
-K. Kafaja,Kevin Kafaja,COMP,Student
-M. Mirhosseini,Mercedeh Mirhosseini,COMP,Student
-A. Pathak,Angelie Pathak,COMP,Student
-C. Shea,Christina Shea,COMP,Student
-P. Vaghashia,Payal Vaghashia,COMP,Student
-H. Sadeghi,Habib Sadeghi,COMP,Faculty
-A. Yazdani,Armand Yazdani,COMP,Student
-P. Sripathi,Pallavi Sripathi,COMP,Student
-J. Hamilton,Jennifer Hamilton,COMP,Faculty
-S. Bradley,Suzanne Bradley,CGN,Student
-W. Yu,Wesley Yu,COMP,Student
-S. Kaur,Sumeet Kaur,CDM,Faculty
-E. Kim,Edwin Kim,CHS,Faculty
-M. M. Salehpour,Michael M. Salehpour,CHS,Faculty
-K. K. Jenson,Kraig K. Jenson,COMP,Faculty
-J. Jordan,Jillian Jordan,COMP,Student
-O. Wisco,Oliver Wisco,COMP,Faculty
-G. Bales,Gerald   Bales,COMP,Faculty
-V. Tran,Vicki Tran,CGN,Student
-T. L. Nguyen,Thi L. Nguyen,COP,Faculty
-V. Davis,Vivian Davis,COMP,Faculty
-A. Saini,Arvind Saini,CHS,Faculty
-C. Shortt,Connor Shortt,COMP,Student
-R. Morgan,Ryan Morgan,COMP,Student
-G. E. Johnson,Gordon E. Johnson,COMP,Faculty
-S. E. Kessler,Stephen E. Kessler,COMP,Faculty
-S. Bokhari,Sara Bokhari,COMP,Student
-F. Yang,Fue Yang,CDM,Faculty
-D. L. Sellen,David L Sellen,CHS,Faculty
-C. Lam,Carol Lam,CGN,Student
-A. Khan,Affan Khan,COP,Student
-N. Manavi,Nima Manavi,COMP,Student
-R. A. Sugerman,Richard A. Sugerman,COMP,Faculty
-A. Nazarian,Arbi Nazarian,COP,Faculty
-J. Trotter,Jacob Trotter,CPM,Student
-H. Davila,Heidi   Davila,CDM,Faculty
-B. Jimenez,Belinda Jimenez,CPM,Student
-J. Sandoval,Jennifer Sandoval,CGN,Student
-A. Ma,Ashley Ma,COP,Student
-P. S. Sethi,Prabhdeep S.. Sethi,COMP,Faculty
-R. G. Pai,Ramdas G. Pai,COMP,Faculty
-S. K. Wong,Stanley K. Wong,COP,Faculty
-S. Natarajan,Sahana Natarajan,COMP,Student
-D. Connett,David Connett,COMP,Faculty
-S. Lu,Sabrina Lu,COMP,Student
-J. Lien,Justin Lien,COMP,Student
-Z. Chaudhry,Zuhair Chaudhry,COMP,Student
-A. Boyadzhyan,Anik Boyadzhyan,COMP,Student
-D. Kutcher,Drew Kutcher,COMP,Student
-R. Lally,Rajeshwar Lally,COMP,Student
-M. Seo,Michael Seo,COMP,Student
-H. Shen,Huiying Shen,COMP,Faculty
-S. Shimomura,Sam   Shimomura,COP,Faculty
-B. Li,Baoying Li,COP,Student
-Q. H. T. Nguyen,Huy T. Nguyen,CHS,Faculty
-M. Cantu,Monique Cantu,COMP,Student
-K. Price,Kenna Price,COMP,Student
-T. Dao,Tiffany Dao,COMP,Student
-T. J. Yu,Tai Jung Yu,COMP,Student
-W. H. Tettelbach,William H. Tettelbach,CPM,Faculty
-L. C. Rogers,Lee C. Rogers,CPM,Faculty
-L. B. Harkless,Lawrence B. Harkless,CPM,Faculty
-D. G. Armstrong,David G. Armstrong,CPM,Faculty
-L. Alexander,Logan Alexander,COMP,Student
-K. Hafferty,Kiana Hafferty,COMP,Student
-A. Hsieh,Andrew Hsieh,COP,Student
-K. Lopez,Katherine Lopez,CHS,Student
-J. Jimenez,Jaqueline Jimenez,CGN,Student
-R. Garza,Rachel Garza,COMP,Student
-M. Gentry,Michael Gentry,COMP,Faculty
-S. Liu,Stephanie Liu,CPM,Faculty
-N. Holden,Natasha Holden,COMP,Student
-L. Muscato,Louise Muscato,COMP,Faculty
-G. R. Thrush,Gerald Russell Thrush,COMP,Faculty
-A. S. Mowlavi,Arian S. Mowlavi,CHS,Faculty
-T. L. Chamberlain,Tiffany L. Chamberlain,COMP,Faculty
-A. D. Desai,Alpesh D. Desai,COMP,Faculty
-J. G. Persichino,John G. Persichino,COMP,Faculty
-A. Gordon,Alicia Gordon,CDM,Student
-A. Chew,Amy   Chew,COMP,Faculty
-C. Huang,Crystal Huang,COMP,Student
-S. Balamurugan,Sunil Balamurugan,COMP,Student
-K. Panganiban,Kurt Panganiban,COMP,Student
-M. Lehrack,Matthew Lehrack,COMP,Student
-A. P. Nguyen,An Phong Nguyen,COMP,Student
-H. Pham,Hieu Pham,CHS,Student
-G. Lo,Geoffrey Lo,COMP,Student
-R. Phan,Robert Phan,CO,Student
-J. Chu,Jeremy Chu,COMP,Student
-M. Medina,Miguel Medina,CHS,Faculty
-R. Singh,Ruby Singh,COMP,Faculty
-J. Cameron,Joshua Cameron,CO,Faculty
-R. Reddy,Rohan Reddy,CHS,Student
-C. Yan,Christopher Yan,CGN,Student
-A. H. Zargarzadeh,Amir H Zargarzadeh,COP,Faculty
-S. Tkalcic,Suzana Tkalcic,CVM,Faculty
-T. I. F. Chou,Tony I Chou,COP,Faculty
-F. L. Tornatore,Frank L. Tornatore,COP,Faculty
-R. Taheri,Reza   Taheri,COP,Faculty
-T. C. Cheetham,T Craig Cheetham,COP,Faculty
-K. K. Knapp,Katherine K. Knapp,COP,Faculty
-M. D. Ray,Max D. Ray,COP,Faculty
-B. Woodward,Brandon Woodward,CHS,Faculty
-H. Lam,Hailey Lam,CHS,Student
-S. Narayanan,Shivakumar Narayanan,COMP,Faculty
-A. S. V. Shah,Apurva V. Shah,COMP,Faculty
-F. Youssef,Fady Youssef,CO,Student
-G. Flores,Gizelle Flores,CHS,Student
-J. L. Buur,Jennifer L. Buur,CVM,Faculty
-R. M. Quist,Ryan M Quist,COP,Faculty
-L. S. Garavalia,Linda S Garavalia,COP,Faculty
-D. C. Robinson,Daniel C. Robinson,COP,Faculty
-H. R. Arias,Hugo Ruben Arias,COP,Faculty
-K. Tang,Katherine Tang,COMP,Student
-D. R. Brocks,Dion R. Brocks,COP,Faculty
-J. J. Bertone,Joseph J. Bertone,CVM,Faculty
-J. J. Chen,James J.. Chen,CDM,Faculty
-A. Castro,Angela Castro,CHS,Faculty
-H. G. Ibrahim,Hajer G. Ibrahim,COP,Faculty
-F. Michael,Fady Michael,COMP,Student
-E. Cho,Eun-Hwi Cho,CDM,Faculty
-R. Alonzo,Rebecca Alonzo,CGN,Student
-B. R. Shah,Bhaviesh R. Shah,COMP,Faculty
-J. H. Kang,Jenny H Kang,COP,Faculty
-Q. Nguyen,Quyen Nguyen,COP,Student
-K. Yang,Kaileigh Yang,COMP,Student
-E. K. Gupta,Eric K. Gupta,COP,Faculty
-S. Chen,Shanshan Chen,COP,Faculty
-S. R. Smith,Shawn Robert Smith,COP,Faculty
-Q. Zhang,Qingwan Zhang,CO,Student
-J. Wong,Jason Wong,COP,Faculty
-S. Smith,Summer Smith,CGN,Student
-D. Robinson,Daniel Robinson,COP,Faculty
-A. Kugler,Anne Kugler,COP,Faculty
-D. Hsu,Donald   Hsu,COP,Faculty
-J. Scott,Jeremiah Scott,COMP,Faculty
-L. B. Kidd,Linda B Kidd,CVM,Faculty
-W. Liu,William Liu,CPM,Student
-M. L. Davies,Marie L Davies,COP,Faculty
-C. Ma,Claire Ma,COMP,Student
-A. Pham,Aaron Pham,COP,Student
-S. Yang,Sun Yang,COP,Faculty
-K. Ma,Kelvin Ma,COMP,Faculty
-A. Wongberinger,Annie   Wong-Beringer,COP,Faculty
-T. J. T. Nguyen,Thomas J. Nguyen,CDM,Faculty
-M. Le,Matthew Le,COP,Student
-C. Jackevicius,Cynthia   Jackevicius,COP,Faculty
-A. Chong,Alice Chong,CO,Student
-R. S. Klotz,Roger S. Klotz,COP,Faculty
-R. A. Floyd,Ronald A. Floyd,COP,Faculty
-T. Moore,Timothy Moore,COMP,Student
-H. Gogineni,Hyma Gogineni,COP,Faculty
-J. Moon,Jihye Moon,CDM,Student
-K. T. Marx,Kevin T. Marx,COP,Faculty
-R. K. Bolan,Robert K. Bolan,COP,Faculty
-C. X. J. Yuan,Xiao (Carol) Juan Yuan,COP,Faculty
-J. Lacroix,Jerome Lacroix,GCBS,Faculty
-K. J. Kim,Keun J. Kim,CVM,Faculty
-R. A. Gallegos,Roger Alan Gallegos,CPM,Faculty
-T. A. Murchie,Tracy Ann Murchie,CVM,Faculty
-K. S. Soppimath,Kumaresh S. Soppimath,COP,Faculty
-V. Green,Vuong   Green,COP,Faculty
-T. Bach,Tiffany   Bach,COP,Faculty
-J. M. Labovitz,Jonathan M Labovitz,CPM,Faculty
-A. M. H. Chen,Anna M. Chen,COMP,Faculty
-J. C. Wong,Jason C Wong,COP,Faculty
-A. Ng,Abigail Ng,CGN,Student
-A. Munoz,Alison Munoz,CGN,Student
-R. Yang,Rui Yang,COMP,Faculty
-J. P. Aranda,Josephine Pia Aranda,COP,Faculty
-K. Hess,Karl   Hess,COP,Faculty
-V. L. Voith,Victoria L Voith,CVM,Faculty
-K. Hidalgo,Krisha Hidalgo,COMP,Student
-R. Tran,Robert Tran,CPM,Student
-K. A. Brock,Kelly A Brock,COP,Faculty
-A. Saenz,Arlette Saenz,COP,Student
-T. J. Liu,Tina Jo-Ting Liu,COP,Faculty
-W. J. Murray,Wallace J. Murray,COP,Faculty
-D. Wang,Dollars Wang,CO,Student
-M. He,Munind He,CHS,Student
-L. Zhou,Liheng Zhou,COMP,Student
-A. T. Lin,Antony Te-Hui. Lin,COMP,Faculty
-R. V. Yin,Raynold Vann. Yin,COP,Faculty
-S. Wanwimolruk,Sompon   Wanwimolruk,COP,Faculty
-T. Ng,Tiffany Ng,COMP,Student
-D. C. Anderson,Dustin C. Anderson,CO,Faculty
-W. Huang,W. Luke Huang,COMP,Faculty
-P. Le,Phillip Le,COMP,Faculty
-T. Ngo,Tram Ngo,CO,Student
-D. Huynh,Daniel Huynh,COP,Student
-C. Phan,Christopher Phan,COMP,Student
-C. Hutchinson,Christopher Hutchinson,CHS,Student
-J. K. Jun,Jeany K. Jun,COP,Faculty
-L. Chan,Leo Chan,COMP,Student
-S. Seo,Sarah Seo,CPM,Student
-M. Lou,Marcus Lou,COMP,Student
-C. Charavaryamath,Chandrashekhar   Charavaryamath,CVM,Faculty
-M. Kim,Michelle Kim,CO,Student
-A. Guevara,Anthony Guevara,COP,Student
-K. J. Irizarry,Kristopher J. Irizarry,CVM,Faculty
-E. Skoglund,Erik   Skoglund,COP,Faculty
-L. H. Nazer,Lama H. Nazer,COP,Faculty
-T. Chau,Tommy Chau,COP,Student
-D. Le,Davis Le,COP,Student
-C. S. Stern,Craig Stephen. Stern,COP,Faculty
-H. Phan,Hai Phan,COMP,Faculty
-Y. Liang,Yuluo Liang,CO,Student
-Q. Li,Qingshun Li,GCBS,Faculty
-F. Ahmad,Farhan Ahmad,COP,Student
-S. Ali,Sajid Ali,COMP,Faculty
-C. Cao,Chenghua Cao,CDM,Faculty
-J. S. K. Chan,James K. Chan,CHS,Faculty
-C. K. Chang,Craig K. Chang,COMP,Faculty
-J. C. Chang,Joseph C. Chang,COP,Faculty
-A. T. Chen,Andrew T. Chen,COMP,Faculty
-A. Dehghan,Arghavan Dehghan,CDM,Student
-D. Diaz,Daniel Diaz,CHS,Student
-M. Gupta,Meeta Gupta,COP,Faculty
-I. Hassan,Imran Hassan ,COMP,Faculty
-J. Hussain,Jamal Hussain,COMP,Faculty
-H. H. Huynh,Hanh Hong. Huynh,COP,Faculty
-M. Khan,Mahbuba Khan,COMP,Faculty
-A. Khosravi,Ali Khosravi,COMP,Student
-K. Kim,Karine Kim,COP,Faculty
-J. Lam,Jeffrey Lam,CO,Student
-T. T. T. Le,Thomas T. Le,COMP,Faculty
-T. D. T. Le,Thomas T. Le,COMP,Faculty
-V. Mohan,Vishnu Mohan,COMP,Faculty
-J. F. Mosser,Jeffrey F. Mosser,COMP,Faculty
-M. Ng,Mikayla Ng,COP,Student
-A. H. Nguyen,Albert H. Nguyen,COMP,Faculty
-H. T. H. Nguyen,Huy T. Nguyen,CHS,Faculty
-A. Shaikh,Atifah Shaikh,CDM,Student
-J. Tian,Jinzhou Tian,COMP,Student
-J. T. Tran,James T.. Tran,CHS,Faculty
-C. Wu,Chengcong (Charlie) Wu,COMP,Faculty
-L. Zhu,Levia Zhu,COP,Student
-B. S. Kim,Brian S. Kim,COP,Faculty
-C. Zheng,Crystal Zheng,CHS,Student
-L. Hekimyan,Luiza Hekimyan,COP,Student
-F. A. Cruz,Francheska Anne Cruz,COP,Student
-T. Brower,Taylor Brower,COP,Student
-N. D. Leon,Noelle K de Leon,COP,Faculty
-N. K. D. Leon,Noelle K de Leon,COP,Faculty
-K. Uh,Kayla Uh,COP,Faculty
-X. J. Yuan,Xiao (Carol) Juan Yuan,COP,Faculty
-D. B. Tataw,David B. Tataw,CHS,Faculty
-L. Garavalia,Linda Garavalia,COP,Faculty
-I. Tonnumihara,Ivy Tonnu-Mihara,COP,Faculty
-J. H. Watanabe,Jonathan H Watanabe,COP,Faculty
-M. Davies,Marie Davies,COP,Faculty
-G. Sharma,Guru Sharma,CO,Faculty
-T. J. Kleyn,Thomas Jacob Kleyn,COP,Faculty
-T. M. Cong,Thao M. Cong,COP,Faculty
-J. S. C. Wang,Jenny C. Wang,COMP,Faculty
-C. Gill,Camrin Gill,COP,Student
-A. Abdo,Amir Abdo,COP,Student
-A. Eisa,Ava Eisa,COP,Student
-D. A. Nadeau,Daniel A. Nadeau,COP,Faculty
-D. P. L. Sachs,David P.L.. Sachs,COP,Faculty
-S. Ross,Sydney Ross,CVM,Student
-T. Hong,Thao Hong,CGN,Student
-E. M. Vivian,Eva Marie Vivian,COP,Faculty
-N. Baladybouziane,Nadrine Balady-Bouziane,COP,Faculty
-S. J. Martin,Stephanie J. Martin,COMP,Faculty
-L. Lee,Loren Lee,CDM,Faculty
-K. Johnson,Kiera Johnson,CVM,Student
-C. Supsin,Chairat Supsin,COP,Faculty
-M. E. P. Rodriguez,Mireya E. Rodriguez,CDM,Faculty
-C. Dai,Chih-Wei   Dai,COP,Faculty
-A. Rizos,Albert Rizos,COP,Faculty
-B. Tang,Binh Tang,COP,Faculty
-G. Su,Gloria Su,CGN,Student
-R. Shaneck,Rebecca Shaneck,COMP,Student
-R. Miwalian,Rita Miwalian,COMP,Student
-B. Lopez,Brianna Lopez,COP,Student
-C. Du,Claire Du,CO,Student
-P. Dang,Preston Dang,COMP,Student
-L. Tran,Lan Tran,COMP,Student
-B. Williams,Bryan Williams,CVM,Student
-D. Duong,Diana Duong,CDM,Student
-T. Clark,Trence Clark,COMP,Faculty
-S. C. Lam,Steven C Lam,COMP,Faculty
-M. Block,Molly Block,COMP,Student
-P. P. Diniz,Pedro P. Diniz,CVM,Faculty
-S. Wu,Sarah Wu,CGN,Student
-S. Do,Stacy Do,CDM,Student
-J. H. Du,Jennifer H. Du,COP,Faculty
-M. Li,Mike Li,CDM,Faculty
-J. Du,Jennifer Du,CGN,Student
-J. Tan,Jiayan Tan,COMP,Student
-G. R. Johnston,Gary R. Johnston,CVM,Faculty
-J. Cho,Jacob Cho,COMP,Student
-J. Najera,Jonathan Najera,CVM,Student
-J. A. Gama,John A. Gama,COP,Faculty
-D. Schultz,David Schultz,COMP,Student
-Y. Lu,Yimeng Lu,CVM,Student
-R. Mcgory,Robert   McGory,COP,Faculty
-H. N. Nguyen,Hoang N. Nguyen,CPM,Faculty
-G. C. Alexander,Gloria C. Alexander,COMP,Faculty
-A. H. Bitar,Adib H. Bitar,COMP,Faculty
-M. Mehta,Manish Mehta,COMP,Faculty
-L. Xu,Lisa Xu,CGN,Student
-M. Ahmed,Maha Ahmed,CO,Student
-D. Liou,Daniel Liou,COP,Faculty
-A. Ramirez,Andrea Ramirez,COP,Student
-C. J. Lee,Chang Jin Lee,CDM,Student
-V. Agarwal,Vandana Agarwal,COMP,Faculty
-J. Spencer,Jacob Spencer,COMP,Student
-A. Zhao,Alair Zhao,CPM,Student
-C. Smith,Carissa Smith,CVM,Student
-J. F. Martinez,Jesse F. Martinez,COP,Faculty
-M. Dawes,Maisie Dawes,CVM,Faculty
-M. D. Saggese,Miguel Daniel Saggese,CVM,Faculty
-R. Mireles,Rudolf Mireles,COP,Faculty
-T. J. Park,Tony J. Park,COP,Faculty
-V. Patel,Vinod Patel,COMP,Faculty
-L. X. T. Nguyen,Linda T. Nguyen,COP,Faculty
-T. Kleyn,Thomas Kleyn,COP,Faculty
-M. Cao,Minh Cao,CPM,Student
-M. J. Levi,Michael J. Levi,CPM,Faculty
-J. Tu,Jordan Tu,COMP,Student
-J. Shapiro,Jarrod Shapiro,CPM,Faculty
-D. Lin,Daphne Lin,COP,Student
-F. Chan,Francis Chan,CPM,Faculty
-K. E. Penera,Keith E Penera,CPM,Faculty
-T. R. Leaming,Troy R Leaming,CPM,Faculty
-M. Carter,Michael Carter,COMP,Faculty
-B. Rhim,Bora   Rhim,CPM,Faculty
-R. G. Frykberg,Robert G. Frykberg,CPM,Faculty
-L. J. Jones,Lester J. Jones,CPM,Faculty
-V. K. Satterfield,V Kathleeen Satterfield,CPM,Faculty
-N. T. Smith,Nathanael T.. Smith,CPM,Faculty
-J. B. Truong,Jacqueline B-T Truong,CPM,Faculty
-F. L. S. Chan,Francis L.S. Chan,CPM,Faculty
-L. Hodor,Lawrence Hodor,CPM,Faculty
-R. A. Christman,Robert A. Christman,CPM,Faculty
-K. K. Ragothaman,Kevin K. Ragothaman,CPM,Faculty
-J. Truong,Jacqueline Truong,CPM,Faculty
-A. S. Ross,Arnold S. Ross,CPM,Faculty
-J. L. Fontaine,Javier La Fontaine,CPM,Faculty
-B. Grecea,Bogdan Grecea,CPM,Faculty
-Y. Izumi,Yuki Izumi,CPM,Faculty
-K. Satterfield,Kathleen Satterfield,CPM,Faculty
-S. Desai,Shreya Desai,COP,Student
-A. L. Nguyen,Au-Co L. Nguyen,COMP,Faculty
-T. Chuang,Tiffany   Chuang,CO,Faculty
-D. Pougatsch,David Pougatsch,CPM,Faculty
-L. Oconnell,Laura-Ashley O'Connell,CPM,Faculty
-A. F. Hoffman,Arlene F. Hoffman,CPM,Faculty
-B. Amrami,Binyamin Amrami,CPM,Faculty
-T. Shaw,Tracie Shaw,CPM,Faculty
-E. Mirasol,Evyn Mirasol,CPM,Student
-L. Z. Huppin,Lawrence Z. Huppin,CPM,Faculty
-P. R. Scherer,Paul R. Scherer,CPM,Faculty
-K. Kay,Kaelen Kay,COMP,Student
-D. Griffon,Dominique   Griffon,CVM,Faculty
-J. M. Wilson,Jack M. Wilson,COMP,Faculty
-E. Boynton,Elizabeth Boynton,CVM,Faculty
-D. C. Kersey,David C. Kersey,CVM,Faculty
-L. Kidd,Linda Kidd,CVM,Faculty
-P. N. Gordonross,Paul N. Gordon-Ross,CVM,Faculty
-O. Levi,Ohad Levi,CVM,Faculty
-M. C. Barr,Margaret C. Barr,CVM,Faculty
-J. Rutllantlabeaga,Josep Rutllant-Labeaga,CVM,Faculty
-I. C. Fuentealba,I Carmen Fuentealba,CVM,Faculty
-K. S. Schulz,Kyle S.. Schulz,COMP,Faculty
-M. Fahie,Maria   Fahie,CVM,Faculty
-E. M. Charles,Elizabeth M. Charles,CVM,Faculty
-Y. H. Kim,Yoon Hee. Kim,CDM,Faculty
-J. W. Tyler,John William Tyler,CVM,Faculty
-T. Melgarejo,Tonatiuh   Melgarejo,CVM,Faculty
-B. B. Oakley,Brian B Oakley,CVM,Faculty
-B. Hayes,Brett Hayes,COMP,Student
-H. Engelke,Helen Engelke,CVM,Faculty
-J. L. Brown,Justin L. Brown,CPM,Faculty
-E. W. Collisson,Ellen W. Collisson,CVM,Faculty
-H. Jung,Hemi Jung,COP,Faculty
-Y. Drechsler,Yvonne Drechsler,CVM,Faculty
-T. Y. Morishita,Teresa Y Morishita,CVM,Faculty
-D. Chan,Dakota Chan,CHS,Student
-S. D. Johnston,Shirley D. Johnston,CVM,Faculty
-S. J. Waldhalm,Stephen James Waldhalm,CVM,Faculty
-A. L. Johnson,Alegro L. Johnson,COMP,Faculty
-J. Clark,Joshua Clark,CHS,Student
-M. Rafla,Michael Rafla,CVM,Student
-S. Johnson,Samantha Johnson,COMP,Student
-L. Y. Lee,Linda Yongchae. Lee,COP,Faculty
-B. Faramarzi,Babak Faramarzi,CVM,Faculty
-R. Hanselmann,Rhea   Hanselmann,CVM,Faculty
-A. Alcaraz,Ana Alcaraz,CVM,Faculty
-R. V. Mason,Robert V. Mason,CVM,Faculty
-J. P. Reynolds,James P Reynolds,CVM,Faculty
-R. L. Terra,Ronald L Terra,CVM,Faculty
-J. C. Wright,Jonathan C. Wright,COMP,Faculty
-D. E. Clark,David E Clark,CVM,Faculty
-L. Reese,Logan Reese,CHS,Student
-H. Lee,Hanna Lee,CDM,Faculty
-S. Waldhalm,Stephen Waldhalm,CVM,Faculty
-M. E. Cooper,Megan E. Cooper,CVM,Faculty
-S. A. Khan,Sara A. Khan,COMP,Faculty
-J. Taboada,Jordan Taboada,COMP,Student
-L. M. Rasmussen,Lara M. Rasmussen,CVM,Faculty
-P. Gordonross,Paul Gordon-Ross,CVM,Faculty
-M. Haupt,Martina Haupt,CVM,Faculty
-J. S. Anderson,Jason Scott Anderson,CVM,Faculty
-M. A. Mir,Mohammad Ayoub Mir,CVM,Faculty
-P. P. V. Diniz,Pedro P. Diniz,CVM,Faculty
-F. Bossong,Frank Bossong,CVM,Faculty
-K. Garcia,Kathryn Garcia,CVM,Student
-M. Weakley,Mina Weakley,CVM,Student
-T. Do,Tram Do,CVM,Student
-S. D. Forrester,S. Dru Forrester,CVM,Faculty
-E. P. Boynton,Elizabeth P. Boynton,CVM,Faculty
-T. R. Phillips,Thomas R. Phillips,CVM,Faculty
-D. Clark,David Clark,CVM,Faculty
-C. Zhao,Chonghao Zhao,COMP,Faculty
-R. Ramirez,Roberto Ramirez,CVM,Student
-M. E. Dawes,Maisie E Dawes,CVM,Faculty
-D. Avenick,Daniel Avenick,CVM,Faculty
-E. Green,Eric Green,CGN,Student
-D. Kersey,David   Kersey,CVM,Faculty
-R. Trevejo,Rosalie   Trevejo,CVM,Faculty
-N. Simms,Noel Simms,CVM,Student
-S. Harrison,Scarlett Harrison,CVM,Student
-A. Pena,Alexander Pena,CVM,Student
-Z. N. Hedge,Zarah N Hedge,CVM,Faculty
-D. Jung,Dahee Jung,CGN,Student
-J. A. Robinson,Jerome A. Robinson,COMP,Faculty
-C. Ross,Charles Ross,COMP,Faculty
-W. Wong,Webster Wong,COMP,Faculty
-P. D. Govett,Pamela D Govett,CVM,Faculty
-S. Cho,Stephanie Cho,COMP,Student
-M. Tanaka,Masaji Tanaka,COP,Faculty
-E. Collisson,Ellen   Collisson,CVM,Faculty
-S. K. Halland,Spring K Halland,CVM,Faculty
-A. Carloallende,Anaid Carlo-Allende,CVM,Student
-J. Ruiz,Jacob Ruiz,CVM,Student
-J. A. Johnson,Jacqueline Anne. Johnson,COMP,Faculty
-S. Halland,Spring Halland,CVM,Faculty
-G. Barrett,Gini   Barrett,CVM,Faculty
-M. Kent,Micaela Kent,CVM,Student
-A. Srivastava,Ananta Srivastava,COMP,Student
-L. J. Thompson,Leonard J. Thompson,COMP,Faculty
-G. White,Garrison White,COMP,Student
-H. Liu,Hui Liu,CDM,Faculty
-S. J. Henriksen,Steven Jon Henriksen,GCBS,Faculty
-M. Karama,Musafiri   Karama,CVM,Faculty
-C. S. Osmond,Christian S. Osmond,CVM,Faculty
-J. Joslin,Janis Joslin,CVM,Faculty
-D. E. Mcclure,Diane E. McClure,CVM,Faculty
-A. Lopez,Amanda Lopez,CO,Student
-R. E. Marin,Rebecca E.. Marin,CDM,Faculty
-S. Hill,Steve Hill,CVM,Faculty
-T. M. Concannon,Timothy M. Concannon,CVM,Faculty
-V. Q. A. Le,Quang A Le,COP,Faculty
-M. Mendoza,Mary Mendoza,CGN,Student
-P. Lin,Pen-Jen Lin,GCBS,Faculty
-H. B. Hamilton,Helen B. Hamilton,CVM,Faculty
-P. D. Nelson,Phillip D. Nelson,CVM,Faculty
-D. Kim,Da Kim,CO,Student
-Z. Hedge,Zarah Hedge,CVM,Faculty
-C. Bacmeister,Cynthia Bacmeister,CVM,Faculty
-S. S. Lee,Steven Sungkoo. Lee,COMP,Faculty
-C. Miller,Courtney Miller,CVM,Student
-S. Henriksen,Stephen Henriksen,CDM,Student
-T. S. Mcnamara,Tracey S. McNamara,CVM,Faculty
-N. Kim,Nickaulus Kim,CDM,Student
-D. Smylie,Dean Smylie,CVM,Faculty
-M. Winters,Morgan Winters,CVM,Student
-A. Long,Aleksandra Long,CVM,Student
-J. D. Ondrak,Jeff D. Ondrak,CVM,Faculty
-B. T. Halsberghe,Bart Tom. Halsberghe,CVM,Faculty
-S. Cao,Shirley Cao,CGN,Student
-G. J. Valenzuela,Guillermo J. Valenzuela,COMP,Faculty
-M. H. Rodriguez,Maria Hellen. Rodriguez,COMP,Faculty
-S. Zhu,Shelley Zhu,CHS,Student
-S. Arabian,Sarkis Arabian,COMP,Faculty
-K. Dong,Kelly Dong,COMP,Student
-C. Johnson,C. Anderson Johnson,COMP,Faculty
-K. Wu,Kevin Wu,COMP,Student
-E. Lupori,Ellese Lupori,COMP,Student
-H. Young,Halle Young,COMP,Student
-S. Thomas,Silas Thomas,CHS,Student
-D. Beckett,David Beckett,COMP,Student
-G. Gingras,Graham Gingras,COMP,Student
-J. Williams,Judd Williams,COMP,Student
-A. Truong,Andrew Truong,CHS,Student
-R. Nguyen,Randy Nguyen,COP,Student
-J. Martinez,Johnathan Martinez,COMP,Student
-S. W. Cohen,Steven William. Cohen,COMP,Faculty
-S. Salgia,Sabrina Salgia,COMP,Student
-R. Xu,Ruobing Xu,CDM,Student
-D. Agrawal,D. Agrawal,CCTR,Faculty
-V. Thomas,Violet Thomas,CHS,Student
-D. K. Agrawal,D. K. Agrawal,CCTR,Faculty
-M. Bradley,Mikayla Bradley,COMP,Student
-S. Henry,Sean Henry,CHS,Student
-G. R. D. Evans,Gregory RD. Evans,CHS,Faculty
-V. Kumar,Vikram Kumar,COMP,Faculty
-V. Rai,V. Rai,CCTR,Faculty
-M. Thakur,Mannat Thakur,COMP,Student
-M. Atwal,Manreet Atwal,CDM,Student
-D. Rabadi,Donya Rabadi,CPM,Student
-B. Wong,Brian Wong,CPM,Student
-D. Chung,Daniel Chung,CPM,Student
-A. M. Estes,Adrienne M Estes,CPM,Faculty
-R. Chen,Rosana Chen,CDM,Faculty
-P. V. Cheng,Pauline Valerie Cheng,COMP,Student
-M. Kaur,Manjot Kaur,COP,Student
-R. Kaur,Rabina Kaur,COMP,Student
-N. Arora,Nyanika Arora,CPM,Student
-T. Haider,Tasnia Haider,COMP,Student
-C. Jimenez,Christopher Jimenez,CDM,Student
-T. Smith,Tori Smith,COMP,Faculty
-M. R. Ahmed,Mohamed   Radwan Ahmed,COMP,Faculty
-S. Nath,Shilpa Nath,COMP,Student
-D. J. Raz,Dan J. Raz,CHS,Faculty
-A. C. Brady,Adam C.. Brady,COMP,Faculty
-K. M. Middleton,Kevin M. Middleton,COMP,Faculty
-B. Tran,Bao Cong Tran,COMP,Faculty
-M. Rudolph,Michael Rudolph,COMP,Faculty
-J. P. T. Nguyen,Phu Thien. Nguyen,COMP,Faculty
-L. Limfueco,Luke Limfueco,COMP,Student
-G. Yu,Gavin Yu,COMP,Student
-S. Lam,Steven Lam,COMP,Faculty
-E. Nguyen,Elaine Nguyen,COP,Faculty
-M. L. Johnson,Malia L. Johnson,CDM,Faculty
-J. D. Leon,Jilliane De Leon,CVM,Student
-M. Hanna,Merna Hanna,CDM,Student
-J. Zhu,Juanqi (Nikki) Zhu,COP,Faculty
-B. O. S. Bengtsson,Bengt-Ola S. Bengtsson,COMP,Faculty
-G. Gugelchuk,Gary Gugelchuk,COMP,Faculty
-S. Alvarez,Samuel Alvarez,CHS,Student
-P. Vyas,Pankaj Vyas,CGN,Faculty
-J. Seo,Jeongbin Seo,COMP,Student
-D. W. Lee,David W. Lee,COMP,Faculty
-A. Lavi,Alfred Lavi,COMP,Faculty
-D. Castro,Dominador Castro,CHS,Student
-A. Bui,Alysandra Bui,CHS,Student
-S. Hu,Stacy   Hu,CO,Faculty
-Y. Tang,Yin Tang,CDM,Faculty
-R. Leeper,Rick Leeper,COMP,Faculty
-D. Mashiach,Daniel Mashiach,COMP,Student
-J. Wood,Jeremy Wood,COMP,Student
-K. Mccutcheon,Kaitlyn McCutcheon,CVM,Student
-K. Duong,Kim Duong,COMP,Student
-V. Wong,Vicky Wong,CO,Student
-S. E. Davis,Steven Earl. Davis,COMP,Faculty
-S. Morgan,Sally Morgan,CGN,Faculty
-S. J. Lee,Sung June Lee,COMP,Student
-M. H. Lee,Margaret H. Lee,CPM,Faculty
-S. Stewart,Samuel Stewart,COMP,Student
-M. E. K. Wong,Edward K. Wong,GCBS,Faculty
-V. Amin,Vidhi Amin,COMP,Student
-J. Shih,Jeremy Shih,CPM,Student
-M. C. Gupta,Mahesh C.. Gupta,COMP,Faculty
-J. C. Steinmann,John C. Steinmann,CHS,Faculty
-J. Cohen,Jennifer   Cohen,CGN,Faculty
-A. Samples,Alexis Samples,COMP,Student
-A. Garcia,Alina Garcia,CO,Student
-M. Soh,Margaret Soh,CDM,Faculty
-D. Cabrera,Danica Cabrera,COP,Student
-M. Choi,Michael Choi,COP,Faculty
-L. M. Oloff,Lawrence M. Oloff,CPM,Faculty
-T. Yang,Tiffany Yang,COMP,Student
-A. Tan,Andrew Tan,COP,Faculty
-S. Frey,Samantha Frey,COMP,Student
-M. Martinez,Mariana Martinez,CVM,Student
-M. Y. Chen,Ming Y. Chen,COMP,Faculty
-R. Michel,Rosemay Michel,CPM,Faculty
-A. Yeh,Andrew Yeh,COMP,Faculty
-M. Hall,Maryanne Hall,CHS,Faculty
-J. Kurtz,Jeremy Kurtz,COMP,Student
-J. T. Pham,John T. Pham,COMP,Faculty
-G. Brennan,Greg Brennan,CVM,Faculty
-J. O. P. Chung,Jennifer P. Chung,CDM,Faculty
-M. Islam,Maha Islam,CDM,Student
-D. Fitzgerald,Danielle Fitzgerald,CDM,Student
-Q. Yu,Qinlin Yu,COMP,Student
-P. Jones,Priscilla Jones,COMP,Student
-L. L. Herman,Linda L. Herman,COMP,Faculty
-S. Zarei,Setareh Zarei,CHS,Student
-F. Nasouri,Farnoush Nasouri,COMP,Student
-M. Pham,Maggie Pham,COMP,Faculty
-F. Iqbal,Fatima Iqbal,COMP,Student
-J. L. Fairley,Jeffrey L Fairley,CHS,Faculty
-N. Vega,Norma Vega,CGN,Student
-N. Kadri,Nadine Kadri,COMP,Student
-W. Nguyen,William Nguyen,CDM,Student
-S. Banerjee,Sudeshna Banerjee,COMP,Faculty
-F. Yu,FengHui Yu,COMP,Student
-R. Zhao,Ruizhuo Zhao,CGN,Student
-O. Orabueze,Ogochukwu Orabueze,COP,Student
-H. L. Chang,Hyewon L. Chang,CO,Faculty
-D. M. Emanuele,Donna M Emanuele,CGN,Faculty
-L. H. P. Nguyen,Loan P. Nguyen,COMP,Faculty
-J. Flores,Jessica Flores,CVM,Student
-W. T. Kirby,William T. Kirby,COMP,Faculty
-W. B. Harer,W. Benson. Harer,COMP,Faculty
-A. Alirezaei,Arash Alirezaei,CDM,Student
-A. Hernandez,Ariana Hernandez,COMP,Student
-M. Sullivan,Mary Sullivan,COMP,Faculty
-J. Elo,Jeffrey Elo,CDM,Faculty
-C. E. A. Chang,Caroline A.. Chang,CDM,Faculty
-J. Gomez,Jerardo Gomez,CHS,Student
-J. Liao,Jenng-Jong Liao,COMP,Faculty
-J. Imbrie,John Imbrie,COMP,Student
-R. M. Cestero,Ramon M. Cestero,COMP,Faculty
-J. C. Young,Jeffrey C. Young,COMP,Faculty
-N. M. Aboukaram,Nada M.. Abou-Karam,COP,Faculty
-S. P. Chawla,Sant P. Chawla,COMP,Faculty
-A. Raja,Ajith Raja,COMP,Student
-C. Steinberg,Craig Steinberg,COP,Faculty
-J. Ledesma,Jennifer Ledesma,COP,Student
-D. Trinh,Daniel Trinh,COMP,Student
-G. Hollands,Gillian   Hollands,CO,Faculty
-R. Gordon,Robert Gordon,CO,Faculty
-J. C. Messenger,John C. Messenger,COMP,Faculty
-M. D. Schwartz,Michael D. Schwartz,COMP,Faculty
-A. Andrade,Amber Andrade,COMP,Student
-J. Kovacs,J. Suzie   Kovacs,CVM,Faculty
-J. Yeam,Joohee Yeam,COMP,Student
-G. Thrush,Gerald Thrush,COMP,Faculty
-J. Hsiou,Joyce Hsiou,COMP,Student
-K. Ha,Ken Ha,COMP,Student
-J. H. Patel,Jignesh H. Patel,COP,Faculty
-C. C. Letherer,Cathy Chang Letherer,CHS,Faculty
-K. Bianco,Kathy   Bianco,CHS,Faculty
-S. H. Kim,Steven H. Kim,COP,Faculty
-J. Abraham,Julie Abraham,COP,Faculty
-N. Hashemi,Nastran Hashemi,COMP,Faculty
-H. King,Hwa-Kou King,COMP,Faculty
-K. T. Nguyen,Khoa T. Nguyen,CDM,Faculty
-M. G. Garoufalis,Mathew G. Garoufalis,CPM,Faculty
-D. L. Johnson,Debra L.. Johnson,CHS,Faculty
-J. Rosen,Joseph Rosen,COMP,Student
-J. L. Mills,Joseph L. Mills,CPM,Faculty
-M. Wang,Michelle Wang,COMP,Student
-A. Bains,Anoopjot Bains,COMP,Student
-D. Chim,David Chim,COMP,Faculty
-P. H. Cheng,Peter H. Cheng,COMP,Faculty
-M. K. Sebzda,Mary K. Sebzda,CVM,Faculty
-N. Tran,Nhi Tran,COP,Student
-A. Sze,Aaron Sze,CHS,Student
-D. Li,Debory Li,COMP,Student
-S. Siddiqi,Shan Siddiqi,COMP,Faculty
-A. Ross,Amy Ross,CVM,Student
-T. T. S. Clair,Tyler St. Clair,COMP,Student
-J. Olson,Jenessa Olson,COMP,Student
-J. Miller,Jordan Miller,COMP,Student
-S. Azad,Sharmeen Azad,COMP,Student
-R. Fu,Rong Fu,CO,Student
-J. Chow,James Chow,COP,Faculty
+id,Author,Full_Name,College,Status
+1,J. Wu,Jiaqian Wu,COMP,Student
+2,C. Kim,Chul Kim,CPM,Faculty
+3,Y. J. Kim,Young Joo Kim,CVM,Faculty
+4,D. Han,Danny Han,COP,Student
+5,A. Gupta,Anushree Gupta,COMP,Faculty
+6,J. M. Norian,John M. Norian,COMP,Faculty
+7,J. Nelson,J. Michael Nelson,COMP,Faculty
+8,T. Tan,Tiffany Tan,COMP,Student
+9,S. Patel,Saloni Patel,COP,Student
+10,H. M. Nguyen,Hieu T M. Nguyen,COMP,Faculty
+11,T. Wood,Timothy Wood,CHS,Faculty
+12,F. G. Thankam,Finosh G. Thankam,COMP,Faculty
+13,J. G. Ayoub,Joelle G. Ayoub,COP,Faculty
+14,M. M. R. Ahmed,Mohamed   Radwan Ahmed,COMP,Faculty
+15,D. R. Wilson,Daniel R. Wilson,COMP,Faculty
+16,R. Moellmer,Rebecca Moellmer,CPM,Faculty
+17,E. Rega,Elizabeth Rega,COMP,Faculty
+18,S. S. Sumida,Stuart S. Sumida,COMP,Faculty
+19,J. Tam,Janelle Tam,CDM,Student
+20,D. Shofler,David Shofler,CPM,Faculty
+21,C. Liu,Chunming Liu,CO,Faculty
+22,D. Lee,David Lee,COMP,Faculty
+23,J. Lee,Jongmi Lee,COP,Faculty
+24,D. J. Sanchez,David Jesse Sanchez,COP,Faculty
+25,H. Singh,Hitasha Singh,COMP,Faculty
+26,J. Huynh,Jasmine Huynh,COP,Student
+27,W. Fang,William Fang,CDM,Student
+28,E. A. Rega,Elizabeth A. Rega,COMP,Faculty
+29,A. Lee,Alexander Lee,CDM,Faculty
+30,C. Diaz,Cindy Diaz,CO,Student
+31,E. Hoppe,Elizabeth Hoppe,CO,Faculty
+32,I. Chung,Ida Chung,CO,Faculty
+33,D. J. Cameron,D. Joshua Cameron,CO,Faculty
+34,N. K. Yadav,Naveen Kumar Yadav,CO,Faculty
+35,C. S. Boosani,Chandra Shekhar Boosani,COMP,Faculty
+36,A. Pumerantz,Andrew Pumerantz,COMP,Faculty
+37,J. Wang,Joe Wang,CDM,Faculty
+38,S. Agrawal,Suneil Agrawal,COMP,Faculty
+39,M. Nguyen,My Van Nguyen,COMP,Faculty
+40,R. Kuan,Rebecca Kuan,COMP,Student
+41,M. Liu,Michelle Liu,CHS,Student
+42,S. M. Farahfranco,Sandra M Farah-Franco,CDM,Faculty
+43,E. A. Andrews,Elizabeth Ann Andrews,CDM,Faculty
+44,S. Rowan,Sean Rowan,CVM,Student
+45,F. Dong,Fanglong Dong,GCBS,Faculty
+46,E. Andrews,Elizabeth Andrews,CDM,Faculty
+47,S. R. Shah,Samantha R. Shah,COMP,Faculty
+48,Y. Wang,Yubin   Wang,CPM,Faculty
+49,M. Baudry,Michel Baudry,GCBS,Faculty
+50,H. Deoghare,Harshavardhan Deoghare,CHS,Faculty
+51,C. C. White,Candice C.. White,CDM,Faculty
+52,J. Tran,Jimmy Tran,CDM,Faculty
+53,X. Bi,Xiaoning Bi,COMP,Faculty
+54,M. Ly,Meisan Ly,CGN,Student
+55,T. K. Boehm,Tobias K Boehm,CDM,Faculty
+56,M. Yu,Minho Yu,COMP,Faculty
+57,Q. Q. Li,Qingshun Quinn Li,GCBS,Faculty
+58,D. Yang,David Yang,CO,Student
+59,J. A. Elo,Jeffrey A Elo,CDM,Faculty
+60,H. K. Chan,Hubert K. Chan,CDM,Faculty
+61,B. S. Henson,Bradley S. Henson,CDM,Faculty
+62,R. D. Stevenson,Robert D. Stevenson,CDM,Faculty
+63,G. Pape,Gary Pape,CDM,Faculty
+64,B. Benninger,Brion   Benninger,COMP,Faculty
+65,A. Peterson,Amber Peterson,COMP,Student
+66,T. Boehm,Tobias Boehm,CDM,Faculty
+67,J. B. Lewis,Jack B. Lewis,CHS,Faculty
+68,A. Tran,Andrew Tran,COP,Student
+69,K. Vu,Katelyn Vu,COMP,Student
+70,K. Lutfy,Kabirullah Lutfy,COP,Faculty
+71,C. A. Nosrat,Christopher A Nosrat,CDM,Faculty
+72,L. Oconnor,Lucian O'Connor,CDM,Faculty
+73,A. E. D. Van,Anne E. Doan Van,CDM,Faculty
+74,P. Simeteys,Paul Simeteys,CDM,Faculty
+75,M. K. Watanabe,Marisa Kawata Watanabe,CDM,Faculty
+76,E. Lee,Erin Lee,COP,Student
+77,A. L. Lee,Alexander L Lee,CDM,Faculty
+78,M. Covasa,Mihai Covasa,COMP,Faculty
+79,J. M. Laudenbach,Joel M.. Laudenbach,CDM,Faculty
+80,S. J. Aston,Sheree J. Aston,CO,Faculty
+81,A. Lam,Annie Lam,COP,Student
+82,K. Nguyen,Kelly Nguyen,COP,Student
+83,B. Mcallister,Bennett McAllister,CO,Faculty
+84,T. Harris,Tiffenie Harris,CO,Faculty
+85,M. Neiberg,Maryke Neiberg,CO,Faculty
+86,J. Lin,Jennifer Lin,COMP,Faculty
+87,R. W. Hicks,Rodney W Hicks,CGN,Faculty
+88,C. Li,Cameron Li,CVM,Student
+89,M. Chan,Matthew Chan,COP,Student
+90,A. D. Van,Anne E. Doan Van,CDM,Faculty
+91,K. Hines,Kelli Hines,COMP,Faculty
+92,B. P. Kraatz,Brian P Kraatz,COMP,Faculty
+93,M. J. Wedel,Mathew J. Wedel,COMP,Faculty
+94,D. Seleem,Dalia   Seleem,CDM,Faculty
+95,A. Ha,Allyssa Ha,COMP,Student
+96,S. Mirfarsi,Sahar   Mirfarsi,CDM,Faculty
+97,K. Matsumuralem,Karen Matsumura-Lem,CDM,Faculty
+98,S. A. Gold,Steven A Gold,CDM,Faculty
+99,M. P. Fraix,Marcel P. Fraix,COMP,Faculty
+100,A. Sathananthan,Airani Sathananthan,COMP,Faculty
+101,J. K. Chan,James K. Chan,CHS,Faculty
+102,V. Venketaraman,Vishwanath Venketaraman,COMP,Faculty
+103,B. Diep,Bryant Diep,CVM,Student
+104,B. Fung,Brent Fung,CDM,Faculty
+105,B. Chui,Brian Chui,CDM,Faculty
+106,C. A. Goode,Christina Ann. Goode,GCBS,Faculty
+107,M. Gutierrez,Marco Gutierrez,CHS,Student
+108,N. Mohseni,Nazleen Mohseni,CVM,Student
+109,M. Chang,Megan Chang,COMP,Student
+110,H. Burger,Hannah Burger,CVM,Student
+111,M. Peters,Mykah Peters,CVM,Student
+112,E. Chen,Eugene Chen,CO,Student
+113,I. Kang,Ilho Kang,COMP,Faculty
+114,Y. Xiong,Yijia Xiong,COMP,Faculty
+115,S. Chatterjee,Sudarshan Chatterjee,COMP,Faculty
+116,E. Moore,Emily Moore,CHS,Student
+117,J. Borke,James   Borke,CDM,Faculty
+118,R. Desai,Raina Desai,COMP,Student
+119,A. S. Pumerantz,Andrew S Pumerantz,COMP,Faculty
+120,J. T. Hostetler,Josih T. Hostetler,CDM,Faculty
+121,K. Lee,Kara Lee,COP,Student
+122,J. Tegzes,John   Tegzes,CVM,Faculty
+123,E. Katsaros,Emmanuel Katsaros,COMP,Faculty
+124,L. Liggan,Lindsey Liggan,CHS,Faculty
+125,C. Pham,Christine Pham,CO,Faculty
+126,S. Chui,Sam   Chui,CDM,Faculty
+127,Y. Peng,Yawen Peng,CDM,Faculty
+128,S. Y. Kang,Shirley Y. Kang,CDM,Faculty
+129,Y. Hong,Yiling Hong,CVM,Faculty
+130,L. Chang,Lee-Wen Chang,CVM,Student
+131,Z. Tumur,Zohra Tumur,CHS,Student
+132,C. Parsa,Cyrus Parsa,COMP,Faculty
+133,R. P. Kandpal,Raj P. Kandpal,COMP,Faculty
+134,S. Standley,Steve   Standley,GCBS,Faculty
+135,Y. Luo,Yun(Lyna) Luo,COP,Faculty
+136,W. Wang,Weijie Wang,COMP,Student
+137,S. W. Friedrichsen,Steven W. Friedrichsen,CDM,Faculty
+138,H. M. Singh,Hardev M.. Singh,CDM,Faculty
+139,P. G. Davey,Pinakin G. Davey,CO,Faculty
+140,F. Rodriguezparis,Fernando Rodriguez-Paris,CDM,Faculty
+141,N. Venugopal,Nithya   Venugopal,CDM,Faculty
+142,D. E. Miulli,Daniel E. Miulli,CHS,Faculty
+143,T. S. Martinez,Timothy S Martinez,CDM,Faculty
+144,A. Luong,Amanda Luong,CVM,Student
+145,N. Ali,Najia Ali,COMP,Student
+146,R. Shah,Rahul Shah,COMP,Student
+147,J. Lewis,Jill Lewis,CDM,Faculty
+148,R. Hasel,Robert Hasel,CDM,Faculty
+149,J. Ywom,James Ywom,CDM,Faculty
+150,M. Singh,Menmeet Singh,CDM,Faculty
+151,L. Tong,Lane Tong,COMP,Student
+152,P. Kaur,Prabhleen Kaur,COMP,Student
+153,B. Le,Brian Le,CO,Student
+154,E. Kahng,Eunice Kahng,CVM,Student
+155,M. Mir,Mohammad Mir,CVM,Faculty
+156,J. Huang,Jia Huang,COMP,Student
+157,J. Lai,Jessica Lai,COMP,Student
+158,C. Yang,Chiana Yang,COMP,Student
+159,A. Espinosa,Alexia Espinosa,CGN,Student
+160,K. R. Boyer,Keith R Boyer,CDM,Faculty
+161,B. S. Chui,Brian S Chui,CDM,Faculty
+162,V. L. Wedel,Vicki L. Wedel,COMP,Faculty
+163,M. Lee,Michelle Lee,COP,Faculty
+164,L. Zhong,Li Zhong,COMP,Faculty
+165,C. Gomez,Christian Gomez,COMP,Student
+166,D. A. Lazarchik,David A Lazarchik,CDM,Faculty
+167,D. Patel,Dhrupalkumar Patel,COP,Student
+168,S. Hosseini,Sareh Hosseini,CPM,Student
+169,J. S. Park,Jin S. Park,COMP,Faculty
+170,C. Lee,Christopher Lee,COP,Student
+171,Q. T. Edwards,Quannetta T. Edwards,CGN,Faculty
+172,G. Orozco,Gwendelyn   Orozco,CGN,Faculty
+173,R. Hicks,Rodney Hicks,CGN,Faculty
+174,L. R. Ponsford,Lisa R Ponsford,CGN,Faculty
+175,Q. H. Nguyen,Quynh-Nhu H.. Nguyen,COP,Faculty
+176,M. A. Weaver,Michelle A Weaver,CGN,Faculty
+177,D. Lithgow,Diana Lithgow,CGN,Faculty
+178,R. J. Mays,R. Juanita Mays,CGN,Faculty
+179,I. C. Tuason,Ivy C Tuason,CGN,Faculty
+180,R. Trudgeon,Ruth   Trudgeon,CGN,Faculty
+181,D. Stone,Dawn Stone,CGN,Faculty
+182,J. Boller,Jan Boller,CGN,Faculty
+183,M. Lopez,Mary Lopez,CGN,Faculty
+184,P. Mccluskeyandre,PattI McCluskey-Andre,CGN,Faculty
+185,M. Miller,Mykel Miller,COMP,Student
+186,Q. A. Le,Quang A Le,COP,Faculty
+187,K. J. Dang,"Khoa ""Joey"". Dang",CGN,Faculty
+188,J. Chung,Joseph Chung,CHS,Student
+189,W. Le,William Le,CHS,Student
+190,A. Melendez,Alondra Melendez,CHS,Student
+191,K. Tanaka,Kimi Tanaka,COMP,Student
+192,L. Yu,Linyi Yu,CVM,Student
+193,X. Zhao,Xingyu Zhao,CDM,Student
+194,N. Patel,Neel Patel,COMP,Faculty
+195,D. Emanuele,Donna Emanuele,CGN,Faculty
+196,D. Schilling,Denise Schilling,CHS,Faculty
+197,M. Sanchez,Michelle Sanchez,COMP,Faculty
+198,C. A. Jackevicius,Cynthia A. Jackevicius,COP,Faculty
+199,M. Kumar,Manisha Kumar,COMP,Student
+200,N. Khan,Nadir   Khan,COMP,Faculty
+201,C. L. Crawford,Carol L. Crawford,COP,Faculty
+202,N. Singh,Nicole Singh,CVM,Student
+203,S. Chow,Sheryl Chow,COP,Faculty
+204,W. M. Swanson,Wendi M Swanson,CGN,Faculty
+205,M. Alatrash,Manal Alatrash,CGN,Faculty
+206,B. Brownell,Beverly   Brownell,CGN,Faculty
+207,M. Marinello,Michael Marinello,CGN,Student
+208,J. Hernandez,Jennifer Hernandez,CVM,Student
+209,T. Escobedo,Tina Escobedo,CGN,Faculty
+210,L. Roberts,Laura Roberts,COMP,Student
+211,A. V. Law,Anandi V. Law,COP,Faculty
+212,D. M. Selkowitz,David M. Selkowitz,CHS,Faculty
+213,M. M. Neeki,Michael M.. Neeki,COMP,Faculty
+214,D. Wong,Donna Wong,COMP,Faculty
+215,J. I. Kailes,June Isaacson. Kailes,CHS,Faculty
+216,S. Stuckey,Sandra   Stuckey,CHS,Faculty
+217,D. Berger,David Berger,COMP,Faculty
+218,J. Zhang,Jingwen Zhang,CDM,Student
+219,J. Yu,Jonathan Yu,CHS,Student
+220,K. Roback,Karin Roback,CHS,Faculty
+221,S. Feng,Stanley Feng,COMP,Student
+222,T. Le,Tram Le,COP,Student
+223,L. Podesta,Luga Podesta,COMP,Faculty
+224,J. Kim,Joseph Kim,CHS,Faculty
+225,T. Mosconi,Tony   Mosconi,CHS,Faculty
+226,C. Chaney,Casey Chaney,CHS,Faculty
+227,S. Kamath,Sylvia   Kamath,COMP,Faculty
+228,D. Redmanbentley,Donna   Redman-Bentley,CHS,Faculty
+229,D. C. Armstrong,Dayle C. Armstrong,CHS,Faculty
+230,G. Swanson,Gretchen Swanson,CHS,Faculty
+231,L. Carrothers,LeeAnn Carrothers,CHS,Faculty
+232,M. Hudsonmckinney,Mary Hudson-McKinney,CHS,Faculty
+233,J. Davis,Jeannie Davis,COMP,Faculty
+234,G. Vlad,Georgeanne   Vlad,CHS,Faculty
+235,G. M. Hirayama,Grant M Hirayama,CHS,Faculty
+236,R. Wolfe,Rachael Wolfe,COMP,Student
+237,A. Robinson,Amber Robinson,CGN,Student
+238,J. Gordon,Joseph Gordon,COMP,Faculty
+239,J. C. Wang,Jenny C. Wang,COMP,Faculty
+240,R. L. Bravo,Rosana L Bravo,CHS,Faculty
+241,T. Meyer,Tina Meyer,CHS,Faculty
+242,M. Lundberg,Mika Lundberg,COMP,Student
+243,L. K. Truong,Long K. Truong,CPM,Faculty
+244,A. Wu,Anne Wu,CHS,Student
+245,P. Evans,Paul Evans,COMP,Faculty
+246,D. Tran,David Tran,CVM,Student
+247,S. Yoon,Sonyeol Yoon,COMP,Student
+248,T. J. Wood,Timothy J. Wood,CHS,Faculty
+249,T. Morishita,Theresa Morishita,CVM,Faculty
+250,Z. Ayyoub,Ziyad Ayyoub,COMP,Faculty
+251,D. Sellen,David Sellen,COMP,Faculty
+252,J. Shen,Jie Shen,CO,Faculty
+253,F. Spors,Frank   Spors,CO,Faculty
+254,L. Mcnaughton,Lance McNaughton,CO,Faculty
+255,D. J. Egan,Donald J Egan,CO,Faculty
+256,D. W. Ethell,Douglas W. Ethell,GCBS,Faculty
+257,Y. Yang,Yikang Yang,COP,Student
+258,S. Fuchs,Sebastein Fuchs,COMP,Faculty
+259,C. Eng,Curtis Eng,CVM,Faculty
+260,K. Walker,Kimberly Walker,CO,Faculty
+261,K. Remickwaltman,Kristy Remick-Waltman,CO,Faculty
+262,K. Tran,Khanh Tran,CO,Faculty
+263,J. Vainshtein,Jacklyn Vainshtein,COMP,Student
+264,A. Petrosyan,Aelita Petrosyan,COMP,Student
+265,K. Inouye,Keiko Inouye,COMP,Student
+266,C. L. Haine,Charles L. Haine,CO,Faculty
+267,E. Castellanos,Efrain Castellanos,CO,Faculty
+268,N. Jakirlic,Naida Jakirlic,CO,Faculty
+269,P. Dobies,Paul Dobies,CO,Faculty
+270,V. Tiwari,Vaibhav   Tiwari,COMP,Faculty
+271,J. Liu,Jiawei Liu,CDM,Student
+272,S. Khanal,Sanjaya Khanal,COMP,Faculty
+273,J. Tassinari,John Tassinari,CO,Faculty
+274,J. W. Yumori,Jasmine Wong Yumori,COMP,Faculty
+275,J. Park,James Park,COMP,Faculty
+276,D. Leung,Dennis Leung,CO,Faculty
+277,S. Mackintosh,Susan MacKintosh,COMP,Faculty
+278,J. D. Tassinari,John D Tassinari,CO,Faculty
+279,J. Dalprat,Jose Dalprat,COMP,Faculty
+280,C. Thompson,Carolyn Thompson,COMP,Faculty
+281,M. A. Swairjo,Manal A Swairjo,GCBS,Faculty
+282,A. Yu,Austin Yu,COMP,Faculty
+283,A. Ngo,Andy Ngo,COMP,Student
+284,D. Kurtz,Daniel Kurtz,CO,Faculty
+285,L. Pang,Linda Pang,CO,Faculty
+286,K. Mccaffrey,Kate McCaffrey,COMP,Faculty
+287,J. Pham,Jenny Pham,CHS,Student
+288,R. Dreibelbis,Robyn   Dreibelbis,COMP,Faculty
+289,J. Chen,Joy Chen,COMP,Student
+290,A. Chan,Angela Chan,CDM,Faculty
+291,J. Y. Lee,Jung Yeon Lee,COMP,Student
+292,L. L. Bellomy,Linda   Luong Bellomy,CO,Faculty
+293,C. H. Chase,Christopher H. Chase,CO,Faculty
+294,K. Napierdovorany,Kierstyn Napier-Dovorany,CO,Faculty
+295,A. Vo,An   Vo,CO,Faculty
+296,C. A. Chang,Caroline A.. Chang,CDM,Faculty
+297,A. Perez,Alisal Perez,CGN,Student
+298,S. Wong,Sharon Wong,COMP,Student
+299,C. Duong,Cindy Duong,COMP,Student
+300,A. Thakkar,Arvind Thakkar,COP,Faculty
+301,S. Prabhu,Sunil Prabhu,COP,Faculty
+302,Z. Chen,Zhengxi Chen,CDM,Faculty
+303,D. K. Tsang,Dorcas K Tsang,CO,Faculty
+304,K. Dang,Khoa Dang,CGN,Faculty
+305,V. Q. Wren,Valerie Q. Wren,CO,Faculty
+306,J. H. Tegzes,John H. Tegzes,CVM,Faculty
+307,M. Mesisca,Mike Mesisca,COMP,Faculty
+308,K. Hoffman,Keasha Hoffman,COMP,Faculty
+309,R. J. Hruby,Raymond J. Hruby,COMP,Faculty
+310,K. Lin,Kevin Lin,CVM,Student
+311,J. Gray,Jeremy Gray,COMP,Student
+312,J. Guan,Joann Guan,COMP,Student
+313,G. D. Sharma,Guru D Sharma,CO,Faculty
+314,Y. Huang,Ying Huang,COP,Faculty
+315,Z. Wang,Zhijun(Kevin) Wang,COP,Faculty
+316,J. Hao,Jijun Hao,CVM,Faculty
+317,K. A. Jensen,Kristi A Jensen,CO,Faculty
+318,N. A. Darmani,Nissar A. Darmani,COMP,Faculty
+319,K. Mai,Kelvin Mai,COMP,Faculty
+320,D. Adams,Deven Adams,CDM,Student
+321,I. Glassman,Ira Glassman,COMP,Student
+322,H. Szurmant,Hendrik Szurmant,COMP,Faculty
+323,Y. Kim,Yoora Kim,CVM,Student
+324,A. Chen,Audrey Chen,CO,Faculty
+325,A. Nelson,Anita Nelson,COMP,Faculty
+326,T. Pham,Timothy Pham,COP,Student
+327,G. J. Stevens,Gloria J. Stevens,COMP,Faculty
+328,D. Q. Pham,Diem Q.. Pham,COMP,Faculty
+329,A. P. Ray,Andrew P Ray,CPM,Faculty
+330,J. Ramirez,Juan Ramirez,COMP,Faculty
+331,K. Irizarry,Kristopher   Irizarry,CVM,Faculty
+332,K. Mitsouras,Katherine   Mitsouras,COMP,Faculty
+333,D. Vu,Don Vu,COP,Faculty
+334,T. Shah,Tariq Shah,COP,Faculty
+335,M. L. Steinauer,Michelle L Steinauer,COMP,Faculty
+336,M. Hata,Micah Hata,COP,Faculty
+337,B. Saviola,Beatrice Saviola,COMP,Faculty
+338,J. Felton,Jeffrey   Felton,COMP,Faculty
+339,P. Kim,Peter Kim,CHS,Student
+340,A. Mccague,Andrew McCague,CHS,Faculty
+341,S. Li,Shannelle Li,COP,Student
+342,K. Wong,Kali Wong,COP,Student
+343,E. Martinez,Emma Martinez,CGN,Student
+344,S. Nguyen,Sophie Nguyen,COP,Student
+345,A. K. Mathur,Arvind K. Mathur,COMP,Faculty
+346,H. Kolli,Hemchand Kolli,COMP,Faculty
+347,T. Nguyen,Tuan Nguyen,COMP,Faculty
+348,L. Perez,Lorraine Perez,CGN,Student
+349,E. J. Wagner,Edward J. Wagner,COMP,Faculty
+350,C. Trinh,Christina Trinh,COMP,Student
+351,R. S. Brar,Rajivinder S. Brar,COMP,Faculty
+352,K. Sasaninia,Kayvan Sasaninia,COMP,Student
+353,A. Badaoui,Ali Badaoui,COMP,Student
+354,L. Nabipur,Leena Nabipur,COMP,Student
+355,M. Mouawad,Michael Mouawad,COMP,Student
+356,N. Sinha,Nikhil Sinha,COMP,Student
+357,B. K. P. Woo,Benjamin K. Woo,COMP,Faculty
+358,A. Martin,Andria Martin,CVM,Student
+359,N. Demarco,Nathaniel DeMarco,COMP,Student
+360,P. Patel,Parth Patel,COMP,Student
+361,A. Abdi,Arian Abdi,COMP,Student
+362,P. Velpuri,Prathosh Velpuri,COMP,Student
+363,E. E. Soltis,Edward E. Soltis,COP,Faculty
+364,S. E. Lakhan,Shaheen E.. Lakhan,COMP,Faculty
+365,T. Batan,Tom Batan,COMP,Student
+366,R. Vaezazizi,Reza Vaezazizi,COMP,Faculty
+367,Z. Hu,Zhongting   Hu,COMP,Faculty
+368,E. Chang,Eric Chang,COMP,Student
+369,M. Hodeib,Melissa Hodeib,COMP,Faculty
+370,C. Galvin,Conor Galvin,COMP,Student
+371,H. Sidhu,Harneet Sidhu,COMP,Student
+372,S. Mahapatra,Shakti Mahapatra,COMP,Faculty
+373,S. Dayal,Surbi Dayal,COMP,Student
+374,R. Sabnis,Rutuja Sabnis,CDM,Student
+375,K. Verma,Kushagra Verma,CHS,Faculty
+376,B. Kraatz,Brain Kraatz,COMP,Faculty
+377,F. Chaudhary,Fihr Chaudhary,COMP,Student
+378,B. T. Andresen,Bradley Tram Andresen,COP,Faculty
+379,G. E. Kisby,Glen E Kisby,COMP,Faculty
+380,K. Penera,Keith Penera,CPM,Faculty
+381,M. Wedel,Mathew Wedel,COMP,Faculty
+382,J. Labovitz,Jonathan Labovitz,CPM,Faculty
+383,J. T. Martin,James T. Martin,COMP,Faculty
+384,D. H. Nguyen,Duc Hoai. Nguyen,COMP,Faculty
+385,J. Hoffman,Janice Hoffman,COP,Faculty
+386,G. S. Shankar,Gollapudi S. Shankar,COP,Faculty
+387,A. Yeung,Alvin Yeung,COP,Student
+388,T. C. Squier,Thomas C Squier,COMP,Faculty
+389,R. N. Pechnick,Robert N Pechnick,COMP,Faculty
+390,M. Lambros,Maria Lambros,COP,Faculty
+391,K. Vo,Katherine Vo,CDM,Student
+392,J. A. Schlechter,John A. Schlechter,CHS,Faculty
+393,J. B. A. Enni,Jacqueline Anderson Enni,COMP,Student
+394,J. Hu,Jin-Shan   Hu,COMP,Faculty
+395,S. Kim,Stacy Kim,CGN,Student
+396,L. Moskalensky,Liana Moskalensky,COMP,Student
+397,S. Bagheri,Sasha Bagheri,CGN,Student
+398,S. Reddy,Sanjay Reddy,COMP,Student
+399,N. Du,Nikki Du,COP,Faculty
+400,E. Schwartzman,Emmanuelle Schwartzman,COP,Faculty
+401,D. I. Hsu,Donald I. Hsu,COP,Faculty
+402,E. P. Chung,Eunice P. Chung,COP,Faculty
+403,E. Guenther,Elizabeth Guenther,COMP,Faculty
+404,O. J. Phung,Olivia J Phung,COP,Faculty
+405,Y. Qiu,Yan Qiu,COP,Faculty
+406,Y. Chang,Youngil Chang,COP,Faculty
+407,J. Yang,Julie   Yang,CHS,Faculty
+408,D. I. Min,David I. Min,COP,Faculty
+409,X. Zhang,Xiao-Ling Zhang,COMP,Faculty
+410,W. Chen,Winston Chen,CHS,Student
+411,L. Pillarisetti,Lekha Pillarisetti,COMP,Student
+412,K. Chen,Kevin Chen,COMP,Student
+413,M. Booth,Michelle Booth,COMP,Student
+414,M. Minasyan,Marine Minasyan,COMP,Student
+415,N. Agarwal,Nina Agarwal,COMP,Faculty
+416,A. Williams,Aliyah Williams,COMP,Student
+417,S. Godil,Suha Godil,COMP,Student
+418,L. Liu,Long Liu,COMP,Student
+419,T. R. Borman,Timothy R. Borman,CHS,Faculty
+420,C. Davenport,Conor Davenport,COMP,Student
+421,D. Nguyen,Du Nguyen,CDM,Faculty
+422,P. J. Wisniewski,Paul J. Wisniewski,CHS,Faculty
+423,N. T. Do,Natalie T. Do,COMP,Faculty
+424,M. Pletsch,Michaela Pletsch,COMP,Student
+425,A. Chorbajian,Abraham Chorbajian,COMP,Student
+426,D. Zitser,David Zitser,COMP,Student
+427,J. Pan,Jeremy Pan,COMP,Student
+428,T. Eskandar,Tony Eskandar,COMP,Student
+429,Z. Ahmed,Zubair Ahmed,COMP,Student
+430,T. K. Nalley,Thierra K. Nalley,COMP,Faculty
+431,V. Wedel,Vicki Wedel,COMP,Faculty
+432,B. W. Berman,Blake W. Berman,CHS,Faculty
+433,J. Siddiqi,Javed Siddiqi,CHS,Faculty
+434,A. Mehta,Arvind Mehta,COMP,Faculty
+435,A. Morales,Alexis Morales,CDM,Student
+436,A. Katheria,Anup Katheria,COMP,Faculty
+437,S. E. Mackintosh,Susan E Mackintosh,COMP,Faculty
+438,J. Cao,Judy Cao,CO,Faculty
+439,T. Huynh,Tri Huynh,COP,Student
+440,V. Valdez,Vera Valdez,COMP,Faculty
+441,A. S. Lee,Alexander S. Lee,COMP,Faculty
+442,A. Jonson,Alexander Jonson,COMP,Student
+443,K. Hare,Kevin Hare,COMP,Student
+444,M. Forgie,Megan Forgie,COMP,Student
+445,M. Riedel,Michelle Riedel,COMP,Student
+446,L. Wang,LeeAnn Wang,COMP,Student
+447,S. Nouri,Sarvenaz Nouri,CHS,Faculty
+448,F. B. Dada,Festus B. Dada,CHS,Faculty
+449,E. Fricano,Ellen   Fricano,COMP,Faculty
+450,J. Green,Jennifer Green,COMP,Faculty
+451,J. Ho,Justin Ho,COP,Student
+452,J. M. Cox,Jeremy M. Cox,COMP,Faculty
+453,K. Palepu,Kathyayini Palepu,COMP,Student
+454,G. Ung,Gwendolyn Ung,COMP,Student
+455,A. Diaz,Alondra Diaz,CVM,Student
+456,A. Alamshaw,Anjali Alamshaw,COMP,Student
+457,L. Zadoorian,Lori Zadoorian,COMP,Student
+458,M. Green,Makenna Green,CHS,Student
+459,M. Burney,Michael   Burney,CHS,Faculty
+460,S. Kumar,Sandeep Kumar,CHS,Faculty
+461,M. Chakerian,Meg Chakerian,COMP,Student
+462,M. Valdez,Maria Valdez,CHS,Student
+463,A. Heidari,Arash Heidari,COMP,Faculty
+464,X. Liu,Xiangrong Liu,COMP,Student
+465,B. S. Bengtsson,Bengt-Ola S. Bengtsson,COMP,Faculty
+466,J. P. V. Houten,John P. van Houten,COMP,Faculty
+467,A. Wong,Ashley Wong,COP,Student
+468,A. Desai,Avani Desai,CVM,Student
+469,O. R. Hariri,Omid R.. Hariri,CHS,Faculty
+470,K. N. Smart,Kyle N. Smart,COMP,Faculty
+471,S. Y. Lin,Sam Y. Lin,COMP,Faculty
+472,M. A. Seffinger,Michael A. Seffinger,COMP,Faculty
+473,L. Gonzalez,Luna Gonzalez,CDM,Student
+474,J. Ly,Judy Ly,CHS,Student
+475,A. Martinez,Antonio Martinez,COP,Student
+476,B. Gonzalez,Bulmario Gonzalez,CDM,Faculty
+477,J. Chan,Justin Chan,COMP,Student
+478,M. Peterfy,Miklo Peterfy,COMP,Faculty
+479,M. S. Altikriti,Mohammed S. Al-Tikriti,CO,Faculty
+480,J. Johnson,James Johnson,COMP,Faculty
+481,H. Tran,Huoglan Tran,CDM,Faculty
+482,P. Thin,Pan Thin,COMP,Student
+483,J. W. Yang,Jae Wook Yang,COP,Faculty
+484,M. Rossi,Milena Rossi,CO,Student
+485,A. K. Agarwal,Ashok K. Agarwal,COMP,Faculty
+486,S. M. Lee,Steven M. Lee,COMP,Faculty
+487,J. A. Thompson,Jonathan A. Thompson,CPM,Faculty
+488,S. Bhatia,Sundeep Bhatia,CPM,Faculty
+489,Z. Li,Zhongqi Li,COP,Student
+490,J. J. Bradstreet,James J. Bradstreet,COMP,Faculty
+491,L. C. Castro,Lony C. Castro,COMP,Faculty
+492,M. Othman,Maryam Othman,COMP,Faculty
+493,K. Trivedi,Kovid Trivedi,COMP,Faculty
+494,J. E. Scott,Jeremiah E Scott,COMP,Faculty
+495,L. Arsenault,Luke Arsenault,COMP,Student
+496,J. Petrucci,John Petrucci,COMP,Student
+497,H. Nguyen,Hong Nguyen,COP,Faculty
+498,M. Rahman,Maisara Rahman,COMP,Faculty
+499,D. A. Connett,David A Connett,COMP,Faculty
+500,M. R. Wacker,Margaret R. Wacker,CHS,Faculty
+501,A. Calcote,Ashleigh Calcote,COMP,Student
+502,C. Ng,Clement Ng,COMP,Student
+503,J. Shaw,Jane   Shaw,CVM,Faculty
+504,M. A. Khan,M-Shahid Atique. Khan,COMP,Faculty
+505,J. Atterholt,Jessie   Atterholt,GCBS,Faculty
+506,C. L. Ma,Cherry L. MA,CDM,Faculty
+507,M. Patel,Mira Patel,COMP,Student
+508,B. K. Woo,Benjamin K. Woo,COMP,Faculty
+509,P. Mcconnell,Patrick McConnell,COMP,Student
+510,C. Griffin,Craig Griffin,CVM,Faculty
+511,C. Mans,Cecelia Mans,COMP,Student
+512,D. L. Miller,Debbie L. Miller,COMP,Faculty
+513,N. Newman,Nezam Newman,CHS,Student
+514,K. Jones,Kevin Jones,COP,Student
+515,A. Sheikh,Anique Sheikh,COP,Student
+516,D. Pham,Diana Pham,CO,Student
+517,B. Saber,Bahram Saber,COMP,Student
+518,D. Bridger,Daniel Bridger,COMP,Student
+519,N. Kaul,Neerja Kaul,COMP,Faculty
+520,M. Weiss,Michael Weiss,COMP,Faculty
+521,T. Liu,Tane Liu,COMP,Faculty
+522,T. Tran,Thi Tran,COP,Student
+523,R. Uyemura,Russell Uyemura,COMP,Student
+524,S. H. Barag,Steven H.. Barag,COMP,Faculty
+525,K. L. Williams,Kenneth Lloyd. Williams,COMP,Faculty
+526,T. Vu,Thao Vu,COMP,Student
+527,C. A. Alcantara,Cheldon Ann Alcantara,COMP,Student
+528,A. Mundra,Akshay Mundra,COMP,Student
+529,A. Mukundan,Abinanda Mukundan,COMP,Student
+530,B. Urness,Bianca Urness,COMP,Student
+531,R. Sakaki,Roajhaan Sakaki,COMP,Student
+532,T. Chowdhury,Tanzila Chowdhury,COMP,Student
+533,J. M. Finley,J. Michael Finley,COMP,Faculty
+534,E. Bae,Esther Bae,COMP,Faculty
+535,A. Liu,Andy Liu,COP,Student
+536,S. Montgomery,Samuel Montgomery,COMP,Student
+537,Y. Fernandezsweeny,Yadi Fernandez-Sweeny,COMP,Faculty
+538,E. Austin,Erik Austin,COMP,Faculty
+539,J. Moreno,Jennifer Moreno,COMP,Student
+540,B. T. Nguyen,Bang T. Nguyen,COMP,Faculty
+541,S. A. Obarr,Stephen A. O'Barr,COP,Faculty
+542,J. E. Mata,John E. Mata,COMP,Faculty
+543,R. A. Graf,Robert A. Graf,COP,Faculty
+544,J. Sandhu,Jonah Sandhu,CPM,Student
+545,W. Merbs,William Merbs,COMP,Faculty
+546,C. Chen,Chung-Kwang Chen,COMP,Faculty
+547,R. Radhakrishnan,Rajan   Radhakrishnan,COP,Faculty
+548,L. Ettefagh,Leila Ettefagh,COMP,Faculty
+549,N. Nami,Navid Nami,COMP,Faculty
+550,G. Shanmuganathan,Gaithrri Shanmuganathan,COMP,Student
+551,P. Oelschlaeger,Peter Oelschlaeger,COP,Faculty
+552,S. Singh,Sunjum Singh,COMP,Student
+553,A. Yang,Alison Yang,CPM,Student
+554,V. Zhong,Vivian Zhong,COMP,Student
+555,M. Issar,Manish   Issar,COMP,Faculty
+556,B. L. Tiep,Brian L. Tiep,COMP,Faculty
+557,M. Zalin,Michael Zalin,COMP,Student
+558,D. Oh,Donna Oh,COMP,Student
+559,P. Wang,Phoebe Wang,COMP,Student
+560,R. Lee,Raymond Lee,COP,Faculty
+561,A. Chang,Adrian Chang,CO,Student
+562,B. Andresen,Bradley Andresen,COP,Faculty
+563,Y. Salama,Youstina Salama,CPM,Student
+564,R. A. Robinson,R Ashley Robinson,CVM,Faculty
+565,H. Anwar,Hamsat Anwar,COMP,Student
+566,A. Pardi,Andrew Pardi,COMP,Student
+567,K. Andrews,Katherine Andrews,COMP,Student
+568,C. Broniak,Christine Broniak,COMP,Student
+569,E. Sperling,Edie   Sperling,COMP,Faculty
+570,T. Ding,Tiffany Ding,COMP,Student
+571,J. Dawi,John Dawi,COMP,Student
+572,Y. Misakyan,Yura Misakyan,COMP,Student
+573,S. Kades,Samuel Kades,COMP,Student
+574,S. Asim,Syed Asim,COMP,Student
+575,S. Olia,Sumaiya Olia,COMP,Student
+576,A. Abdou,Alexander Abdou,COMP,Student
+577,A. Hill,Ashley Hill,CO,Student
+578,S. Tang,Sofia Tang,CDM,Student
+579,D. D. Nguyen,Duy D.. Nguyen,CHS,Faculty
+580,S. Lee,Samuel Lee,COMP,Faculty
+581,J. U. Blumer,Janice U. Blumer,COMP,Faculty
+582,J. Nguyen,Jessica Nguyen,COP,Student
+583,D. Ross,Dan Ross,COP,Faculty
+584,T. Hoang,Tuan Hoang,COMP,Faculty
+585,M. Safaoui,Marian Safaoui,COMP,Faculty
+586,N. Nevins,Natalie Nevins,COMP,Faculty
+587,S. Thompson,Seana Thompson,COMP,Student
+588,D. J. Dowling,Dennis J. Dowling,COMP,Faculty
+589,M. G. Bartlett,Mark G. Bartlett,COMP,Faculty
+590,R. Hall,Roger Hall,COMP,Faculty
+591,E. Ho,Eugene Ho,COMP,Faculty
+592,J. Choi,Jaewoong Choi,CDM,Faculty
+593,E. Goering,Edward Goering,COMP,Faculty
+594,M. Smith,Mary Smith,COMP,Student
+595,S. Kammerzell,Samuel Kammerzell,COMP,Faculty
+596,S. Davis,Samantha Davis,COMP,Student
+597,M. Zhang,Michelle Zhang,COMP,Student
+598,M. Lin,Michelle Lin,COMP,Student
+599,G. Pitcher,Graysen Pitcher,COMP,Student
+600,K. Bhalodia,Krishna Bhalodia,COMP,Student
+601,C. Vaughn,Charles Vaughn,COMP,Student
+602,J. Villegas,James Villegas,COP,Student
+603,B. Lee,Byrne Lee,CHS,Faculty
+604,T. W. Pennington,Troy W.. Pennington,COMP,Faculty
+605,K. Schulzcostello,Katherine Schulz-Costello,CHS,Faculty
+606,D. D. Pearce,Daniel D Pearce,COMP,Faculty
+607,M. Malecki,Marek   Malecki,COMP,Faculty
+608,H. Musharbash,Helen Musharbash,COMP,Faculty
+609,S. Helf,Scott Helf,COMP,Faculty
+610,D. Shettko,Donna   Shettko,CVM,Faculty
+611,R. Chang,Rianne Chang,COP,Student
+612,S. Seng,Sakona Seng,COMP,Faculty
+613,S. Tian,Sharon Tian,COMP,Student
+614,W. Lee,Wynne Lee,COMP,Student
+615,V. La,Vy La,COMP,Student
+616,N. Oo,Nicholas Oo,COMP,Student
+617,M. J. Kelly,Michael J. Kelly,COMP,Faculty
+618,C. Nguyen,Christine Nguyen,COP,Student
+619,Z. Musherraf,Zuhra   Musherraf,COMP,Faculty
+620,A. Ayvazian,Arbi Ayvazian,COMP,Faculty
+621,C. Yamaguchi,Craig Yamaguchi,COMP,Student
+622,A. H. Caceres,Andres Harris Caceres,COMP,Student
+623,A. Lataille,Andrew Lataille,COMP,Student
+624,I. M. Mirani,Idrees Mohammed Mirani,COMP,Student
+625,J. Cook,Joshua Cook,CHS,Student
+626,A. Nouvong,Aksone Nouvong,CPM,Faculty
+627,S. J. Clark,Susan Jeanine. Clark,COMP,Faculty
+628,J. Brown,Joachim Brown,COMP,Faculty
+629,J. Han,Jonathan Han,CO,Student
+630,A. Patel,Anjana Patel,COP,Faculty
+631,S. Brown,Sarah Brown,COMP,Student
+632,A. Bjarvin,Anna Bjarvin,COMP,Student
+633,E. P. Junkins,Edward P. Junkins,COMP,Faculty
+634,D. K. Jayasekara,Deepthi K. Jayasekara,COMP,Faculty
+635,S. Fardeheb,Sabrina Fardeheb,COMP,Student
+636,A. Kiriaki,Anthony Kiriaki,COMP,Student
+637,B. Norris,Brandon Norris,COMP,Student
+638,K. Diehl,Kyra Diehl,COMP,Student
+639,K. Hajjar,Karim Hajjar,COMP,Student
+640,J. Ng,Jamie Ng,CHS,Student
+641,N. Wais,Nejma Wais,COMP,Student
+642,I. Yu,Ivin Yu,COMP,Student
+643,N. Panchal,Niyati Panchal,COMP,Student
+644,T. Vance,Taylor Vance,CVM,Student
+645,E. Barnes,Edwards Barnes,COMP,Faculty
+646,P. Kishore,Priya Kishore,COMP,Student
+647,L. Garrison,Lauren Garrison,COMP,Student
+648,T. Mooney,Tanner Mooney,COMP,Student
+649,K. Lucara,Kendall Lucara,COMP,Student
+650,C. T. Gillis,Craig T. Gillis,CHS,Faculty
+651,C. I. Doescher,Christian Ihenacho Doescher,COMP,Student
+652,R. Avila,Ricky Avila,CGN,Student
+653,G. Singh,Gurkaranjot Singh,COMP,Student
+654,T. Govind,Tushara Govind,COMP,Student
+655,A. Shafi,Amal Shafi,COMP,Student
+656,R. Chawla,Rohan Chawla,COMP,Student
+657,N. Enayati,Nobel Enayati,COMP,Student
+658,S. Kohandani,Sara Kohandani,COMP,Student
+659,V. Ugalde,Viviane Ugalde,COMP,Faculty
+660,J. Li,Joshua Li,CHS,Student
+661,D. A. Tran,Doug Dung Anh. Tran,CHS,Faculty
+662,T. Nalley,Thierra Nalley,COMP,Faculty
+663,P. Nguyen,Phuong Nguyen,COP,Faculty
+664,J. Young,Jordan Young,COMP,Student
+665,R. C. Gupta,Rakesh C. Gupta,COMP,Faculty
+666,S. L. Chow,Sheryl L Chow,COP,Faculty
+667,F. T. Khasawneh,Fadi T Khasawneh,COP,Faculty
+668,R. Mehta,Rucha   Mehta,COMP,Faculty
+669,A. Karapetyan,Arshavir Karapetyan,COMP,Student
+670,T. Erdos,Thomas Erdos,COMP,Student
+671,M. Masuda,Mika Masuda,COMP,Student
+672,Y. C. Chen,Cher Yao. Chen Chen,COMP,Faculty
+673,M. Kachani,Malika Kachani,CVM,Faculty
+674,G. S. Bales,Gerald S. Bales,COMP,Faculty
+675,A. Lin,Andy Lin,COMP,Student
+676,J. D. Scott,James D. Scott,COP,Faculty
+677,A. Steen,Aimee Steen,COMP,Student
+678,S. Khan,Sara Khan,CHS,Student
+679,A. Gan,Anthony Gan,COMP,Faculty
+680,M. Marquez,Mitchell Marquez,CHS,Student
+681,M. Altikriti,Mohammed Al-Tikriti,COMP,Faculty
+682,M. Altarac,Maja   Altarac,COP,Faculty
+683,R. Le,Rosalin Le,CDM,Student
+684,K. Morris,Kelsey Morris,COMP,Student
+685,A. Vu,Alyssa Vu,CVM,Student
+686,S. Yeganyan,Stephanie Yeganyan,COMP,Student
+687,A. Shin,Andrew Shin,COMP,Student
+688,M. Hudson,Mandilin   Hudson,COMP,Faculty
+689,T. A. Haffey,Thomas A.. Haffey,COMP,Faculty
+690,A. Xiao,Andy Xiao,COMP,Student
+691,R. Thomas,Riley Thomas,CPM,Student
+692,H. Samara,Hanien Samara,COMP,Student
+693,J. Tai,Jenny Tai,CO,Student
+694,W. J. Cairney,William J.. Cairney,COMP,Faculty
+695,A. Cruz,Ariana Cruz,CVM,Student
+696,A. Gargaloyan,Areg Gargaloyan,COMP,Student
+697,K. Shapiro,Karen   Shapiro,COP,Faculty
+698,J. Le,Julie Le,COP,Student
+699,M. Okamoto,Mark   Okamoto,COP,Faculty
+700,S. Zaidi,Sukaina Zaidi,CO,Student
+701,S. Holtzman,Stone Holtzman,COMP,Student
+702,N. Shah,Nikita Shah,COMP,Student
+703,J. An,JaeJin An,COP,Faculty
+704,K. H. Lee,Kang H. Lee,COMP,Faculty
+705,P. Finneran,Phoebe Finneran,COMP,Student
+706,M. Wong,Marla Wong,CDM,Student
+707,S. Silacci,Sophia Silacci,CGN,Student
+708,D. Javier,Denesse Javier,COP,Student
+709,J. Chang,Justin Chang,COMP,Student
+710,S. Chang,Stacy Chang,CGN,Student
+711,P. L. Schmidt,Peggy Lynn Schmidt,CVM,Faculty
+712,M. A. Fahie,Maria A. Fahie,CVM,Faculty
+713,A. D. Cundari,Alan D. Cundari,COMP,Faculty
+714,U. M. Benzur,Uri M. Ben-Zur,COMP,Faculty
+715,H. Le,Huyen Le,COP,Student
+716,I. Tweedt,Isobel Tweedt,COMP,Student
+717,J. Leo,Jonathan   Leo,COMP,Faculty
+718,E. Rostomian,Edgmin Rostomian,COMP,Student
+719,K. Ghookas,Kevin Ghookas,COMP,Student
+720,A. Postajian,Alexander Postajian,COMP,Student
+721,K. B. Vartanian,Kevin Babakhan Vartanian,COMP,Student
+722,V. Hatamian,Vedi Hatamian,COMP,Student
+723,P. Gupta,Pooja Gupta,COMP,Faculty
+724,M. Haddad,Mark Haddad,COP,Faculty
+725,V. Nguyen,Vivian Nguyen,CO,Student
+726,Q. Pham,Quang Pham,COMP,Student
+727,J. Jun,Jeany   Jun,COP,Faculty
+728,J. Smith,Jacob Smith,CO,Student
+729,A. Young,Amelie Young,COMP,Student
+730,K. Patel,Karissa Patel,COMP,Student
+731,M. Swairjo,Manal Swairjo,GCBS,Faculty
+732,B. Ghosh,Bharati Ghosh,COMP,Faculty
+733,A. B. Muhammad,Abdul Bari Muhammad,GCBS,Faculty
+734,S. H. Hong,Sung Ho Hong,COMP,Student
+735,C. Fung,Cameron Fung,COMP,Student
+736,D. Teramoto,Darren Teramoto,COMP,Student
+737,S. J. Sweet,Stephan J. Sweet,CHS,Faculty
+738,P. T. Nguyen,Phu Thien. Nguyen,COMP,Faculty
+739,N. Nguyen,Nam Nguyen,CGN,Student
+740,M. Raad,Michele Raad,CO,Student
+741,W. Jones,Walter Jones,CHS,Faculty
+742,R. J. Sarma,Radha J. Sarma,COMP,Faculty
+743,K. Lam,Kelly Lam,COMP,Student
+744,J. Patel,Jasmine Patel,COP,Student
+745,K. Zakery,Katreen Zakery,CDM,Student
+746,G. V. Betageri,Gurupadappa V. Betageri,GCBS,Faculty
+747,J. M. Peralta,Jose M Peralta,CVM,Faculty
+748,D. Anand,Deepak Anand,COP,Faculty
+749,J. Guo,Jin Guo,COMP,Faculty
+750,F. Liu,Frank Liu,CDM,Faculty
+751,J. H. Kim,Jeong H.. Kim,COMP,Faculty
+752,A. Kumar,Amisha Kumar,COMP,Student
+753,S. Park,Somin Park,COP,Student
+754,A. Singh,Ananjit Singh,COMP,Faculty
+755,J. Singh,Johnpaul Singh,COMP,Faculty
+756,G. Wang,Geena Wang,COMP,Student
+757,M. T. Nguyen,Minh Thu Nguyen,CPM,Student
+758,A. Lian,Andrew Lian,COMP,Student
+759,G. Kim,Gemma Kim,COMP,Faculty
+760,M. Huang,Min-Ning Huang,COMP,Faculty
+761,P. Tran,Phat Tran,COMP,Student
+762,B. Malcolm,Benjamin   Malcolm,COP,Faculty
+763,T. Masrizada,Tariq Masri-zada,COMP,Student
+764,M. Banymohammed,Mo'men Bany-Mohammed,COMP,Student
+765,P. K. Shitabata,Paul K. Shitabata,COMP,Faculty
+766,R. B. Ellis,Robert B. Ellis,COMP,Faculty
+767,E. Chow,Erica Chow,COMP,Student
+768,J. Dang,Jenny Dang,COP,Faculty
+769,C. Tong,Cindy Tong,COMP,Student
+770,M. H. Kay,Martin H. Kay,COMP,Faculty
+771,R. Patel,Ravi Patel,CDM,Faculty
+772,R. A. Mirande,Raul A.. Mirande,CHS,Faculty
+773,G. Young,Garrett Young,CHS,Student
+774,G. Hernandez,Guillermo Hernandez,COMP,Faculty
+775,A. Kim,Arthur Kim,COMP,Student
+776,C. Prasad,Chaya Prasad,COMP,Faculty
+777,T. N. Hoang,Tuan N. Hoang,CHS,Faculty
+778,M. Chen,Monica Chen,CGN,Student
+779,S. Rice,Samuel Rice,COMP,Student
+780,C. Goode,Christina Goode,GCBS,Faculty
+781,C. Talbot,Colleen   Talbot,COMP,Faculty
+782,M. C. K. Leung,Cherish K. Leung,CDM,Faculty
+783,N. A. Nevins,Natalie A Nevins,COMP,Faculty
+784,T. Thompson,Tessa Thompson,CGN,Student
+785,H. Do,Huong Do,COMP,Student
+786,B. Oakley,Brian Oakley,CVM,Faculty
+787,V. Keidel,Vivien Keidel,CO,Student
+788,D. Pon,Doreen   Pon,COP,Faculty
+789,M. S. Chow,Moses S.S. Chow,COP,Faculty
+790,G. Kaur,Gagandeep Kaur,CVM,Faculty
+791,P. Rodriguezcollazo,Pedro   Rodriguez-Collazo,COMP,Faculty
+792,G. M. Gugelchuk,Gary M. Gugelchuk,CHS,Faculty
+793,T. Wang,Tony Wang,COMP,Faculty
+794,A. Baskys,Andrius Baskys,COMP,Faculty
+795,M. Gonzales,Michelle Gonzales,CGN,Student
+796,K. Hosseinian,Kiana Hosseinian,COMP,Student
+797,A. Gerami,Amir Gerami,COMP,Student
+798,M. Bral,Melody Bral,COMP,Student
+799,A. Jones,Alisia Jones,CGN,Student
+800,T. A. Merritt,Thurman A. Merritt,COMP,Faculty
+801,R. White,Rachel White,CHS,Student
+802,S. A. Williams,Stephen A. Williams,COMP,Faculty
+803,R. Li,Roger Li,COMP,Student
+804,J. Yasmer,John Yasmer,COMP,Faculty
+805,N. Said,Noor Said,COMP,Student
+806,A. Mikami,Anna Mikami,COMP,Student
+807,O. Barazani,Osnat Barazani,COMP,Student
+808,J. Shin,Joseph Shin,COMP,Student
+809,S. Muchmore,Skyler Muchmore,COMP,Student
+810,R. D. Clark,Robin Dawn. Clark,COMP,Faculty
+811,B. Garcia,Briana Garcia,CGN,Student
+812,B. Patel,Bhakti Patel,COP,Student
+813,D. Chen,Desiree Chen,CGN,Student
+814,A. T. Ho,Andrew T.. Ho,COMP,Faculty
+815,A. Thompson,Auvianna Thompson,CGN,Student
+816,V. Tyagi,Vivaik Tyagi,COMP,Faculty
+817,B. Flaig,Brandon Flaig,COMP,Student
+818,H. Smodlaka,Hrvoje Smodlaka,CVM,Faculty
+819,W. A. Khamas,Wael A. Khamas,CVM,Faculty
+820,M. Desai,Monica Desai,COMP,Student
+821,C. Chow,Claire Chow,CGN,Student
+822,A. Modesette,Allison Modesette,COMP,Student
+823,D. Redding,David   Redding,COMP,Faculty
+824,B. Nguyen,Britney Nguyen,COP,Student
+825,R. A. Subach,Ruth Ann Subach,COP,Faculty
+826,L. Tang,Linh Tang,CO,Student
+827,A. Copeland,Aden Copeland,COMP,Student
+828,C. Swason,Carisa Swason,COMP,Student
+829,N. Lin,Nicole Lin,COMP,Student
+830,D. Roosan,Don   Roosan,COP,Faculty
+831,M. Tran,Michelle Tran,COP,Student
+832,D. Choi,Daniel Choi,COMP,Student
+833,C. E. Adams,Clinton E Adams,COMP,Faculty
+834,E. L. Hurwitz,Eric L. Hurwitz,COMP,Faculty
+835,W. Wu,Wuu-Shyong Wu,COMP,Faculty
+836,S. Cross,Sydney Cross,COMP,Student
+837,N. Pham,Nguyen-Phuong Pham,COMP,Faculty
+838,N. Dao,Nancy Dao,COP,Faculty
+839,A. Narasimhan,Ananya Narasimhan,COMP,Student
+840,F. Hajjar,Fouad Hajjar,COMP,Student
+841,M. Besser,Max Besser,COMP,Student
+842,K. Tumanyan,Kevin Tumanyan,CPM,Student
+843,A. Shadfar,Arash Shadfar,COMP,Faculty
+844,J. Hakimian,Joshua Hakimian,COMP,Student
+845,I. Mejia,Isaac Mejia,CVM,Student
+846,A. Campbell,Arezoo Campbell,COP,Faculty
+847,J. Giess,Jane Giess,COMP,Student
+848,S. Sekhon,Seerat Sekhon,COMP,Student
+849,A. Thai,An Thai,COMP,Student
+850,B. Han,Blake Han,COMP,Student
+851,S. Zhao,Sarah Zhao,CVM,Student
+852,V. Yu,Vivian Yu,COMP,Student
+853,A. Ahmed,Aisha Ahmed,CPM,Faculty
+854,J. Sanders,Johnnie Sanders,CVM,Student
+855,M. S. S. Chow,Moses S.S. Chow,COP,Faculty
+856,S. White,Stephanie White,COMP,Faculty
+857,L. Nguyen,Linda Nguyen,CO,Faculty
+858,J. Tsai,Jeffery Tsai,CPM,Faculty
+859,B. Yu,BoaFa Yu,GCBS,Faculty
+860,V. Quan,Valerie   Quan,CO,Faculty
+861,P. Yang,Peilong Yang,CVM,Student
+862,R. L. Wilson,Rochelle L. Wilson,COMP,Faculty
+863,M. C. Emmert,Michelle C. Emmert,COMP,Faculty
+864,H. Yang,Haoshu Yang,COP,Faculty
+865,I. Navasardyan,Inesa Navasardyan,COMP,Student
+866,A. Nguyen,Andrea Nguyen,COP,Student
+867,D. J. Lee,Dustin J. Lee,CHS,Faculty
+868,W. Li,Weiguo Li,COMP,Faculty
+869,T. Cao,Tin Cao,CDM,Student
+870,H. Kim,Hahnslang Kim,CHS,Student
+871,P. Chan,Patrick Chan,COP,Faculty
+872,J. E. M. Charles,Elizabeth M. Charles,CVM,Faculty
+873,M. E. Comunale,Mark E. Comunale,COMP,Faculty
+874,L. Orsillo,Lauryn Orsillo,COMP,Student
+875,N. Venkatesan,Natarajan Venkatesan,GCBS,Faculty
+876,S. Jain,Sarkia Jain,CHS,Faculty
+877,G. Han,Grace Han,CO,Student
+878,A. Aabedi,Andre Aabedi,COMP,Student
+879,V. Wang,Vera Wang,COMP,Student
+880,N. Rouse,Nicole Rouse,COMP,Faculty
+881,N. Quillatupa,Norka Quillatupa,COMP,Faculty
+882,N. Lytton,Nathan Lytton,COMP,Student
+883,T. Nandhagopal,Thiagarajan Nandhagopal,COMP,Faculty
+884,R. C. Liu,Rex Chunlin. Liu,COMP,Faculty
+885,J. Trapp,Joshua Trapp,COMP,Student
+886,S. Au,Stefanie Au,COMP,Student
+887,M. A. Taqi,Muhammad A. Taqi,COMP,Faculty
+888,K. Wang,Kelly Wang,COMP,Student
+889,T. Bui,Tiffany Bui,COP,Student
+890,N. Zhang,Nina Zhang,COMP,Student
+891,B. Liu,Bryan Liu,CDM,Student
+892,C. J. Prasad,Chaya J Prasad,COMP,Faculty
+893,R. A. Orlando,Robert A. Orlando,COMP,Faculty
+894,P. Shah,Pooja Shah,CO,Student
+895,N. Do,Nathan Do,COMP,Student
+896,S. Jacob,Susan   Jacob,COP,Faculty
+897,C. Tsui,Crystal Tsui,COMP,Student
+898,P. Ahn,Phillip Ahn,COMP,Student
+899,D. Parvizi,David Parvizi,COMP,Student
+900,R. Sahafi,Ramtin Sahafi,COMP,Student
+901,T. Pisarski,Timothy Pisarski,COMP,Student
+902,S. Kandikattu,Sugeeth Kandikattu,COMP,Student
+903,M. Aavula,Manas Aavula,COMP,Student
+904,A. Hong,Adia Hong,COP,Student
+905,K. J. L. Irizarry,Kristopher J. Irizarry,CVM,Faculty
+906,K. Kafaja,Kevin Kafaja,COMP,Student
+907,M. Mirhosseini,Mercedeh Mirhosseini,COMP,Student
+908,A. Pathak,Angelie Pathak,COMP,Student
+909,C. Shea,Christina Shea,COMP,Student
+910,P. Vaghashia,Payal Vaghashia,COMP,Student
+911,H. Sadeghi,Habib Sadeghi,COMP,Faculty
+912,A. Yazdani,Armand Yazdani,COMP,Student
+913,P. Sripathi,Pallavi Sripathi,COMP,Student
+914,J. Hamilton,Jennifer Hamilton,COMP,Faculty
+915,S. Bradley,Suzanne Bradley,CGN,Student
+916,W. Yu,Wesley Yu,COMP,Student
+917,S. Kaur,Sumeet Kaur,CDM,Faculty
+918,E. Kim,Edwin Kim,CHS,Faculty
+919,M. M. Salehpour,Michael M. Salehpour,CHS,Faculty
+920,K. K. Jenson,Kraig K. Jenson,COMP,Faculty
+921,J. Jordan,Jillian Jordan,COMP,Student
+922,O. Wisco,Oliver Wisco,COMP,Faculty
+923,G. Bales,Gerald   Bales,COMP,Faculty
+924,V. Tran,Vicki Tran,CGN,Student
+925,T. L. Nguyen,Thi L. Nguyen,COP,Faculty
+926,V. Davis,Vivian Davis,COMP,Faculty
+927,A. Saini,Arvind Saini,CHS,Faculty
+928,C. Shortt,Connor Shortt,COMP,Student
+929,R. Morgan,Ryan Morgan,COMP,Student
+930,G. E. Johnson,Gordon E. Johnson,COMP,Faculty
+931,S. E. Kessler,Stephen E. Kessler,COMP,Faculty
+932,S. Bokhari,Sara Bokhari,COMP,Student
+933,F. Yang,Fue Yang,CDM,Faculty
+934,D. L. Sellen,David L Sellen,CHS,Faculty
+935,C. Lam,Carol Lam,CGN,Student
+936,A. Khan,Affan Khan,COP,Student
+937,N. Manavi,Nima Manavi,COMP,Student
+938,R. A. Sugerman,Richard A. Sugerman,COMP,Faculty
+939,A. Nazarian,Arbi Nazarian,COP,Faculty
+940,J. Trotter,Jacob Trotter,CPM,Student
+941,H. Davila,Heidi   Davila,CDM,Faculty
+942,B. Jimenez,Belinda Jimenez,CPM,Student
+943,J. Sandoval,Jennifer Sandoval,CGN,Student
+944,A. Ma,Ashley Ma,COP,Student
+945,P. S. Sethi,Prabhdeep S.. Sethi,COMP,Faculty
+946,R. G. Pai,Ramdas G. Pai,COMP,Faculty
+947,S. K. Wong,Stanley K. Wong,COP,Faculty
+948,S. Natarajan,Sahana Natarajan,COMP,Student
+949,D. Connett,David Connett,COMP,Faculty
+950,S. Lu,Sabrina Lu,COMP,Student
+951,J. Lien,Justin Lien,COMP,Student
+952,Z. Chaudhry,Zuhair Chaudhry,COMP,Student
+953,A. Boyadzhyan,Anik Boyadzhyan,COMP,Student
+954,D. Kutcher,Drew Kutcher,COMP,Student
+955,R. Lally,Rajeshwar Lally,COMP,Student
+956,M. Seo,Michael Seo,COMP,Student
+957,H. Shen,Huiying Shen,COMP,Faculty
+958,S. Shimomura,Sam   Shimomura,COP,Faculty
+959,B. Li,Baoying Li,COP,Student
+960,Q. H. T. Nguyen,Huy T. Nguyen,CHS,Faculty
+961,M. Cantu,Monique Cantu,COMP,Student
+962,K. Price,Kenna Price,COMP,Student
+963,T. Dao,Tiffany Dao,COMP,Student
+964,T. J. Yu,Tai Jung Yu,COMP,Student
+965,W. H. Tettelbach,William H. Tettelbach,CPM,Faculty
+966,L. C. Rogers,Lee C. Rogers,CPM,Faculty
+967,L. B. Harkless,Lawrence B. Harkless,CPM,Faculty
+968,D. G. Armstrong,David G. Armstrong,CPM,Faculty
+969,L. Alexander,Logan Alexander,COMP,Student
+970,K. Hafferty,Kiana Hafferty,COMP,Student
+971,A. Hsieh,Andrew Hsieh,COP,Student
+972,K. Lopez,Katherine Lopez,CHS,Student
+973,J. Jimenez,Jaqueline Jimenez,CGN,Student
+974,R. Garza,Rachel Garza,COMP,Student
+975,M. Gentry,Michael Gentry,COMP,Faculty
+976,S. Liu,Stephanie Liu,CPM,Faculty
+977,N. Holden,Natasha Holden,COMP,Student
+978,L. Muscato,Louise Muscato,COMP,Faculty
+979,G. R. Thrush,Gerald Russell Thrush,COMP,Faculty
+980,A. S. Mowlavi,Arian S. Mowlavi,CHS,Faculty
+981,T. L. Chamberlain,Tiffany L. Chamberlain,COMP,Faculty
+982,A. D. Desai,Alpesh D. Desai,COMP,Faculty
+983,J. G. Persichino,John G. Persichino,COMP,Faculty
+984,A. Gordon,Alicia Gordon,CDM,Student
+985,A. Chew,Amy   Chew,COMP,Faculty
+986,C. Huang,Crystal Huang,COMP,Student
+987,S. Balamurugan,Sunil Balamurugan,COMP,Student
+988,K. Panganiban,Kurt Panganiban,COMP,Student
+989,M. Lehrack,Matthew Lehrack,COMP,Student
+990,A. P. Nguyen,An Phong Nguyen,COMP,Student
+991,H. Pham,Hieu Pham,CHS,Student
+992,G. Lo,Geoffrey Lo,COMP,Student
+993,R. Phan,Robert Phan,CO,Student
+994,J. Chu,Jeremy Chu,COMP,Student
+995,M. Medina,Miguel Medina,CHS,Faculty
+996,R. Singh,Ruby Singh,COMP,Faculty
+997,J. Cameron,Joshua Cameron,CO,Faculty
+998,R. Reddy,Rohan Reddy,CHS,Student
+999,C. Yan,Christopher Yan,CGN,Student
+1000,A. H. Zargarzadeh,Amir H Zargarzadeh,COP,Faculty
+1001,S. Tkalcic,Suzana Tkalcic,CVM,Faculty
+1002,T. I. F. Chou,Tony I Chou,COP,Faculty
+1003,F. L. Tornatore,Frank L. Tornatore,COP,Faculty
+1004,R. Taheri,Reza   Taheri,COP,Faculty
+1005,T. C. Cheetham,T Craig Cheetham,COP,Faculty
+1006,K. K. Knapp,Katherine K. Knapp,COP,Faculty
+1007,M. D. Ray,Max D. Ray,COP,Faculty
+1008,B. Woodward,Brandon Woodward,CHS,Faculty
+1009,H. Lam,Hailey Lam,CHS,Student
+1010,S. Narayanan,Shivakumar Narayanan,COMP,Faculty
+1011,A. S. V. Shah,Apurva V. Shah,COMP,Faculty
+1012,F. Youssef,Fady Youssef,CO,Student
+1013,G. Flores,Gizelle Flores,CHS,Student
+1014,J. L. Buur,Jennifer L. Buur,CVM,Faculty
+1015,R. M. Quist,Ryan M Quist,COP,Faculty
+1016,L. S. Garavalia,Linda S Garavalia,COP,Faculty
+1017,D. C. Robinson,Daniel C. Robinson,COP,Faculty
+1018,H. R. Arias,Hugo Ruben Arias,COP,Faculty
+1019,K. Tang,Katherine Tang,COMP,Student
+1020,D. R. Brocks,Dion R. Brocks,COP,Faculty
+1021,J. J. Bertone,Joseph J. Bertone,CVM,Faculty
+1022,J. J. Chen,James J.. Chen,CDM,Faculty
+1023,A. Castro,Angela Castro,CHS,Faculty
+1024,H. G. Ibrahim,Hajer G. Ibrahim,COP,Faculty
+1025,F. Michael,Fady Michael,COMP,Student
+1026,E. Cho,Eun-Hwi Cho,CDM,Faculty
+1027,R. Alonzo,Rebecca Alonzo,CGN,Student
+1028,B. R. Shah,Bhaviesh R. Shah,COMP,Faculty
+1029,J. H. Kang,Jenny H Kang,COP,Faculty
+1030,Q. Nguyen,Quyen Nguyen,COP,Student
+1031,K. Yang,Kaileigh Yang,COMP,Student
+1032,E. K. Gupta,Eric K. Gupta,COP,Faculty
+1033,S. Chen,Shanshan Chen,COP,Faculty
+1034,S. R. Smith,Shawn Robert Smith,COP,Faculty
+1035,Q. Zhang,Qingwan Zhang,CO,Student
+1036,J. Wong,Jason Wong,COP,Faculty
+1037,S. Smith,Summer Smith,CGN,Student
+1038,D. Robinson,Daniel Robinson,COP,Faculty
+1039,A. Kugler,Anne Kugler,COP,Faculty
+1040,D. Hsu,Donald   Hsu,COP,Faculty
+1041,J. Scott,Jeremiah Scott,COMP,Faculty
+1042,L. B. Kidd,Linda B Kidd,CVM,Faculty
+1043,W. Liu,William Liu,CPM,Student
+1044,M. L. Davies,Marie L Davies,COP,Faculty
+1045,C. Ma,Claire Ma,COMP,Student
+1046,A. Pham,Aaron Pham,COP,Student
+1047,S. Yang,Sun Yang,COP,Faculty
+1048,K. Ma,Kelvin Ma,COMP,Faculty
+1049,A. Wongberinger,Annie   Wong-Beringer,COP,Faculty
+1050,T. J. T. Nguyen,Thomas J. Nguyen,CDM,Faculty
+1051,M. Le,Matthew Le,COP,Student
+1052,C. Jackevicius,Cynthia   Jackevicius,COP,Faculty
+1053,A. Chong,Alice Chong,CO,Student
+1054,R. S. Klotz,Roger S. Klotz,COP,Faculty
+1055,R. A. Floyd,Ronald A. Floyd,COP,Faculty
+1056,T. Moore,Timothy Moore,COMP,Student
+1057,H. Gogineni,Hyma Gogineni,COP,Faculty
+1058,J. Moon,Jihye Moon,CDM,Student
+1059,K. T. Marx,Kevin T. Marx,COP,Faculty
+1060,R. K. Bolan,Robert K. Bolan,COP,Faculty
+1061,C. X. J. Yuan,Xiao (Carol) Juan Yuan,COP,Faculty
+1062,J. Lacroix,Jerome Lacroix,GCBS,Faculty
+1063,K. J. Kim,Keun J. Kim,CVM,Faculty
+1064,R. A. Gallegos,Roger Alan Gallegos,CPM,Faculty
+1065,T. A. Murchie,Tracy Ann Murchie,CVM,Faculty
+1066,K. S. Soppimath,Kumaresh S. Soppimath,COP,Faculty
+1067,V. Green,Vuong   Green,COP,Faculty
+1068,T. Bach,Tiffany   Bach,COP,Faculty
+1069,J. M. Labovitz,Jonathan M Labovitz,CPM,Faculty
+1070,A. M. H. Chen,Anna M. Chen,COMP,Faculty
+1071,J. C. Wong,Jason C Wong,COP,Faculty
+1072,A. Ng,Abigail Ng,CGN,Student
+1073,A. Munoz,Alison Munoz,CGN,Student
+1074,R. Yang,Rui Yang,COMP,Faculty
+1075,J. P. Aranda,Josephine Pia Aranda,COP,Faculty
+1076,K. Hess,Karl   Hess,COP,Faculty
+1077,V. L. Voith,Victoria L Voith,CVM,Faculty
+1078,K. Hidalgo,Krisha Hidalgo,COMP,Student
+1079,R. Tran,Robert Tran,CPM,Student
+1080,K. A. Brock,Kelly A Brock,COP,Faculty
+1081,A. Saenz,Arlette Saenz,COP,Student
+1082,T. J. Liu,Tina Jo-Ting Liu,COP,Faculty
+1083,W. J. Murray,Wallace J. Murray,COP,Faculty
+1084,D. Wang,Dollars Wang,CO,Student
+1085,M. He,Munind He,CHS,Student
+1086,L. Zhou,Liheng Zhou,COMP,Student
+1087,A. T. Lin,Antony Te-Hui. Lin,COMP,Faculty
+1088,R. V. Yin,Raynold Vann. Yin,COP,Faculty
+1089,S. Wanwimolruk,Sompon   Wanwimolruk,COP,Faculty
+1090,T. Ng,Tiffany Ng,COMP,Student
+1091,D. C. Anderson,Dustin C. Anderson,CO,Faculty
+1092,W. Huang,W. Luke Huang,COMP,Faculty
+1093,P. Le,Phillip Le,COMP,Faculty
+1094,T. Ngo,Tram Ngo,CO,Student
+1095,D. Huynh,Daniel Huynh,COP,Student
+1096,C. Phan,Christopher Phan,COMP,Student
+1097,C. Hutchinson,Christopher Hutchinson,CHS,Student
+1098,J. K. Jun,Jeany K. Jun,COP,Faculty
+1099,L. Chan,Leo Chan,COMP,Student
+1100,S. Seo,Sarah Seo,CPM,Student
+1101,M. Lou,Marcus Lou,COMP,Student
+1102,C. Charavaryamath,Chandrashekhar   Charavaryamath,CVM,Faculty
+1103,M. Kim,Michelle Kim,CO,Student
+1104,A. Guevara,Anthony Guevara,COP,Student
+1105,K. J. Irizarry,Kristopher J. Irizarry,CVM,Faculty
+1106,E. Skoglund,Erik   Skoglund,COP,Faculty
+1107,L. H. Nazer,Lama H. Nazer,COP,Faculty
+1108,T. Chau,Tommy Chau,COP,Student
+1109,D. Le,Davis Le,COP,Student
+1110,C. S. Stern,Craig Stephen. Stern,COP,Faculty
+1111,H. Phan,Hai Phan,COMP,Faculty
+1112,Y. Liang,Yuluo Liang,CO,Student
+1113,Q. Li,Qingshun Li,GCBS,Faculty
+1114,F. Ahmad,Farhan Ahmad,COP,Student
+1115,S. Ali,Sajid Ali,COMP,Faculty
+1116,C. Cao,Chenghua Cao,CDM,Faculty
+1117,J. S. K. Chan,James K. Chan,CHS,Faculty
+1118,C. K. Chang,Craig K. Chang,COMP,Faculty
+1119,J. C. Chang,Joseph C. Chang,COP,Faculty
+1120,A. T. Chen,Andrew T. Chen,COMP,Faculty
+1121,A. Dehghan,Arghavan Dehghan,CDM,Student
+1122,D. Diaz,Daniel Diaz,CHS,Student
+1123,M. Gupta,Meeta Gupta,COP,Faculty
+1124,I. Hassan,Imran Hassan ,COMP,Faculty
+1125,J. Hussain,Jamal Hussain,COMP,Faculty
+1126,H. H. Huynh,Hanh Hong. Huynh,COP,Faculty
+1127,M. Khan,Mahbuba Khan,COMP,Faculty
+1128,A. Khosravi,Ali Khosravi,COMP,Student
+1129,K. Kim,Karine Kim,COP,Faculty
+1130,J. Lam,Jeffrey Lam,CO,Student
+1131,T. T. T. Le,Thomas T. Le,COMP,Faculty
+1132,T. D. T. Le,Thomas T. Le,COMP,Faculty
+1133,V. Mohan,Vishnu Mohan,COMP,Faculty
+1134,J. F. Mosser,Jeffrey F. Mosser,COMP,Faculty
+1135,M. Ng,Mikayla Ng,COP,Student
+1136,A. H. Nguyen,Albert H. Nguyen,COMP,Faculty
+1137,H. T. H. Nguyen,Huy T. Nguyen,CHS,Faculty
+1138,A. Shaikh,Atifah Shaikh,CDM,Student
+1139,J. Tian,Jinzhou Tian,COMP,Student
+1140,J. T. Tran,James T.. Tran,CHS,Faculty
+1141,C. Wu,Chengcong (Charlie) Wu,COMP,Faculty
+1142,L. Zhu,Levia Zhu,COP,Student
+1143,B. S. Kim,Brian S. Kim,COP,Faculty
+1144,C. Zheng,Crystal Zheng,CHS,Student
+1145,L. Hekimyan,Luiza Hekimyan,COP,Student
+1146,F. A. Cruz,Francheska Anne Cruz,COP,Student
+1147,T. Brower,Taylor Brower,COP,Student
+1148,N. D. Leon,Noelle K de Leon,COP,Faculty
+1149,N. K. D. Leon,Noelle K de Leon,COP,Faculty
+1150,K. Uh,Kayla Uh,COP,Faculty
+1151,X. J. Yuan,Xiao (Carol) Juan Yuan,COP,Faculty
+1152,D. B. Tataw,David B. Tataw,CHS,Faculty
+1153,L. Garavalia,Linda Garavalia,COP,Faculty
+1154,I. Tonnumihara,Ivy Tonnu-Mihara,COP,Faculty
+1155,J. H. Watanabe,Jonathan H Watanabe,COP,Faculty
+1156,M. Davies,Marie Davies,COP,Faculty
+1157,G. Sharma,Guru Sharma,CO,Faculty
+1158,T. J. Kleyn,Thomas Jacob Kleyn,COP,Faculty
+1159,T. M. Cong,Thao M. Cong,COP,Faculty
+1160,J. S. C. Wang,Jenny C. Wang,COMP,Faculty
+1161,C. Gill,Camrin Gill,COP,Student
+1162,A. Abdo,Amir Abdo,COP,Student
+1163,A. Eisa,Ava Eisa,COP,Student
+1164,D. A. Nadeau,Daniel A. Nadeau,COP,Faculty
+1165,D. P. L. Sachs,David P.L.. Sachs,COP,Faculty
+1166,S. Ross,Sydney Ross,CVM,Student
+1167,T. Hong,Thao Hong,CGN,Student
+1168,E. M. Vivian,Eva Marie Vivian,COP,Faculty
+1169,N. Baladybouziane,Nadrine Balady-Bouziane,COP,Faculty
+1170,S. J. Martin,Stephanie J. Martin,COMP,Faculty
+1171,L. Lee,Loren Lee,CDM,Faculty
+1172,K. Johnson,Kiera Johnson,CVM,Student
+1173,C. Supsin,Chairat Supsin,COP,Faculty
+1174,M. E. P. Rodriguez,Mireya E. Rodriguez,CDM,Faculty
+1175,C. Dai,Chih-Wei   Dai,COP,Faculty
+1176,A. Rizos,Albert Rizos,COP,Faculty
+1177,B. Tang,Binh Tang,COP,Faculty
+1178,G. Su,Gloria Su,CGN,Student
+1179,R. Shaneck,Rebecca Shaneck,COMP,Student
+1180,R. Miwalian,Rita Miwalian,COMP,Student
+1181,B. Lopez,Brianna Lopez,COP,Student
+1182,C. Du,Claire Du,CO,Student
+1183,P. Dang,Preston Dang,COMP,Student
+1184,L. Tran,Lan Tran,COMP,Student
+1185,B. Williams,Bryan Williams,CVM,Student
+1186,D. Duong,Diana Duong,CDM,Student
+1187,T. Clark,Trence Clark,COMP,Faculty
+1188,S. C. Lam,Steven C Lam,COMP,Faculty
+1189,M. Block,Molly Block,COMP,Student
+1190,P. P. Diniz,Pedro P. Diniz,CVM,Faculty
+1191,S. Wu,Sarah Wu,CGN,Student
+1192,S. Do,Stacy Do,CDM,Student
+1193,J. H. Du,Jennifer H. Du,COP,Faculty
+1194,M. Li,Mike Li,CDM,Faculty
+1195,J. Du,Jennifer Du,CGN,Student
+1196,J. Tan,Jiayan Tan,COMP,Student
+1197,G. R. Johnston,Gary R. Johnston,CVM,Faculty
+1198,J. Cho,Jacob Cho,COMP,Student
+1199,J. Najera,Jonathan Najera,CVM,Student
+1200,J. A. Gama,John A. Gama,COP,Faculty
+1201,D. Schultz,David Schultz,COMP,Student
+1202,Y. Lu,Yimeng Lu,CVM,Student
+1203,R. Mcgory,Robert   McGory,COP,Faculty
+1204,H. N. Nguyen,Hoang N. Nguyen,CPM,Faculty
+1205,G. C. Alexander,Gloria C. Alexander,COMP,Faculty
+1206,A. H. Bitar,Adib H. Bitar,COMP,Faculty
+1207,M. Mehta,Manish Mehta,COMP,Faculty
+1208,L. Xu,Lisa Xu,CGN,Student
+1209,M. Ahmed,Maha Ahmed,CO,Student
+1210,D. Liou,Daniel Liou,COP,Faculty
+1211,A. Ramirez,Andrea Ramirez,COP,Student
+1212,C. J. Lee,Chang Jin Lee,CDM,Student
+1213,V. Agarwal,Vandana Agarwal,COMP,Faculty
+1214,J. Spencer,Jacob Spencer,COMP,Student
+1215,A. Zhao,Alair Zhao,CPM,Student
+1216,C. Smith,Carissa Smith,CVM,Student
+1217,J. F. Martinez,Jesse F. Martinez,COP,Faculty
+1218,M. Dawes,Maisie Dawes,CVM,Faculty
+1219,M. D. Saggese,Miguel Daniel Saggese,CVM,Faculty
+1220,R. Mireles,Rudolf Mireles,COP,Faculty
+1221,T. J. Park,Tony J. Park,COP,Faculty
+1222,V. Patel,Vinod Patel,COMP,Faculty
+1223,L. X. T. Nguyen,Linda T. Nguyen,COP,Faculty
+1224,T. Kleyn,Thomas Kleyn,COP,Faculty
+1225,M. Cao,Minh Cao,CPM,Student
+1226,M. J. Levi,Michael J. Levi,CPM,Faculty
+1227,J. Tu,Jordan Tu,COMP,Student
+1228,J. Shapiro,Jarrod Shapiro,CPM,Faculty
+1229,D. Lin,Daphne Lin,COP,Student
+1230,F. Chan,Francis Chan,CPM,Faculty
+1231,K. E. Penera,Keith E Penera,CPM,Faculty
+1232,T. R. Leaming,Troy R Leaming,CPM,Faculty
+1233,M. Carter,Michael Carter,COMP,Faculty
+1234,B. Rhim,Bora   Rhim,CPM,Faculty
+1235,R. G. Frykberg,Robert G. Frykberg,CPM,Faculty
+1236,L. J. Jones,Lester J. Jones,CPM,Faculty
+1237,V. K. Satterfield,V Kathleeen Satterfield,CPM,Faculty
+1238,N. T. Smith,Nathanael T.. Smith,CPM,Faculty
+1239,J. B. Truong,Jacqueline B-T Truong,CPM,Faculty
+1240,F. L. S. Chan,Francis L.S. Chan,CPM,Faculty
+1241,L. Hodor,Lawrence Hodor,CPM,Faculty
+1242,R. A. Christman,Robert A. Christman,CPM,Faculty
+1243,K. K. Ragothaman,Kevin K. Ragothaman,CPM,Faculty
+1244,J. Truong,Jacqueline Truong,CPM,Faculty
+1245,A. S. Ross,Arnold S. Ross,CPM,Faculty
+1246,J. L. Fontaine,Javier La Fontaine,CPM,Faculty
+1247,B. Grecea,Bogdan Grecea,CPM,Faculty
+1248,Y. Izumi,Yuki Izumi,CPM,Faculty
+1249,K. Satterfield,Kathleen Satterfield,CPM,Faculty
+1250,S. Desai,Shreya Desai,COP,Student
+1251,A. L. Nguyen,Au-Co L. Nguyen,COMP,Faculty
+1252,T. Chuang,Tiffany   Chuang,CO,Faculty
+1253,D. Pougatsch,David Pougatsch,CPM,Faculty
+1254,L. Oconnell,Laura-Ashley O'Connell,CPM,Faculty
+1255,A. F. Hoffman,Arlene F. Hoffman,CPM,Faculty
+1256,B. Amrami,Binyamin Amrami,CPM,Faculty
+1257,T. Shaw,Tracie Shaw,CPM,Faculty
+1258,E. Mirasol,Evyn Mirasol,CPM,Student
+1259,L. Z. Huppin,Lawrence Z. Huppin,CPM,Faculty
+1260,P. R. Scherer,Paul R. Scherer,CPM,Faculty
+1261,K. Kay,Kaelen Kay,COMP,Student
+1262,D. Griffon,Dominique   Griffon,CVM,Faculty
+1263,J. M. Wilson,Jack M. Wilson,COMP,Faculty
+1264,E. Boynton,Elizabeth Boynton,CVM,Faculty
+1265,D. C. Kersey,David C. Kersey,CVM,Faculty
+1266,L. Kidd,Linda Kidd,CVM,Faculty
+1267,P. N. Gordonross,Paul N. Gordon-Ross,CVM,Faculty
+1268,O. Levi,Ohad Levi,CVM,Faculty
+1269,M. C. Barr,Margaret C. Barr,CVM,Faculty
+1270,J. Rutllantlabeaga,Josep Rutllant-Labeaga,CVM,Faculty
+1271,I. C. Fuentealba,I Carmen Fuentealba,CVM,Faculty
+1272,K. S. Schulz,Kyle S.. Schulz,COMP,Faculty
+1273,M. Fahie,Maria   Fahie,CVM,Faculty
+1274,E. M. Charles,Elizabeth M. Charles,CVM,Faculty
+1275,Y. H. Kim,Yoon Hee. Kim,CDM,Faculty
+1276,J. W. Tyler,John William Tyler,CVM,Faculty
+1277,T. Melgarejo,Tonatiuh   Melgarejo,CVM,Faculty
+1278,B. B. Oakley,Brian B Oakley,CVM,Faculty
+1279,B. Hayes,Brett Hayes,COMP,Student
+1280,H. Engelke,Helen Engelke,CVM,Faculty
+1281,J. L. Brown,Justin L. Brown,CPM,Faculty
+1282,E. W. Collisson,Ellen W. Collisson,CVM,Faculty
+1283,H. Jung,Hemi Jung,COP,Faculty
+1284,Y. Drechsler,Yvonne Drechsler,CVM,Faculty
+1285,T. Y. Morishita,Teresa Y Morishita,CVM,Faculty
+1286,D. Chan,Dakota Chan,CHS,Student
+1287,S. D. Johnston,Shirley D. Johnston,CVM,Faculty
+1288,S. J. Waldhalm,Stephen James Waldhalm,CVM,Faculty
+1289,A. L. Johnson,Alegro L. Johnson,COMP,Faculty
+1290,J. Clark,Joshua Clark,CHS,Student
+1291,M. Rafla,Michael Rafla,CVM,Student
+1292,S. Johnson,Samantha Johnson,COMP,Student
+1293,L. Y. Lee,Linda Yongchae. Lee,COP,Faculty
+1294,B. Faramarzi,Babak Faramarzi,CVM,Faculty
+1295,R. Hanselmann,Rhea   Hanselmann,CVM,Faculty
+1296,A. Alcaraz,Ana Alcaraz,CVM,Faculty
+1297,R. V. Mason,Robert V. Mason,CVM,Faculty
+1298,J. P. Reynolds,James P Reynolds,CVM,Faculty
+1299,R. L. Terra,Ronald L Terra,CVM,Faculty
+1300,J. C. Wright,Jonathan C. Wright,COMP,Faculty
+1301,D. E. Clark,David E Clark,CVM,Faculty
+1302,L. Reese,Logan Reese,CHS,Student
+1303,H. Lee,Hanna Lee,CDM,Faculty
+1304,S. Waldhalm,Stephen Waldhalm,CVM,Faculty
+1305,M. E. Cooper,Megan E. Cooper,CVM,Faculty
+1306,S. A. Khan,Sara A. Khan,COMP,Faculty
+1307,J. Taboada,Jordan Taboada,COMP,Student
+1308,L. M. Rasmussen,Lara M. Rasmussen,CVM,Faculty
+1309,P. Gordonross,Paul Gordon-Ross,CVM,Faculty
+1310,M. Haupt,Martina Haupt,CVM,Faculty
+1311,J. S. Anderson,Jason Scott Anderson,CVM,Faculty
+1312,M. A. Mir,Mohammad Ayoub Mir,CVM,Faculty
+1313,P. P. V. Diniz,Pedro P. Diniz,CVM,Faculty
+1314,F. Bossong,Frank Bossong,CVM,Faculty
+1315,K. Garcia,Kathryn Garcia,CVM,Student
+1316,M. Weakley,Mina Weakley,CVM,Student
+1317,T. Do,Tram Do,CVM,Student
+1318,S. D. Forrester,S. Dru Forrester,CVM,Faculty
+1319,E. P. Boynton,Elizabeth P. Boynton,CVM,Faculty
+1320,T. R. Phillips,Thomas R. Phillips,CVM,Faculty
+1321,D. Clark,David Clark,CVM,Faculty
+1322,C. Zhao,Chonghao Zhao,COMP,Faculty
+1323,R. Ramirez,Roberto Ramirez,CVM,Student
+1324,M. E. Dawes,Maisie E Dawes,CVM,Faculty
+1325,D. Avenick,Daniel Avenick,CVM,Faculty
+1326,E. Green,Eric Green,CGN,Student
+1327,D. Kersey,David   Kersey,CVM,Faculty
+1328,R. Trevejo,Rosalie   Trevejo,CVM,Faculty
+1329,N. Simms,Noel Simms,CVM,Student
+1330,S. Harrison,Scarlett Harrison,CVM,Student
+1331,A. Pena,Alexander Pena,CVM,Student
+1332,Z. N. Hedge,Zarah N Hedge,CVM,Faculty
+1333,D. Jung,Dahee Jung,CGN,Student
+1334,J. A. Robinson,Jerome A. Robinson,COMP,Faculty
+1335,C. Ross,Charles Ross,COMP,Faculty
+1336,W. Wong,Webster Wong,COMP,Faculty
+1337,P. D. Govett,Pamela D Govett,CVM,Faculty
+1338,S. Cho,Stephanie Cho,COMP,Student
+1339,M. Tanaka,Masaji Tanaka,COP,Faculty
+1340,E. Collisson,Ellen   Collisson,CVM,Faculty
+1341,S. K. Halland,Spring K Halland,CVM,Faculty
+1342,A. Carloallende,Anaid Carlo-Allende,CVM,Student
+1343,J. Ruiz,Jacob Ruiz,CVM,Student
+1344,J. A. Johnson,Jacqueline Anne. Johnson,COMP,Faculty
+1345,S. Halland,Spring Halland,CVM,Faculty
+1346,G. Barrett,Gini   Barrett,CVM,Faculty
+1347,M. Kent,Micaela Kent,CVM,Student
+1348,A. Srivastava,Ananta Srivastava,COMP,Student
+1349,L. J. Thompson,Leonard J. Thompson,COMP,Faculty
+1350,G. White,Garrison White,COMP,Student
+1351,H. Liu,Hui Liu,CDM,Faculty
+1352,S. J. Henriksen,Steven Jon Henriksen,GCBS,Faculty
+1353,M. Karama,Musafiri   Karama,CVM,Faculty
+1354,C. S. Osmond,Christian S. Osmond,CVM,Faculty
+1355,J. Joslin,Janis Joslin,CVM,Faculty
+1356,D. E. Mcclure,Diane E. McClure,CVM,Faculty
+1357,A. Lopez,Amanda Lopez,CO,Student
+1358,R. E. Marin,Rebecca E.. Marin,CDM,Faculty
+1359,S. Hill,Steve Hill,CVM,Faculty
+1360,T. M. Concannon,Timothy M. Concannon,CVM,Faculty
+1361,V. Q. A. Le,Quang A Le,COP,Faculty
+1362,M. Mendoza,Mary Mendoza,CGN,Student
+1363,P. Lin,Pen-Jen Lin,GCBS,Faculty
+1364,H. B. Hamilton,Helen B. Hamilton,CVM,Faculty
+1365,P. D. Nelson,Phillip D. Nelson,CVM,Faculty
+1366,D. Kim,Da Kim,CO,Student
+1367,Z. Hedge,Zarah Hedge,CVM,Faculty
+1368,C. Bacmeister,Cynthia Bacmeister,CVM,Faculty
+1369,S. S. Lee,Steven Sungkoo. Lee,COMP,Faculty
+1370,C. Miller,Courtney Miller,CVM,Student
+1371,S. Henriksen,Stephen Henriksen,CDM,Student
+1372,T. S. Mcnamara,Tracey S. McNamara,CVM,Faculty
+1373,N. Kim,Nickaulus Kim,CDM,Student
+1374,D. Smylie,Dean Smylie,CVM,Faculty
+1375,M. Winters,Morgan Winters,CVM,Student
+1376,A. Long,Aleksandra Long,CVM,Student
+1377,J. D. Ondrak,Jeff D. Ondrak,CVM,Faculty
+1378,B. T. Halsberghe,Bart Tom. Halsberghe,CVM,Faculty
+1379,S. Cao,Shirley Cao,CGN,Student
+1380,G. J. Valenzuela,Guillermo J. Valenzuela,COMP,Faculty
+1381,M. H. Rodriguez,Maria Hellen. Rodriguez,COMP,Faculty
+1382,S. Zhu,Shelley Zhu,CHS,Student
+1383,S. Arabian,Sarkis Arabian,COMP,Faculty
+1384,K. Dong,Kelly Dong,COMP,Student
+1385,C. Johnson,C. Anderson Johnson,COMP,Faculty
+1386,K. Wu,Kevin Wu,COMP,Student
+1387,E. Lupori,Ellese Lupori,COMP,Student
+1388,H. Young,Halle Young,COMP,Student
+1389,S. Thomas,Silas Thomas,CHS,Student
+1390,D. Beckett,David Beckett,COMP,Student
+1391,G. Gingras,Graham Gingras,COMP,Student
+1392,J. Williams,Judd Williams,COMP,Student
+1393,A. Truong,Andrew Truong,CHS,Student
+1394,R. Nguyen,Randy Nguyen,COP,Student
+1395,J. Martinez,Johnathan Martinez,COMP,Student
+1396,S. W. Cohen,Steven William. Cohen,COMP,Faculty
+1397,S. Salgia,Sabrina Salgia,COMP,Student
+1398,R. Xu,Ruobing Xu,CDM,Student
+1399,D. Agrawal,D. Agrawal,CCTR,Faculty
+1400,V. Thomas,Violet Thomas,CHS,Student
+1401,D. K. Agrawal,D. K. Agrawal,CCTR,Faculty
+1402,M. Bradley,Mikayla Bradley,COMP,Student
+1403,S. Henry,Sean Henry,CHS,Student
+1404,G. R. D. Evans,Gregory RD. Evans,CHS,Faculty
+1405,V. Kumar,Vikram Kumar,COMP,Faculty
+1406,V. Rai,V. Rai,CCTR,Faculty
+1407,M. Thakur,Mannat Thakur,COMP,Student
+1408,M. Atwal,Manreet Atwal,CDM,Student
+1409,D. Rabadi,Donya Rabadi,CPM,Student
+1410,B. Wong,Brian Wong,CPM,Student
+1411,D. Chung,Daniel Chung,CPM,Student
+1412,A. M. Estes,Adrienne M Estes,CPM,Faculty
+1413,R. Chen,Rosana Chen,CDM,Faculty
+1414,P. V. Cheng,Pauline Valerie Cheng,COMP,Student
+1415,M. Kaur,Manjot Kaur,COP,Student
+1416,R. Kaur,Rabina Kaur,COMP,Student
+1417,N. Arora,Nyanika Arora,CPM,Student
+1418,T. Haider,Tasnia Haider,COMP,Student
+1419,C. Jimenez,Christopher Jimenez,CDM,Student
+1420,T. Smith,Tori Smith,COMP,Faculty
+1421,M. R. Ahmed,Mohamed   Radwan Ahmed,COMP,Faculty
+1422,S. Nath,Shilpa Nath,COMP,Student
+1423,D. J. Raz,Dan J. Raz,CHS,Faculty
+1424,A. C. Brady,Adam C.. Brady,COMP,Faculty
+1425,K. M. Middleton,Kevin M. Middleton,COMP,Faculty
+1426,B. Tran,Bao Cong Tran,COMP,Faculty
+1427,M. Rudolph,Michael Rudolph,COMP,Faculty
+1428,J. P. T. Nguyen,Phu Thien. Nguyen,COMP,Faculty
+1429,L. Limfueco,Luke Limfueco,COMP,Student
+1430,G. Yu,Gavin Yu,COMP,Student
+1431,S. Lam,Steven Lam,COMP,Faculty
+1432,E. Nguyen,Elaine Nguyen,COP,Faculty
+1433,M. L. Johnson,Malia L. Johnson,CDM,Faculty
+1434,J. D. Leon,Jilliane De Leon,CVM,Student
+1435,M. Hanna,Merna Hanna,CDM,Student
+1436,J. Zhu,Juanqi (Nikki) Zhu,COP,Faculty
+1437,B. O. S. Bengtsson,Bengt-Ola S. Bengtsson,COMP,Faculty
+1438,G. Gugelchuk,Gary Gugelchuk,COMP,Faculty
+1439,S. Alvarez,Samuel Alvarez,CHS,Student
+1440,P. Vyas,Pankaj Vyas,CGN,Faculty
+1441,J. Seo,Jeongbin Seo,COMP,Student
+1442,D. W. Lee,David W. Lee,COMP,Faculty
+1443,A. Lavi,Alfred Lavi,COMP,Faculty
+1444,D. Castro,Dominador Castro,CHS,Student
+1445,A. Bui,Alysandra Bui,CHS,Student
+1446,S. Hu,Stacy   Hu,CO,Faculty
+1447,Y. Tang,Yin Tang,CDM,Faculty
+1448,R. Leeper,Rick Leeper,COMP,Faculty
+1449,D. Mashiach,Daniel Mashiach,COMP,Student
+1450,J. Wood,Jeremy Wood,COMP,Student
+1451,K. Mccutcheon,Kaitlyn McCutcheon,CVM,Student
+1452,K. Duong,Kim Duong,COMP,Student
+1453,V. Wong,Vicky Wong,CO,Student
+1454,S. E. Davis,Steven Earl. Davis,COMP,Faculty
+1455,S. Morgan,Sally Morgan,CGN,Faculty
+1456,S. J. Lee,Sung June Lee,COMP,Student
+1457,M. H. Lee,Margaret H. Lee,CPM,Faculty
+1458,S. Stewart,Samuel Stewart,COMP,Student
+1459,M. E. K. Wong,Edward K. Wong,GCBS,Faculty
+1460,V. Amin,Vidhi Amin,COMP,Student
+1461,J. Shih,Jeremy Shih,CPM,Student
+1462,M. C. Gupta,Mahesh C.. Gupta,COMP,Faculty
+1463,J. C. Steinmann,John C. Steinmann,CHS,Faculty
+1464,J. Cohen,Jennifer   Cohen,CGN,Faculty
+1465,A. Samples,Alexis Samples,COMP,Student
+1466,A. Garcia,Alina Garcia,CO,Student
+1467,M. Soh,Margaret Soh,CDM,Faculty
+1468,D. Cabrera,Danica Cabrera,COP,Student
+1469,M. Choi,Michael Choi,COP,Faculty
+1470,L. M. Oloff,Lawrence M. Oloff,CPM,Faculty
+1471,T. Yang,Tiffany Yang,COMP,Student
+1472,A. Tan,Andrew Tan,COP,Faculty
+1473,S. Frey,Samantha Frey,COMP,Student
+1474,M. Martinez,Mariana Martinez,CVM,Student
+1475,M. Y. Chen,Ming Y. Chen,COMP,Faculty
+1476,R. Michel,Rosemay Michel,CPM,Faculty
+1477,A. Yeh,Andrew Yeh,COMP,Faculty
+1478,M. Hall,Maryanne Hall,CHS,Faculty
+1479,J. Kurtz,Jeremy Kurtz,COMP,Student
+1480,J. T. Pham,John T. Pham,COMP,Faculty
+1481,G. Brennan,Greg Brennan,CVM,Faculty
+1482,J. O. P. Chung,Jennifer P. Chung,CDM,Faculty
+1483,M. Islam,Maha Islam,CDM,Student
+1484,D. Fitzgerald,Danielle Fitzgerald,CDM,Student
+1485,Q. Yu,Qinlin Yu,COMP,Student
+1486,P. Jones,Priscilla Jones,COMP,Student
+1487,L. L. Herman,Linda L. Herman,COMP,Faculty
+1488,S. Zarei,Setareh Zarei,CHS,Student
+1489,F. Nasouri,Farnoush Nasouri,COMP,Student
+1490,M. Pham,Maggie Pham,COMP,Faculty
+1491,F. Iqbal,Fatima Iqbal,COMP,Student
+1492,J. L. Fairley,Jeffrey L Fairley,CHS,Faculty
+1493,N. Vega,Norma Vega,CGN,Student
+1494,N. Kadri,Nadine Kadri,COMP,Student
+1495,W. Nguyen,William Nguyen,CDM,Student
+1496,S. Banerjee,Sudeshna Banerjee,COMP,Faculty
+1497,F. Yu,FengHui Yu,COMP,Student
+1498,R. Zhao,Ruizhuo Zhao,CGN,Student
+1499,O. Orabueze,Ogochukwu Orabueze,COP,Student
+1500,H. L. Chang,Hyewon L. Chang,CO,Faculty
+1501,D. M. Emanuele,Donna M Emanuele,CGN,Faculty
+1502,L. H. P. Nguyen,Loan P. Nguyen,COMP,Faculty
+1503,J. Flores,Jessica Flores,CVM,Student
+1504,W. T. Kirby,William T. Kirby,COMP,Faculty
+1505,W. B. Harer,W. Benson. Harer,COMP,Faculty
+1506,A. Alirezaei,Arash Alirezaei,CDM,Student
+1507,A. Hernandez,Ariana Hernandez,COMP,Student
+1508,M. Sullivan,Mary Sullivan,COMP,Faculty
+1509,J. Elo,Jeffrey Elo,CDM,Faculty
+1510,C. E. A. Chang,Caroline A.. Chang,CDM,Faculty
+1511,J. Gomez,Jerardo Gomez,CHS,Student
+1512,J. Liao,Jenng-Jong Liao,COMP,Faculty
+1513,J. Imbrie,John Imbrie,COMP,Student
+1514,R. M. Cestero,Ramon M. Cestero,COMP,Faculty
+1515,J. C. Young,Jeffrey C. Young,COMP,Faculty
+1516,N. M. Aboukaram,Nada M.. Abou-Karam,COP,Faculty
+1517,S. P. Chawla,Sant P. Chawla,COMP,Faculty
+1518,A. Raja,Ajith Raja,COMP,Student
+1519,C. Steinberg,Craig Steinberg,COP,Faculty
+1520,J. Ledesma,Jennifer Ledesma,COP,Student
+1521,D. Trinh,Daniel Trinh,COMP,Student
+1522,G. Hollands,Gillian   Hollands,CO,Faculty
+1523,R. Gordon,Robert Gordon,CO,Faculty
+1524,J. C. Messenger,John C. Messenger,COMP,Faculty
+1525,M. D. Schwartz,Michael D. Schwartz,COMP,Faculty
+1526,A. Andrade,Amber Andrade,COMP,Student
+1527,J. Kovacs,J. Suzie   Kovacs,CVM,Faculty
+1528,J. Yeam,Joohee Yeam,COMP,Student
+1529,G. Thrush,Gerald Thrush,COMP,Faculty
+1530,J. Hsiou,Joyce Hsiou,COMP,Student
+1531,K. Ha,Ken Ha,COMP,Student
+1532,J. H. Patel,Jignesh H. Patel,COP,Faculty
+1533,C. C. Letherer,Cathy Chang Letherer,CHS,Faculty
+1534,K. Bianco,Kathy   Bianco,CHS,Faculty
+1535,S. H. Kim,Steven H. Kim,COP,Faculty
+1536,J. Abraham,Julie Abraham,COP,Faculty
+1537,N. Hashemi,Nastran Hashemi,COMP,Faculty
+1538,H. King,Hwa-Kou King,COMP,Faculty
+1539,K. T. Nguyen,Khoa T. Nguyen,CDM,Faculty
+1540,M. G. Garoufalis,Mathew G. Garoufalis,CPM,Faculty
+1541,D. L. Johnson,Debra L.. Johnson,CHS,Faculty
+1542,J. Rosen,Joseph Rosen,COMP,Student
+1543,J. L. Mills,Joseph L. Mills,CPM,Faculty
+1544,M. Wang,Michelle Wang,COMP,Student
+1545,A. Bains,Anoopjot Bains,COMP,Student
+1546,D. Chim,David Chim,COMP,Faculty
+1547,P. H. Cheng,Peter H. Cheng,COMP,Faculty
+1548,M. K. Sebzda,Mary K. Sebzda,CVM,Faculty
+1549,N. Tran,Nhi Tran,COP,Student
+1550,A. Sze,Aaron Sze,CHS,Student
+1551,D. Li,Debory Li,COMP,Student
+1552,S. Siddiqi,Shan Siddiqi,COMP,Faculty
+1553,A. Ross,Amy Ross,CVM,Student
+1554,T. T. S. Clair,Tyler St. Clair,COMP,Student
+1555,J. Olson,Jenessa Olson,COMP,Student
+1556,J. Miller,Jordan Miller,COMP,Student
+1557,S. Azad,Sharmeen Azad,COMP,Student
+1558,R. Fu,Rong Fu,CO,Student
+1559,J. Chow,James Chow,COP,Faculty
